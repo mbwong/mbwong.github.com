@@ -3,6 +3,8 @@ tags:
 title: McKinsey Global Institute tackles Big Data
 layout: post
 ---
+# McKinsey Global Institute tackles Big Data
+
 Today I watched Michael Chui’s presentation at Strata 2011 and read the
 McKinsey Global Institute report ["Big data: The next frontier for innovation,
 competition, and productivity ."](http://www.mckinsey.com/Insights/MGI/Researc

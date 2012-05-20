@@ -5,6 +5,8 @@ tags:
 title: Mapping road casualties in the US
 layout: post
 ---
+# Mapping road casualties in the US
+
 Despite Harvard students' tendencies to jaywalk, the area around Harvard
 Square has been fairly devoid of traffic deaths in the past 10 year, according
 to [this powerful map](http://map.itoworld.com/road-casualties-usa) that

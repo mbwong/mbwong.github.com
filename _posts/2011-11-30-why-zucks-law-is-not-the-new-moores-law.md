@@ -7,6 +7,8 @@ tags:
 title: Why Zuck's law is not the new Moore's law
 layout: post
 ---
+# Why Zuck's law is not the new Moore's law
+
 When [Mark Zuckerberg spoke here at
 Harvard](http://articles.cnn.com/2011-11-07/tech/tech_social-media_zuckerberg-
 harvard-speech_1_mark-zuckerberg-facebook-s-zuckerberg-facebook-s-andrew-

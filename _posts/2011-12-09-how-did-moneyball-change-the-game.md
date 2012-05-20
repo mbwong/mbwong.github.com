@@ -3,6 +3,8 @@ tags:
 title: How did Moneyball change the game?
 layout: post
 ---
+# How did Moneyball change the game?
+
 [Tyler Cowen and Kevin Grier](http://www.grantland.com/story/_/id/7328539/the-
 economics-moneyball) write about the econonmics of Moneyball, which by the
 way, was both a fantastic book and a fantastic movie:

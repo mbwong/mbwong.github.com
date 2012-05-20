@@ -5,6 +5,8 @@ tags:
 title: 10 questions to ask before joining a startup
 layout: post
 ---
+# 10 questions to ask before joining a startup
+
 [OnStartups](http://onstartups.com/tabid/3339/bid/122/Joining-A-Startup-Top-6
 -Questions-You-Should-Ask.aspx) has a good post on questions to ask before
 joining a startup. As I tried to decide whether to join a startup as my first

@@ -3,6 +3,8 @@ tags:
 title: Privacy policies and network neutrality
 layout: post
 ---
+# Privacy policies and network neutrality
+
 
 I've been busy with my last semester in college, but here's some stuff that
 I've been reading: 

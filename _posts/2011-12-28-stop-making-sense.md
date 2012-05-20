@@ -3,6 +3,8 @@ tags:
 title: Stop making sense
 layout: post
 ---
+# Stop making sense
+
 [Tyler Cowen](http://marginalrevolution.com/) gave a speech at TED (transcript
 [here](http://lesswrong.com/r/discussion/lw/8w1/transcript_tyler_cowen_on_stor
 ies/)) warning us from thinking too much in stories. He warns against

@@ -3,6 +3,8 @@ tags:
 title: The ethics of crowdsourcing
 layout: post
 ---
+# The ethics of crowdsourcing
+
 Jonathan Zittrain, a prof whom I'm taking a class with, is offering a talk
 "Minds for Sale" about online crowdsourcing and labor market at Harvard today
 at 3pm. Since I wasn't able to attend, I decided to watch the youtube video of

@@ -8,6 +8,8 @@ tags:
 title: Leveraging Google's data for market research
 layout: post
 ---
+# Leveraging Google's data for market research
+
 Check out Google's [Think Insights](http://www.thinkwithgoogle.com/insights/)
 project! It is a neat repository of reports about consumer trends and industry
 research that builds on top of Google's data warehouse.

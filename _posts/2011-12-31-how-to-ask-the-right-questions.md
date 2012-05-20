@@ -3,6 +3,8 @@ tags:
 title: How to ask the right questions
 layout: post
 ---
+# How to ask the right questions
+
 In the workplace, one of the most useful skills to possess is the ability to
 ask the right questions. In my view, questions serve various purposes:
 

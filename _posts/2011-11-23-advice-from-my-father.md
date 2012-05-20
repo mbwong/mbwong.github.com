@@ -3,6 +3,8 @@ tags:
 title: Advice from my father
 layout: post
 ---
+# Advice from my father
+
 A couple days ago, I wrote to my parents to let them know where I've decided
 to work as my first job after college. In response, my father sent me this
 email about making friends and following one's passion.

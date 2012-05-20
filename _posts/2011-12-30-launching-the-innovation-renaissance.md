@@ -3,6 +3,8 @@ tags:
 title: Launching the Innovation Renaissance
 layout: post
 ---
+# Launching the Innovation Renaissance
+
 [Launching the Innovation Renaissance](http://www.amazon.com/Launching-
 Innovation-Renaissance-Market-ebook/dp/B006C1HX24/ref=sr_1_1?s=digital-
 text&ie=UTF8&qid=1324586109&sr=1-1/) is the name of a new book by Alex

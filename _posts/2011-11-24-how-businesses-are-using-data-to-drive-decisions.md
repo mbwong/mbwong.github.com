@@ -5,6 +5,8 @@ tags:
 title: How businesses are using data to drive decisions
 layout: post
 ---
+# How businesses are using data to drive decisions
+
 "The big data boom is the innovation story of our time!" proclaim Erik
 Brynjolfsson and Andrew McAfee of MIT. [Their article in the
 Atlantic](http://www.theatlantic.com/business/archive/2011/11/the-big-data-

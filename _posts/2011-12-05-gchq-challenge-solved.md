@@ -3,6 +3,8 @@ tags:
 title: GCHQ Challenge Solved!
 layout: post
 ---
+# GCHQ Challenge Solved!
+
 No, not by me. But by [Dr Gareth Owen](http://www.gre.ac.uk/schools/engineerin
 g/contact/staff_directory/Profiles/OwenGareth) of Greenwich.
 

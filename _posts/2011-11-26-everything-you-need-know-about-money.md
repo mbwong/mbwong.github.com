@@ -5,6 +5,8 @@ tags:
 title: Everything you need know about money
 layout: post
 ---
+# Everything you need know about money
+
 ![](http://media.tumblr.com/tumblr_lv7bwi25IX1r3oiuq.png)
 
 I am loving Randall Munroe's comprehensive new infographic: [Money - A Chart

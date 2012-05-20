@@ -3,6 +3,8 @@ tags:
 title: Framing effect measured on Amazon Mechanical Turk
 layout: post
 ---
+# Framing effect measured on Amazon Mechanical Turk
+
 After I wrote my [term paper](http://mbwong.com/post/14551602641/using-amazon-
 mechanical-turk-for-behavior-experiments) on conducting behavior experiments
 on Amazon Mechnical Turk (posted here), I attempted to replicate [the classic

@@ -3,6 +3,8 @@ tags:
 title: Data analysis lessons from the Greatest Good
 layout: post
 ---
+# Data analysis lessons from the Greatest Good
+
 I spent my past summer at [the Greatest Good](http://greatestgood.com/), a
 consulting boutique headed by Steve Levitt and other Chicago economists. I got
 to work with transaction level data for various companies. It was the first

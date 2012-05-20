@@ -3,6 +3,8 @@ tags:
 title: Jotform seized for user-generated phishing content
 layout: post
 ---
+# Jotform seized for user-generated phishing content
+
 Two days ago, an online form-building start-up Jotform posted a [blog
 post](http://www.jotform.net/blog/45-JotForm-com-Suspended) announcing that:
 

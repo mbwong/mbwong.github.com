@@ -5,6 +5,8 @@ tags:
 title: Why everyone hates on the IT department
 layout: post
 ---
+# Why everyone hates on the IT department
+
 Tom Brewster wrote [an interesting
 article](http://www.pcpro.co.uk/features/371254/why-everyone-hates-the-it-
 department/3) about why IT departments are held in contempt, and why this

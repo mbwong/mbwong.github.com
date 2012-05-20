@@ -3,6 +3,8 @@ tags:
 title: Using Amazon Mechanical Turk for behavior experiments
 layout: post
 ---
+# Using Amazon Mechanical Turk for behavior experiments
+
 This past semester, I took a [fantastic
 course](http://www.seas.harvard.edu/courses/cs186/) with [David Parkes
 ](http://www.eecs.harvard.edu/~parkes/)at Harvard that covered a wide range of

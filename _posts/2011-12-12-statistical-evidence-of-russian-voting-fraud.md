@@ -3,6 +3,8 @@ tags:
 title: Statistical evidence of Russian voting fraud
 layout: post
 ---
+# Statistical evidence of Russian voting fraud
+
 ![](http://2.bp.blogspot.com/-9wJyYHagRbo/TuMibuRO59I/AAAAAAAAAMs/XNFa1uOyZkw/
 s400/ven%25C3%25A4j%25C3%25A4njakaja2003)
 

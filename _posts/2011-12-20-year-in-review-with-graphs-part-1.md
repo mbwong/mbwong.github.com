@@ -3,6 +3,8 @@ tags:
 title: Year in review (with graphs), Part 1
 layout: post
 ---
+# Year in review (with graphs), Part 1
+
 Finals are done and I'm finally back home in Hong Kong. It's time for some
 "year in review". Here are a couple graphs that document the big political
 events of the year. I'll do another post about cultural trends and tech trends

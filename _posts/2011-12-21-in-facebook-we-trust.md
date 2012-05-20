@@ -3,6 +3,8 @@ tags:
 title: In Facebook we trust?
 layout: post
 ---
+# In Facebook we trust?
+
 A couple weeks ago, I wrote a [blog post](http://mbwong.com/2011/11/30/why-
 zucks-law-is-not-the-new-moores-law.html) about how Facebook's "frictionless
 sharing" threatens its user experience. I suggested that Facebook might be

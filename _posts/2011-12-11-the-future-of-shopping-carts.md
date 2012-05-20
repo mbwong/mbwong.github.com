@@ -3,6 +3,8 @@ tags:
 title: The future of shopping carts
 layout: post
 ---
+# The future of shopping carts
+
 HBR has a fascinating a blog post about shopping carts! Apparently, the bigger
 the cart, the more we buy.
 

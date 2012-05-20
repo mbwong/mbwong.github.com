@@ -3,6 +3,8 @@ tags:
 title: Know any good company blogs about data?
 layout: post
 ---
+# Know any good company blogs about data?
+
 Last week, my friend Dave and I chatted about emergence of web 2.0 companies
 like Google and Facebook that sit on so much data containing potential
 insights about human behavior and society.
