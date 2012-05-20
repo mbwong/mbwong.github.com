@@ -1,0 +1,41 @@
+---
+layout: default
+title: Books & Talks
+---
+<h2 id="intro">Projects I've worked on.</h2>
+
+<div class="post">
+
+h1. Code
+
+* _2012_ -- "Unfriendio":http://scratch.mbwong.com/unfriendio
+  Unfriendio identifies your least active friends on Facebook. It runs completely in javascript and gets data directly from the Facebook API without going through third-party servers, so you don't have to worry about anyone snooping on your data. "Github link.":https://github.com/mbwong/unfriendio.html
+
+* _2012_ -- "Place Pulse":http://pulse.media.mit.edu
+  Place Pulse is an MIT Media Lab project that crowdsources surveys to internet participants, asking binary perception questions across a large number of geotagged images. I've been working on the ranking and photo selection algorithms. "Github link.":https://github.com/philsalesses/Place-Pulse
+
+* _2010-2012_ -- "Eventplease":http://eventplease.com
+  My first attempt at a web startup. Eventplease is an online calendar originally made just for Harvard College with the goal of making campus events more accessible and easily shared. 
+
+* _2010_ -- "Harvard Hong Kong Society":http://hhks.org
+  I was president of the Hong Kong Society and I remade the website using Wordpress.
+
+* _2007_ -- "Pelican Online":http://pelican.sps.edu
+  My first website and the first online edition of my high school's newspaper. The website has since been redesigned.
+
+h1. Some older essays
+
+* _Oct 2011_ -- A eulogy for my grandmother
+
+* _2007_ -- Residential Life at St. Paul's School
+  A policy diagnosis for the residential life program at St. Paul's. 
+
+* _2006_ -- The Looks of St. Paul’s 
+  A thought piece on architecture on campus published in the school newspaper. Amongst the various newspaper articles I wrote as a high schooler, this one is closest to my heart. 
+
+* _2003_ -- My application to Philips Exeter Academy at age 14. 
+  "Look out any window in your home. What would you change what you see?" I was rejected, but this remains one of my proudest essays.
+
+
+
+</div>
