@@ -1,6 +1,6 @@
 --- 
 tags: 
-title: "Data analysis lessons from the Greatest Good  "
+title: Data analysis lessons from the Greatest Good
 layout: post
 ---
 I spent my past summer at [the Greatest Good](http://greatestgood.com/), a
