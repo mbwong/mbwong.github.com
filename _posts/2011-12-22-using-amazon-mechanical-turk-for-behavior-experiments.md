@@ -230,14 +230,14 @@ and allow social science to become even closer to a bench science.
 
 **References**
 
-  1. Heer, J and Bostock, M. “Crowdsourcing Graphical Perception: Using Mechanical Turk to Access Visualization Design.” 2010, CHI '10, ACM Press (2010).
-  2. Horton, J.J., Rand, D. G., and Zeckhauser, R.J. “The Online Laboratory,” 2010, Experimental Economics.
-  3. Ipeirotis, P. G, , Paolacci , and G., Chandler J“Running experiments on Amazon Mechanical Turk.” Judgement and Decision Making, 5, 411-419. 
-  4. Kittur, A., Chi, E. H., and Suh, B, “Crowdsourcing user studies with Mechanical Turk,” 2008, Proceeding of the Twenty-sixth annual SIGCHI Confernece on Human Factors in Computing Systems.
-  5. Mao, A., Parkes, D. C., Procaccia, A. D., and Zhang, H. “Human computation and multiagent systems: An algorithmic perspective.” 2011. Proceedings of the Twenty-fifth AAAI Conference on Artificial Intelligence.
-  6. Mason, W. and S. Suri, “Conducting behavioral research on Amazon’s Mechanical Turk,” 2010, Behavior Research Methods, Springer
-  7. Oppenheimer, D. M., Meyvis, T., & Davidenko, N. (2009). Instructional manipulation checks: Detecting satisﬁcing to increase statistical power. Journal of Experimental Social Psychology, 45, 867–872.
-  8. Rand DG*, Arbesman S*, Christakis NA. (2011) Dynamic networks promote cooperation in experiments with humans. PNAS. DOI:10.1073/pnas.1108243108
-  9. Tversky, A and D. Kahneman, “The Framing of Decisions and the Psychology of Chocie,” Science, 1981, 211(4481), 453
-  10. Zhu, D. and Carterette, B, “An analysis of assessor behavior in crowdsourced preference judgments”, 2010, Proceedings of the ACM SIGIR 2010 Workshop on Crowdsourcing for Search Evaluation (CSE 2010). 
+1. Heer, J and Bostock, M. “Crowdsourcing Graphical Perception: Using Mechanical Turk to Access Visualization Design.” 2010, CHI '10, ACM Press (2010).
+2. Horton, J.J., Rand, D. G., and Zeckhauser, R.J. “The Online Laboratory,” 2010, Experimental Economics.
+3. Ipeirotis, P. G, , Paolacci , and G., Chandler J“Running experiments on Amazon Mechanical Turk.” Judgement and Decision Making, 5, 411-419. 
+4. Kittur, A., Chi, E. H., and Suh, B, “Crowdsourcing user studies with Mechanical Turk,” 2008, Proceeding of the Twenty-sixth annual SIGCHI Confernece on Human Factors in Computing Systems.
+5. Mao, A., Parkes, D. C., Procaccia, A. D., and Zhang, H. “Human computation and multiagent systems: An algorithmic perspective.” 2011. Proceedings of the Twenty-fifth AAAI Conference on Artificial Intelligence.
+6. Mason, W. and S. Suri, “Conducting behavioral research on Amazon’s Mechanical Turk,” 2010, Behavior Research Methods, Springer
+7. Oppenheimer, D. M., Meyvis, T., & Davidenko, N. (2009). Instructional manipulation checks: Detecting satisﬁcing to increase statistical power. Journal of Experimental Social Psychology, 45, 867–872.
+8. Rand DG*, Arbesman S*, Christakis NA. (2011) Dynamic networks promote cooperation in experiments with humans. PNAS. DOI:10.1073/pnas.1108243108
+9. Tversky, A and D. Kahneman, “The Framing of Decisions and the Psychology of Chocie,” Science, 1981, 211(4481), 453
+10. Zhu, D. and Carterette, B, “An analysis of assessor behavior in crowdsourced preference judgments”, 2010, Proceedings of the ACM SIGIR 2010 Workshop on Crowdsourcing for Search Evaluation (CSE 2010). 
 

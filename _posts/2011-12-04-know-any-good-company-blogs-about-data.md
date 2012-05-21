@@ -21,7 +21,7 @@ Do you know any good company blogs about data? Please share if you do!
 
 **Addendum:** Found a couple!
 
-  * [Infochimps](http://blog.infochimps.com/)
-  * [Stamen](http://content.stamen.com/)
-  * [Dataspora](http://www.dataspora.com/blog/)
+* [Infochimps](http://blog.infochimps.com/)
+* [Stamen](http://content.stamen.com/)
+* [Dataspora](http://www.dataspora.com/blog/)
 

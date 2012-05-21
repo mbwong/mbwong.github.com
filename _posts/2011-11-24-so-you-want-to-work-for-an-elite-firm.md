@@ -14,13 +14,13 @@ findings](http://www.sciencedirect.com/science/article/pii/S027656241000065X)
 about the recruiting process at elite law firms, investment banks, and
 management consulting firms. Here's how you make it:
 
-  1. Go to Harvard or Princeton. Elite firms focus their candidate search at only the most prestigious schools. "Public ivies" such as UMich or Berkeley don't get nearly as much attention.
+1. Go to Harvard or Princeton. Elite firms focus their candidate search at only the most prestigious schools. "Public ivies" such as UMich or Berkeley don't get nearly as much attention.
 
-  2. Do the right kind of extracurriculars. Be a varsity athlete. Climb Everest. Tour Asia as a concert pianist. Be unique in the right way. Do things that signal work ethic, sociability, and drive.
+2. Do the right kind of extracurriculars. Be a varsity athlete. Climb Everest. Tour Asia as a concert pianist. Be unique in the right way. Do things that signal work ethic, sociability, and drive.
 
-  3. Maintain a good GPA. Grades matter, but just as a cutoff.
+3. Maintain a good GPA. Grades matter, but just as a cutoff.
 
-  4. Follow the same path as people who made it. Evaluators have a lot of slack and they tend to recruit people who are similar to themselves.
+4. Follow the same path as people who made it. Evaluators have a lot of slack and they tend to recruit people who are similar to themselves.
 
 Below is a chart describing the most important signals to employers. Notice
 that extracurriculars are more important than grades!

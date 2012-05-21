@@ -9,9 +9,9 @@ Two days ago, an online form-building start-up Jotform posted a [blog
 post](http://www.jotform.net/blog/45-JotForm-com-Suspended) announcing that:
 
 > As a part of an ongoing investigation about a content posted in our site, a
-US government agency has temporarily suspended
-our[jotform.com](http://jotform.com/) domain. We are fully cooperating with
-them, but it is not possible to say when the domain would be unblocked.
+> US government agency has temporarily suspended
+> our[jotform.com](http://jotform.com/) domain. We are fully cooperating with
+> them, but it is not possible to say when the domain would be unblocked.
 
 It seems that many users are angry at Jotform for having content that led to
 the seizure, even though the supposedly infringing content is suggested to be

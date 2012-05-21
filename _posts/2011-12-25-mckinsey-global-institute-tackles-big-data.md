@@ -19,12 +19,12 @@ Here are my notes:
 Big data will be the basis of competition and driver of growth for many
 business. Why?
 
-  * It creates transparency
-  * It enables experimentation
-  * It exposes variation (and thereby improves performance)
-  * It allows for segmentation and customization
-  * It allows for automatic decision-making (e.g. algorithmic approaches to pricing)
-  * It allows for innovation (which can then be monetized)
+* It creates transparency
+* It enables experimentation
+* It exposes variation (and thereby improves performance)
+* It allows for segmentation and customization
+* It allows for automatic decision-making (e.g. algorithmic approaches to pricing)
+* It allows for innovation (which can then be monetized)
 
 Which sectors have the biggest growth in data? - Healthcare, energy, retail,
 utilities, security.
@@ -41,10 +41,10 @@ Where is the data?
 
 What are the many challenges?
 
-  * Data policies – privacy, security, IP
-  * Access to data – allows for combining datasets, e.g. healthcare
-  * Technologies
-  * Organizational change and talent
+* Data policies – privacy, security, IP
+* Access to data – allows for combining datasets, e.g. healthcare
+* Technologies
+* Organizational change and talent
 
 There will be a huge shortfall of talent!
 
@@ -52,17 +52,17 @@ There will be a huge shortfall of talent!
 
 What companies benefit the most from big data? - depends on:
 
-  * Amount of data
-  * Variability in performance
-  * Customer and supplier intensity
-  * Transaction intensity
-  * Turbulance
+* Amount of data
+* Variability in performance
+* Customer and supplier intensity
+* Transaction intensity
+* Turbulance
 
 What should organization leaders do?
 
-  * Inventory datasets - proprietary, public, purchased
-  * Identify value creation opportunities and threats
-  * Building internal capability (talent and culture)
-  * Strategy for developing IT capabilities
-  * Address data policy issues
+* Inventory datasets - proprietary, public, purchased
+* Identify value creation opportunities and threats
+* Building internal capability (talent and culture)
+* Strategy for developing IT capabilities
+* Address data policy issues
 
