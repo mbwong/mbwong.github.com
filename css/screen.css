@@ -133,18 +133,14 @@ header {
   margin-top: 24pt;
 }
 
-#subtitle, #title { color: #ddd; }
+#title { color: #ddd; }
 
-#subtitle a, #title a {
+#title a {
   color: #2E6E9E;
 }
 
-#subtitle {
-  font-size: 18pt;
-}
-
 #title {
-  font-size: 24pt;
+  font-size: 16pt;
 }
 
 #wrapper {
