@@ -13,7 +13,7 @@ body {
 }
 
 a:link {
-  color: #336699;
+  color: #2E6E9E;
   text-decoration: none;
 }
 a:visited {
@@ -21,7 +21,7 @@ a:visited {
   text-decoration: none;
 }
 a:hover {
-  color: #336699;
+  color: #2E6E9E;
   text-decoration: underline;
 }
 
@@ -129,7 +129,7 @@ header, footer, nav, article { display: block; }
   margin-top: 24pt;
 }
 
-#subtitle, #title { color: #333; }
+#subtitle, #title { color: #333; background-color: black; }
 
 #subtitle {
   font-size: 24pt;
