@@ -7,7 +7,7 @@
 body {
   background-color: #FFF;
   color: #222;
-  font-family: 'Times New Roman', 'Times', serif;
+  font-family: 'Georgia', 'Times New Roman', 'Times', serif;
   line-height: 1.4em;
   margin: 0px auto 18px 0px;
 }
@@ -31,7 +31,6 @@ blockquote {
   border-left: 1px solid #222;
   line-height: 18px;
   font-size: 11pt;
-  font-style: italic;
   margin: 20px;
   padding-left: 10px;
 }
