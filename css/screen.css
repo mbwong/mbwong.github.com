@@ -139,6 +139,10 @@ header {
   color: #FFF;
 }
 
+#title a:hover {
+  color: #2E6E9E;
+}
+
 #title {
   font-size: 18pt;
   font-family: 'DejaVu Sans Mono', 'Courier New', monospace;
