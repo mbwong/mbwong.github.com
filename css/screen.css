@@ -9,7 +9,7 @@ body {
   color: #222;
   font-family: 'Times New Roman', 'Times', serif;
   line-height: 1.4em;
-  margin: 20px auto 18px 25%;
+  margin: 0px auto 18px 25%;
 }
 
 a:link {
@@ -77,7 +77,10 @@ ul { list-style-type: square; }
 /* html5 */
 header, footer, nav, article { display: block; }
 
-header { background-color: black; }
+header { 
+  padding: 20px 100% 20px 100%;
+  background-color: black; 
+}
 
 /* classes */
 .book-cover {
