@@ -9,7 +9,7 @@ body {
   color: #222;
   font-family: 'Times New Roman', 'Times', serif;
   line-height: 1.4em;
-  margin: 0px auto 18px 25%;
+  margin: 0px auto 18px 0px;
 }
 
 a:link {
@@ -78,7 +78,7 @@ ul { list-style-type: square; }
 header, footer, nav, article { display: block; }
 
 header { 
-  padding: 20px 100% 20px -100%;
+  padding: 20px 100% 20px 25%;
   background-color: black; 
 }
 
@@ -145,6 +145,7 @@ header {
 }
 
 #wrapper {
+  margin-left: 25%
   max-width: 40em;
   min-width: 30em;
   width: 32em;
