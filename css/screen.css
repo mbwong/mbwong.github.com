@@ -78,7 +78,7 @@ ul { list-style-type: square; }
 header, footer, nav, article { display: block; }
 
 header { 
-  padding: 20px auto 20px 25%;
+  padding: 20px 0px 20px 25%;
   background-color: black; 
 }
 
