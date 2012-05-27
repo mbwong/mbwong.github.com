@@ -150,6 +150,7 @@ header {
 }
 
 #wrapper {
+  padding-top: 30px;
   margin-left: 25%;
   max-width: 40em;
   min-width: 30em;
