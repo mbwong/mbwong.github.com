@@ -1,0 +1,32 @@
+---
+layout: default
+title: Books & Talks
+---
+<h2 id="intro">My favorite writing by others.</h2>
+
+<div class="post">
+
+* David Foster Wallace, _Commencement Speech at Kenyon College_
+
+* _An Interview with Dave Eggers_
+
+* Drew Gilpin Fault, 2012 Baccalaureate Service: “The updraft of inexplicable luck”
+  This was the speech given by the Harvard University president at my graduation. 
+
+</div>
+
+<h2 id="intro">Some of my offline writing</h2>
+
+<div class="post">
+
+* _Oct 2011_ -- A eulogy for my grandmother
+
+* _2007_ -- Residential Life at St. Paul's School
+  A policy diagnosis for the residential life program at St. Paul's. 
+
+* _2006_ -- The Looks of St. Paul’s 
+  A thought piece on architecture on campus published in the school newspaper. Amongst the various newspaper articles I wrote as a high schooler, this one is closest to my heart. 
+
+* _2003_ -- My application to Philips Exeter Academy at age 14. 
+
+</div>
