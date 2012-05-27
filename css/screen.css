@@ -139,17 +139,17 @@ header h1 {
   margin-top: 24pt;
 }
 
-#title { color: #DDD; }
+header { color: #DDD; }
 
-#title a {
+header a {
   color: #FFF;
 }
 
-#title a:hover {
+header a:hover {
   color: #2E6E9E;
 }
 
-#title {
+header {
   font-size: 18pt;
   font-family: 'DejaVu Sans Mono', 'Courier New', monospace;
 }

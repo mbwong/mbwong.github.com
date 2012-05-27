@@ -2,7 +2,20 @@
 layout: default
 title: About
 ---
-<h2 id="intro">About the author and this site.</h2>
+<h2 id="intro">Contact</h2>
+<div class="post">
+
+You can find me on a variety of social web sites; my username is either "mbwong" or "berlinwong". Alphabetically:
+
+* "GitHub":http://github.com/mbwong -- code, waiting for you to improve it.
+* "LinkedIn":http://www.linkedin.com/pub/michael-wong/25/547/850 -- all business.
+* "Twitter":http://twitter.com/mbwong -- brief status updates and observations.
+
+Feel free to email me. Please write <a href="mailto:berlin.wong@gmail.com">berlin.wong@gmail.com</a>.
+
+</div>
+
+<h2 id="intro">About me</h2>
 
 <div class="post">
 
@@ -20,11 +33,4 @@ My politics are best described as pragmatic. Broadly speaking, I am a social lib
 
 The design of this site is based on "Alex Payne's website":http://al3x.net. I currently host this website using github and use the "Jekyll":http://github.com/mojombo/jekyll/tree/master static site generation system. 
 
-You can find me on a variety of social web sites; my username is either "mbwong" or "berlinwong". Alphabetically:
-
-* "GitHub":http://github.com/mbwong -- code, waiting for you to improve it.
-* "LinkedIn":http://www.linkedin.com/pub/michael-wong/25/547/850 -- all business.
-* "Twitter":http://twitter.com/mbwong -- brief status updates and observations.
-
-Feel free to email me. Please write <a href="mailto:berlin.wong@gmail.com">berlin.wong@gmail.com</a>.
 </div>
