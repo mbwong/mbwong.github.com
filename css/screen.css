@@ -78,8 +78,13 @@ header, footer, nav, article { display: block; }
 
 header { 
   padding: 0px 0px 0px 25%;
-  position: absolute;
+  position: fixed;
+  width: 100%;
   background-color: black; 
+}
+
+header h1 {
+  margin-bottom: 0px;
 }
 
 /* classes */
