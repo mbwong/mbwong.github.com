@@ -1,9 +1,9 @@
 --- 
 tags: 
-title: Year in review (with graphs), Part 1
+title: Year in review (with graphs)
 layout: post
 ---
-# Year in review (with graphs), Part 1
+# Year in review (with graphs)
 
 Finals are done and I'm finally back home in Hong Kong. It's time for some
 "year in review". Here are a couple graphs that document the big political

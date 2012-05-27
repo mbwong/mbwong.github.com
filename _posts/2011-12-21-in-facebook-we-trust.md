@@ -17,10 +17,10 @@ friction/) believes that automation of trust itself is problematic, and
 removing friction leads to the loss of trust, and hence value.
 
 > Automatic attribution given by a computer system, does not replace the
-manual credit given by another human being. Attribution, turns out, is a
-useful piece of information given by a system, while credit given by a person,
-is a signal of appreciation, one that is expected and that cannot be
-automated.
+> manual credit given by another human being. Attribution, turns out, is a
+> useful piece of information given by a system, while credit given by a person,
+> is a signal of appreciation, one that is expected and that cannot be
+> automated.
 
 I agree that human generated signals are important, but I wonder: Are
 "frictionless" signals really useless? I think it's still too early to say. We

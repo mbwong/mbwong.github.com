@@ -12,8 +12,6 @@ h/Technology_and_Innovation/Big_data_The_next_frontier_for_innovation) I
 figured someone might find it useful to see my notes here. It's a comprehesive
 overview of what C-level executives should know about big data.
 
-Here's the video:
-
 Here are my notes:
 
 Big data will be the basis of competition and driver of growth for many
