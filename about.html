@@ -1,0 +1,17 @@
+---
+layout: default
+title: Online Writing
+---
+<h2 id="intro">This is Michael's homepage.</h2>
+  <div class="post">
+  <p>I am currently employed at <a href="http://predictivetechonologies.com">Applied Predictive Technologies</a>. This website contains some of <a href="/archive.html">my writing</a>, a catalog of <a href="/projects.html">code I've written</a>, and my favorite things.   
+  </div>
+<h2 id="intro">The five most recent posts.</h2>
+{% for post in site.posts limit:5 %}
+  <div class="post">
+  {{ post.content }}
+  <p class="signoff">
+    &mdash;<a href="{{ post.url }}">{{ post.date | date: "%b %d, %Y" }}</a>
+  </p>
+  </div>
+{% endfor %}
