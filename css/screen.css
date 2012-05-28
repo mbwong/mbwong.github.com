@@ -161,3 +161,14 @@ header h1 {
   min-width: 30em;
   width: 36em;
 }
+
+@media handheld { 
+  header {
+    padding-right: 0;
+  }
+
+  #wrapper {
+    margin-left: 0;
+  }
+} 
+
