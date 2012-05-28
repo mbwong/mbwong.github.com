@@ -6,8 +6,8 @@ title: Books & Talks
 
 <div class="post">
 
-* _2012_ -- "Unfriendio":http://scratch.mbwong.com/unfriendio
-  Unfriendio identifies your least active friends on Facebook. It runs completely in javascript and gets data directly from the Facebook API without going through third-party servers, so you don't have to worry about anyone snooping on your data. "Github link.":https://github.com/mbwong/unfriendio.html
+* _2012_ -- "Unfriendio":http://scratch.mbwong.com/unfriendio.html
+  Unfriendio identifies your least active friends on Facebook. It runs completely in javascript and gets data directly from the Facebook API without going through third-party servers, so you don't have to worry about anyone snooping on your data. "Github link.":https://github.com/mbwong/unfriendio
 
 * _2012_ -- "Place Pulse":http://pulse.media.mit.edu
   Place Pulse is an MIT Media Lab project that crowdsources surveys to internet participants, asking binary perception questions across a large number of geotagged images. I've been working on the ranking and photo selection algorithms. "Github link.":https://github.com/philsalesses/Place-Pulse

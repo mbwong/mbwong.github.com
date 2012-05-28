@@ -162,7 +162,7 @@ header h1 {
   width: 36em;
 }
 
-@media handheld { 
+@media handheld, @media only screen and (max-device-width: 480px) { 
   header {
     padding-right: 0;
   }
