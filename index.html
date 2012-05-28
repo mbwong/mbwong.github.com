@@ -2,14 +2,24 @@
 layout: default
 title: Online Writing
 ---
-<h2 id="intro">This is Michael's homepage.</h2>
   <div class="post">
   <p>Thanks for visiting! <a href="/about.html">Here</a> is a bit about me. Read <a href="/archive.html">my writing</a> or <a href="/projects.html">code I've written</a>.   
   </div>
-<h2 id="intro">My five most recent posts.</h2>
+<h2 id="intro">What I've been up to.</h2>
   <div class="post">
   <ul>
-  {% for post in site.posts %}
+    <li>
+      Traveling with family.
+    </li>
+    <li>
+      Just graduated! Goodbye, Harvard. You've been good to me.
+    </li>
+  </ul>
+  </div>
+<h2 id="intro">My latest posts.</h2>
+  <div class="post">
+  <ul>
+  {% for post in site.posts limit: 5 %}
     <li>
       {{ post.date | date: "%b %d, %Y"  }} &mdash; <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
