@@ -28,13 +28,13 @@ Harvard also has less a sense of community pride than many other Ivy League scho
 
 Contributing to this culture is the university administration's desire to prevent students from having too much fun. To them Harvard is a place of learning not enjoyment. The adults in charge of student life have grown increasingly distrustful of alcohol. They have also been traditionally distrustful of fraternities and final clubs, which are not recognized as legitimate student groups. This roughly translates into added exclusivity on the part of these unofficial student groups and less inclusive fun for students. 
 
-The truth is many Harvard students prefer and thrive in such a more pressurized culture. We don't feign enjoyment in our pursuit of excellence, and many students including me would rather be able to freely complain about our work and be forced to focus on our work. I know many of us would choose this student culture even if given the choice to pick again. 
+So far it seems pretty bleak, but many Harvard students in reality prefer and thrive in such a pressurized culture. We don't feign enjoyment in our pursuit of excellence, and many students including me would rather be able to freely complain about our work and be forced to focus on our work. I know many of us would choose this student culture even if given the choice to pick again. 
 
 That is not to say that Harvard kids don't party. You will most definitely hear loud music blasting across campus on weekend nights and see skimpily dressed girls wandering around even on the coldest nights. Most of the parties at Harvard happen either in student dorm rooms. There are also parties in the final clubs, the frats, the Crimson, and the Lampoon. Since the final clubs are fairly exclusive, the majority of people on campus will only rarely venture into them. If you want fun, it'll be there. 
 
 ## Advising 
 
-One complaint you often hear about Harvard is that the professors don't care about the undergraduates. While I can see why such a complaint exists, I think it misses the mark. During my time at Harvard, I have met many professors who care very deeply about undergraduate education. For one of my physics seminar, I had 15 minutes one-on-one feedback sessions after each of my presentations with my professor. When I spent a summer working in Prof. Hoffman's lab, I met with her every day to discuss my work. 
+One complaint you often hear about Harvard is that the professors don't care about the undergraduates. While I can see why such a complaint exists, I think it misses the mark. During my time at Harvard, I have met many professors who care very deeply about undergraduate education. For one of my physics seminar, I had 15 minutes one-on-one feedback sessions with my professor (a tenured professor) after each of my class presentations. When I spent a summer working in Prof. Hoffman's lab, I met with her every day to discuss my work. 
 
 Of course, you will not always be able to easily make an appointment with any professor, because some are literally too busy saving the world. Whether you find yourself getting to know your professors depends on many things: your department, your personality, the effort you make, whether you take the right kind of classes, and your luck. But the truth is that you'll have plenty of opportunities to get to know your professors. Many professors are eager to teach you things. You just have to meet them half way by actively planning and also putting in some effort. 
 
@@ -70,4 +70,4 @@ For almost all kinds of careers, Harvard will be able to open doors for you. How
 
 ## Finally
 
-You can't go wrong with Harvard. If you're not sure what you want to do with your life, Harvard is the perfect place to explore all the possibilities. I've loved my experience here and I know that it has prepared me well for entering the world. 
+You can't go wrong with Harvard. If you're not sure what you want to do with your life, Harvard is the perfect place to explore all the possibilities and I know that it has prepared me well for entering the world. 
