@@ -32,7 +32,7 @@ Contributing to this culture is the university administration's desire to preven
 
 That is not to say that Harvard kids don't party. You will most definitely hear loud music blasting across campus on weekend nights and see skimpily dressed girls wandering around even on the coldest nights. Most of the parties at Harvard happen either in student dorm rooms. There are also parties in the final clubs, the frats, the Crimson, and the Lampoon. If you want fun, it'll be there. 
 
-Indeed many Harvard students have a work hard, play hard mentality. Many of us genuinely prefer and thrive in a pressurized environment. We don't feign enjoyment in our pursuit of excellence, and many students including me would rather be able to freely complain about our work and be forced to focus on our work. It is simply how we function. 
+Many Harvard students have a work hard, play hard mentality. Many of us genuinely prefer and thrive in a pressurized environment. We don't feign enjoyment in our pursuit of excellence, and many students including me would rather be able to freely complain about our work and be forced to focus on our work. It is simply how we function. 
 
 ## Advising 
 
