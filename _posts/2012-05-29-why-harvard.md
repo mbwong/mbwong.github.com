@@ -20,7 +20,9 @@ Another often-mentioned pro is our proximity to the beautiful city of Boston. In
 
 ## Student Life and Culture
 
-From the outside, Harvard looks beautiful. Inside, many dorms are rather run down and old, though they are still quite livable. (The Houses are currently undergoing renovations, so this may change quickly.) If you are lucky, you may even get housed in an 18th floor single that overlooks Boston or have a common room large enough to host parties night after night. Generally students spend a lot of time in dining halls, which not only serves as a cafeteria but also form open spaces for studying and gathering until wee hours of the night. Overall, the dorm food is edible but mediocre. 
+From the outside Harvard looks beautiful. Inside, many dorms are rather run down and old, but still quite livable. If you are lucky, you may even get housed in an 18th floor single that overlooks Boston or have a common room large enough to host parties night after night. As I write, the Houses are beginning renovations so they may soon be spanking new again. 
+
+Generally students spend a lot of time in dining halls, which not only serves as a cafeteria but also form open spaces for studying and gathering until wee hours of the night. Overall, the dorm food is edible but mediocre. 
 
 As a community of high achievers, we are rather unafraid to display our ambitions. My friends at other schools have told me that Harvard students stand out by their confidence and how comfortable they are in their skin. Indeed we take pride in overworking and constantly complain about our overcommitment. On campus, we make few attempts to hide our ambitions in order to fit in. Sometimes we will take ourselves too seriously and sometimes we Harvard kids just don't know how to have fun. A student culture that highly values achievement can also be rather highly strung. You will most likely feel stressed out by class work for the majority of your time here, because of either your own ambition or your friends'. 
 
