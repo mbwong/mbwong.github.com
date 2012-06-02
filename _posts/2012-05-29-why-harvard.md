@@ -8,7 +8,9 @@ layout: post
 
 I've often been asked by prospective students to offer advice when deciding whether to attend Harvard. This kind of advice is not easy to give. How does one possibly condense the complexity of the college experience into a mere few sentences? 
 
-An easy answer is "just go to Harvard". After all I had a fantastic experience personally. It's also consistently ranked number 1 or 2 school in the US and the world. You can hardly go wrong. But, I'd like to give a better sense of what the life of a Harvard undergrad is like. What does a Harvard education mean? What is it actually like to study at Harvard? Now that I've graduated, I had better write my thoughts down before my memory of the past four years begins to fade.  
+An easy answer is "just go to Harvard". After all I had a fantastic experience personally. It's also consistently ranked number 1 or 2 school in the US and the world. You can hardly go wrong. But I'd like to give a better sense of what the life of a Harvard undergrad is like. What does a Harvard education mean? What is it actually like to study at Harvard? Now that I've graduated, I had better write my thoughts down before my memory of the past four years begins to fade.  
+
+What follows is a rant about the things you should expect in your four years at Harvard.
 
 ## The Best Things
 
@@ -16,7 +18,7 @@ The most amazing thing about Harvard is the people. It's cliche but it's true. H
 
 At Harvard, you will also find the most amazing resources in terms of learning, research, and also networking for your future career. If you need to know about a topic, you have the world's leading experts just a couple doors down; you have one of the largest libraries in the world; you have some of the world's best research facilities. Our alumni reach far and wide: from Hollywood to finance to publishing to marketing. Almost anywhere you go around the globe, doors will open for you simply because you go or went to Harvard. These benefits are perhaps the most often-mentioned pro of going to Harvard, and they are generally true as well. 
 
-Another often-mentioned pro is our proximity to the beautiful city of Boston. In truth many Harvard students only occasionally venture into Boston even though it is only a couple subway stops away. What Harvard students will undoubtedly enjoy is Harvard Square, which has enough quirky restaurants, bars, cultural activities, and shopping (though quite over-priced) to keep things interesting. I know that I will miss the bookstores and the cafes when I'm elsewhere next year. 
+Another often-mentioned pro is our proximity to the city of Boston. In truth many Harvard students only occasionally venture into Boston even though it is only a couple subway stops away. What Harvard students will undoubtedly enjoy is Harvard Square, which has enough quirky restaurants, bars, cultural activities, and shopping (though quite over-priced) to keep things interesting. It's really one of the best college towns ever. I will miss the bookstores and the cafes immensely when I'm elsewhere next year. 
 
 ## Student Life and Culture
 
@@ -38,7 +40,7 @@ Many Harvard students have a work hard, play hard mentality. Many of us genuinel
 
 One complaint you often hear about Harvard is that the professors don't care about the undergraduates. While I can see why such a complaint exists, I think it misses the mark. During my time at Harvard, I have met many professors who care very deeply about undergraduate education. For one of my physics seminar, I had 30 minutes one-on-one feedback sessions with my professor after each of my class presentations. When I spent a summer working in Prof. Hoffman's lab, I met with her every day to discuss my work. 
 
-Of course, you will not always be able to easily make an appointment with any professor, because some are literally too busy saving the world. Whether you find yourself getting to know your professors depends on many things: your department, your personality, the effort you make, whether you take the right kind of classes, and your luck. But the truth is that you'll have plenty of opportunities to get to know your professors. Many professors are eager to teach you things. You just have to meet them half way by actively planning and also putting in some effort. 
+No, you will not always be able to easily make an appointment with any professor, because some are literally too busy saving the world. Whether you find yourself getting to know your professors depends on many things: your department, your personality, the effort you make, whether you take the right kind of classes, and your luck. But the truth is that you'll have plenty of opportunities to get to know your professors. Many professors are eager to teach you things. You just have to meet them half way by actively planning and also putting in some effort. 
 
 The reason why people might think that professors don't care about undergraduates is because the advising system at Harvard leaves much to be desired. The college administration often feels like a gigantic bureaucracy that is too inhuman to deal with. Your concerns are easily lost within this bureaucracy. As a freshman, you will hear all sorts of terse general advice, but few adults will actually take the time to get to know you and cater their advice to you. Most adults just tell you to do the things that works for themselves, instead of walking through how you should think about life and career as you grow and learn. If you're a person not so sure about your direction, Harvard's advising system won't help you much. 
 
@@ -62,14 +64,14 @@ Then you begin to worry about your future after Harvard. You scramble for a juni
 
 ## Why you might not want to go to Harvard
 
-For almost all kinds of careers, Harvard will be able to open doors for you. However, Harvard is not perfect in every regard. There are a couple reasons you might consider going to another school instead. 
+For almost all kinds of careers, Harvard will be able to open doors for you. But Harvard is not perfect in every regard. There are a couple reasons you might consider going to another school instead. 
 
 1. You have a passion for making things, such art, software, buildings, rockets. This is your calling. You want to do this forever and never look back. Then other places may offer more opportunities for you -- e.g. an acting school or a tech school. Harvard is an incredibly cerebral place and is not so good at the hands-on aspect of things. 
 
-2. You know you want to start a company right after you graduate. And no you don't really want to keep your options open. Then other places like Stanford may offer more opportunities and connections for you. The entrepreneurial spirit and community is growing at Harvard, but it's still nascent. 
+2. You know you want to start a company right after you graduate. And no you don't really want to keep your options open. Then other places like Stanford may offer slightly more opportunities and connections for you. The entrepreneurial spirit and community is growing at Harvard, but it's still nascent. 
 
 3. You really don't think you'll thrive in a stress-filled environment. Mind you, if you're accepted to Harvard, fun is probably not the only thing you're looking for; you'll probably handle a pressurize environment pretty well. Even though the Harvard experience is designed to challenge some of the smartest people of your generation, I honestly believe that very few Harvard admits couldn't handle the challenge. Still, if you really want a more nurturing and less intimidating environment, go to a smaller liberal arts college instead. 
 
-## Finally
+## Conclusion
 
-You can't go wrong with Harvard. If you're not sure what you want to do with your life, Harvard is the perfect place to explore all the possibilities and I know that it has prepared me well for entering the world. 
+You can't go wrong with Harvard. At the very least, you'll have made some smart friends and given yourself some pretty good branding. If you're not sure what you want to do with your life, Harvard is a good place to explore all the possibilities and I know that it helped me find things I'm passionate about. And when you've discovered what you want to do with your life, Harvard will provide you with the best resources to achieving your goals. 
