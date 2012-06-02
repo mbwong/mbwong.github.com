@@ -8,9 +8,7 @@ layout: post
 
 I've often been asked by prospective students to offer advice when deciding whether to attend Harvard. This kind of advice is not easy to give. How does one possibly condense the complexity of the college experience into a mere few sentences? 
 
-An easy answer is "just go to Harvard". After all I had a fantastic experience personally. It's also consistently ranked number 1 or 2 school in the US and the world. You can hardly go wrong. But I'd like to give a better sense of what the life of a Harvard undergrad is like. What does a Harvard education mean? What is it actually like to study at Harvard? Now that I've graduated, I had better write my thoughts down before my memory of the past four years begins to fade.  
-
-What follows is a rant about the things you should expect in your four years at Harvard.
+An easy answer is "just go to Harvard". After all I had a fantastic experience personally. It's also consistently ranked number 1 or 2 school in the US and the world. You can hardly go wrong. But I'd like to give a better sense of what the life of a Harvard undergrad is like. What does a Harvard education mean? What is it actually like to study at Harvard? Now that I've graduated, I had better write my thoughts down before my memory of the past four years begins to fade. So here's what to expect if you chose to enroll.
 
 ## The Best Things
 
