@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Books & Talks
+title: Projects
 ---
-<h2 id="intro">Code I've written.</h2>
+<h2 id="intro">Projects I've worked on.</h2>
 
 <div class="post">
 
