@@ -97,3 +97,17 @@ After four years in Cambridge, I thought I'd make a list of things that I think 
 * Ten Tables - A very romantic venue with delicious food. 
 
 * Henrietta's Table - My favorite breakfast place. 
+
+## And a couple of practical tips
+
+* Get a credit card - start building your credit score now!
+
+* Use protection. Really. 
+
+* Grades matter, but don't make it all-consuming. 
+
+* Document everything. 
+
+* Befriend professors. They will help you when you need it. 
+
+* Ask for help and get perspective from other people. 
