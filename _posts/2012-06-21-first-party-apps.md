@@ -4,6 +4,8 @@ title: First Party Apps
 layout: post
 ---
 
+# First Party Apps
+
 In the spirit of data portability, I spent a couple weeks developing and exploring the idea of a "first party app" -- an app that makes it easier for users to directly manipulating data from an API without going through third-party servers. 
 
 For example, if you are a Facebook user, you are Facebook's first party. You may want the ability to manipulate, understand, and use your Facebook data in ways that satisfy your needs, and you deserve to do so without others snooping on you. A first party app would allow you to utilize the API of the platform without data going to a third party.
@@ -12,7 +14,7 @@ So far I've made one app that evaluates the feasibility and usefulness of first 
 
 Here is "Unfriendio":http://scratch.mbwong.com/unfriendio.html - your Facebook unfriend finder. 
 
-# Thoughts and progress so far
+## Thoughts and progress so far
 
 Coding purely in Javascript is a new experience for me. There were quite a few surprises along the way. Nonetheless, I was able to code up basic versions of the apps that I envisioned.
 
