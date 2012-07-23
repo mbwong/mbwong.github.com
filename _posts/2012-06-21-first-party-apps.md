@@ -12,7 +12,7 @@ For example, if you are a Facebook user, you are Facebook's first party. You may
 
 So far I've made one app that evaluates the feasibility and usefulness of first party apps as a tool to help users access and use their data. As shown below, I've written a first party Facebook app that runs entirely in the browser and helps you see how active your friends are on Facebook. In this app, data is directly downloaded into your browser from Facebook, so none of your data will go through my server.
 
-Here is "Unfriendio":http://scratch.mbwong.com/unfriendio.html - your Facebook unfriend finder. 
+Here is [Unfriendio](http://scratch.mbwong.com/unfriendio.html) - your Facebook unfriend finder. 
 
 ## Thoughts and progress so far
 
