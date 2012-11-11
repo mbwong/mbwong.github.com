@@ -4,6 +4,8 @@ title: What I learned from Eventplease
 layout: post
 ---
 
+# What I learned from Eventplease
+
 For almost two years, I've worked on an idea we called Eventplease, an online social event calendar for Harvard three friends and I built together. It's been such a thrill to have worked on this project with an amazing group of individuals. I've wanted to write down the experience in some detail and perhaps our experience will be useful for someone who wants to start a company. 
 
 ## Conclusion - Why we failed
