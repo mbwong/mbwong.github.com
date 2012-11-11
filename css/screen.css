@@ -88,6 +88,7 @@ header {
   padding-left: 10%;
   float: fixed;
   width: 20%;
+  align: right;
 }
 
 header h1 {
