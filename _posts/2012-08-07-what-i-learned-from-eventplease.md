@@ -8,12 +8,6 @@ layout: post
 
 For almost two years, I've worked on an idea we called Eventplease, an online social event calendar for Harvard three friends and I built together. It's been such a thrill to have worked on this project with an amazing group of individuals. I've wanted to write down the experience in some detail and perhaps our experience will be useful for someone who wants to start a company. 
 
-## Conclusion - Why we failed
-
-Before I tell you the story of Eventplease, though, I'll tell you my conclusion first, in case you're short on time. 
-
-Most projects fail due to very simple reasons. _For Eventplease, we failed as a business because I, as the de facto leader of the group, got distracted. Basically, I decided I wanted a real job. I didn't feel ready to devote my first year out of college getting this project going._ It's much more nuanced than that, of course. We made a lot of tactical and strategic mistakes along the way: failing to understand our users' behavior, overengineering our product, etc. I'll talk about these in the story below. 
-
 ## The Beginning and Launch
 
 For me, Eventplease started as a hunch I had one morning during the fall semester in 2010. I was a college junior and had begun thinking about starting a business as my interest in computer science and entrepreneurship grew. The hunch was a result of my frustrations with event organization. After struggling with putting together an event for the cultural student group I belonged to, I wanted to solve the pain of advertising around the campus. 
