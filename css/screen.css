@@ -85,10 +85,9 @@ hr {
 header, footer, nav, article { display: block; }
 
 header { 
-  padding: 0px 0px 0px 25%;
-  position: fixed;
-  width: 100%;
-  background-color: black; 
+  padding-left: 10%;
+  float: fixed;
+  width: 20%;
 }
 
 header h1 {
@@ -150,7 +149,7 @@ header h1 {
 #title { color: #DDD; }
 
 #title a {
-  color: #FFF;
+  color: #666;
 }
 
 #title a:hover {
@@ -164,8 +163,8 @@ header h1 {
 
 #wrapper {
   padding-top: 30px;
-  margin-left: 25%;
-  width: 36em;
+  margin-left: 10%;
+  width: 60%;
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2)  { 
