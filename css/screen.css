@@ -88,6 +88,7 @@ header {
   padding-right: 10%;
   float: right;
   width: 20%;
+  position: fixed;
 }
 
 header h1 {
