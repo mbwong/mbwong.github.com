@@ -73,6 +73,12 @@ ul, ol {
 
 ul { list-style-type: square; }
 
+hr {
+  padding: 0 10px 0 0;
+  width: 80%;
+}
+
+
 /* html5 */
 header, footer, nav, article { display: block; }
 
