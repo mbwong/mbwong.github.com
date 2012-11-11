@@ -85,10 +85,9 @@ hr {
 header, footer, nav, article { display: block; }
 
 header { 
-  padding-left: 10%;
-  float: fixed;
+  padding-right: 10%;
+  float: right;
   width: 20%;
-  align: right;
 }
 
 header h1 {
