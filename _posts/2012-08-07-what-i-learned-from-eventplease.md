@@ -14,7 +14,7 @@ Most projects fail due to very simple reasons. _For Eventplease, we failed as a 
 
 ## The Beginning and Launch
 
-For me, Eventplease started as a hunch I had one morning during the fall semester in 2010. I was a college junior and had begun thinking about start a business as my interest in computer science and entrepreneurship grew. The hunch was a result of my frustrations with event organization. After struggling with putting together an event for the cultural student group I belonged to, I wanted to solve the pain of advertising around the campus. 
+For me, Eventplease started as a hunch I had one morning during the fall semester in 2010. I was a college junior and had begun thinking about starting a business as my interest in computer science and entrepreneurship grew. The hunch was a result of my frustrations with event organization. After struggling with putting together an event for the cultural student group I belonged to, I wanted to solve the pain of advertising around the campus. 
 
 As I began think about event publicity, I found that there was also a parallel pain for students who wanted to attend events. I wanted to help them discover events that were interesting. I wanted to create some kind of directory for events on campus, which I believed would get a lot of traffic. 
 
