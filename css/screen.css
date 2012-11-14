@@ -167,6 +167,7 @@ header h1 {
 #wrapper {
   margin-left: 15%;
   width: 53%;
+  max-width: 40em;
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2)  { 
