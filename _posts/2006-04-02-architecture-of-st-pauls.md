@@ -6,6 +6,8 @@ layout: post
 
 #An Architectural History of St. Paul's School
 
+_Originally published in the St. Paul's School student newspaper, The Pelican_
+
 What is St. Paul’s School? Many men and women, though men primarily, have sought to define and redefine this place since the beginning of its existence. Many have long left the school, yet they have also left their marks through their voices and contributions, as well as buildings they erected on school grounds. These marks represent a dialogue passed from generation to generation about our school’s identity. 
 
 The conversation began when the first three boys arrived at the school to realize Dr. Shattuck’s vision. Shattuck feared the corrupting influences of industrialization in the mid-19th century, and sought a place filled with the beauty of nature and withdrawn from the materialistic world, for his sons to spend their teenage years. In 1856, he appointed Dr. Coit to be his missionary to establish that ideal community “exempt from the annoyances and temptations” of urban life. 
