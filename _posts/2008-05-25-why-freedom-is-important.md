@@ -7,7 +7,7 @@ layout: post
 #Why Freedom is Important at St. Paul's School
 
 
-_Originally published inThe Pelican, the student newspaper at St. Paul's School._
+_Originally published in The Pelican, the student newspaper at St. Paul's School._
 
 As I stare at the blank wall of what will soon be someone else's dorm room after I have packed away my belongings and headed off to college, I wonder to myself: Have I taken full advantage of what St. Paul's had to offer?  Can I hit the dusty trail, proudly saying that I have accomplished my mission here?
 
