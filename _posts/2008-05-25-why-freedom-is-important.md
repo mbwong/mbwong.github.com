@@ -6,6 +6,9 @@ layout: post
 
 #Why Freedom is Important at St. Paul's School
 
+
+_Originally published inThe Pelican, the student newspaper at St. Paul's School._
+
 As I stare at the blank wall of what will soon be someone else's dorm room after I have packed away my belongings and headed off to college, I wonder to myself: Have I taken full advantage of what St. Paul's had to offer?  Can I hit the dusty trail, proudly saying that I have accomplished my mission here?
 
 I don't claim to have exhausted all of what St. Paul's has to offer.  However, I do walk away believing that this institution has provided me with the finest secondary education imaginable for me.  The wide spectrum of experiences I have encountered here is far beyond what I would have, had I stayed at home.  The diversity and intellectual energy of the community, the beauty of the physical surroundings, and the remarkable friendships built in Millville have left their mark in my life.  I chose to explore and utilize to the best of my abilities the resources available here—the peers, the teachers, the campus and the facilities—and I reaped the reward.  
