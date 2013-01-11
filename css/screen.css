@@ -75,7 +75,6 @@ ul, ol {
 ul { list-style-type: square; }
 
 hr {
-  margin-left: 20%;
   margin-top: 36px;
   margin-bottom: 36px;
   width: 60%;
@@ -86,8 +85,8 @@ hr {
 header, footer, nav, article { display: block; }
 
 header { 
-  padding-right: 10%;
-  float: right;
+  padding-left: 10%;
+  float: left;
   width: 20%;
 }
 
