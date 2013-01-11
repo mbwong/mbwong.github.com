@@ -86,6 +86,8 @@ hr {
 header, footer, nav, article { display: block; }
 
 header { 
+  text-align: right; 
+  margin-left: 20px;
   padding-left: 10%;
   float: left;
   width: 20%;
