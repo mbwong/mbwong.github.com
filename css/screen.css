@@ -37,7 +37,7 @@ blockquote {
 
 code {
   font-family: 'DejaVu Sans Mono', 'Courier New', monospace;
-  font-size: 12pt;
+  font-size: 11pt;
 }
 
 h1, h2, h3, #footer {
@@ -53,13 +53,13 @@ h1 {
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 20px;
   line-height: 22px;
   margin-bottom: 18px;
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 16px;
   line-height: 22px;
 }
 
@@ -111,12 +111,12 @@ header h1 {
 }
 
 .post p {
-  font-size: 12pt;
+  font-size: 11pt;
   line-height: 26px;
 }
 
 .post .signoff {
-  font-size: 12pt;
+  font-size: 11pt;
   font-style: italic;
   text-align: right;
 }
