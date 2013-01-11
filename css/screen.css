@@ -171,8 +171,8 @@ header h1 {
 }
 
 #wrapper {
-  margin-left: 350px%;
-  width: 550px%;
+  margin-left: 350px;
+  width: 550px;
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2)  { 
