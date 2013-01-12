@@ -175,12 +175,11 @@ header h1 {
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2)  { 
 header {
-  padding-left: 5%;
+  padding-left: 25x;
 }
 
 #wrapper {
-  margin-left: 30%;
-  width : 65%
+  margin-left: 250px;
 }
 } 
 
