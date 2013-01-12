@@ -154,7 +154,6 @@ header h1 {
 
 #title { 
   color: #DDD; 
-  position: fixed;
 }
 
 #title a {
@@ -176,10 +175,6 @@ header h1 {
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2)  { 
-#title { 
-  position: relative;
-}
-  
 header {
   padding-left: 5%;
 }
