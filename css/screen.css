@@ -176,12 +176,16 @@ header h1 {
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2)  { 
-  header {
-    padding-left: 5%;
-  }
+#title { 
+  position: relative;
+}
+  
+header {
+  padding-left: 5%;
+}
 
-  #wrapper {
-    margin-left: 5%;
-  }
+#wrapper {
+  margin-left: 5%;
+}
 } 
 
