@@ -175,7 +175,7 @@ header h1 {
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2)  { 
 header {
-  padding-left: 25x;
+  padding-left: 25px;
 }
 
 #wrapper {
