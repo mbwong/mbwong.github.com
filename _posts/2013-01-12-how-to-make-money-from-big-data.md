@@ -38,7 +38,9 @@ While building a data product is strictly the realm of a technology company, man
 
 ###1. Test and predict effectiveness of business programs 
 
-The availability of much more precise data provides ripe opportunity for executives to experiment and measure causal effects rigorously, and thereby maneuver in a complicated competitive landscape with increased accuracy and confidence. For example, retailers might leverage the availability of data to predict the sales of different clothing styles and colors [zara] before increases, or test the effect of pricing items differently across stores. 
+The availability of much more precise data provides ripe opportunity for executives to experiment and measure causal effects rigorously, and thereby maneuver in a complicated competitive landscape with increased accuracy and confidence. For example, retailers might leverage the availability of data to [predict the sales of different clothing styles[zara] and colors ][zara] before increases, or test the effect of pricing items differently across stores. 
+
+[zara]: http://www.nytimes.com/2012/11/11/magazine/how-zara-grew-into-the-worlds-largest-fashion-retailer.html?pagewanted=all
 
 These optimizations can help a company succeed. Leveraging data to help guide decisions reduces uncertainty about returns for large investments and allows for better operational and strategic decisions. Testing can also help lead a company to its next big idea, just as [it][subway] had led Subway to its signature and incredibly successful $5-footlong. 
 
@@ -46,15 +48,21 @@ These optimizations can help a company succeed. Leveraging data to help guide de
 
 ###2. Target customers and customize offerings
 
-The availability of data also affords businesses the opportunity to target its marketing and products to the right customers. For example, a company can parse through sales patterns to group the appropriate customers together. Just as Wal-Mart had identified the sales patterns of pregnant mothers through its loyalty program, other companies can also use their data to fine-tune and customize their offering. This opportunity is particularly strong for online subscription services. Just think of how Amazon recommends products to the users, or how LinkedIn and Facebook can recommend new friends for you on their networks. They learn the preferences of their users over time, which allows for incredibly specific targeting of offerings. 
+The availability of data also affords businesses the opportunity to target its marketing and products to the right customers. For example, a company can parse through sales patterns to group the appropriate customers together. Just as [Target][target] had identified the sales patterns of pregnant mothers through its loyalty program, other companies can also use their data to fine-tune and customize their offering. This opportunity is particularly strong for online subscription services. Just think of how Amazon recommends products to the users, or how LinkedIn and Facebook can recommend new friends for you on their networks. They learn the preferences of their users over time, which allows for incredibly specific targeting of offerings. 
+
+[target]: http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html?pagewanted=all
 
 ###3. Automate decision-making (i.e. speed!)
 
-Just as hedge funds have leverage data to innovate algorithmic trading, which essentially allows computers to make investment decisions based solely on data, companies can also use data available to automate certain decisions. For example, automate inventory purchasing decisions based on previous sales data. This innovation will allow reduction in human processing time, increasing the speed of responses to changes in the market environment. 
+Just as hedge funds have leverage data to innovate algorithmic trading, which essentially allows computers to make investment decisions based solely on data, companies can also use data available to automate certain decisions. For example, automate inventory purchasing decisions or [pricing][hourly] based on previous sales data. This innovation will allow reduction in human processing time, increasing the speed of responses to changes in the market environment. 
+
+[hourly]: http://www.nytimes.com/2012/12/01/business/online-retailers-rush-to-adjust-prices-in-real-time.html
 
 ###4. Create better incentive alignment (i.e. transparency)
 
-Finally, data offers the possibility of greater transparency within the company. If we see corporate management as a principal-agent problem, then increased availability of data allows us to overcome information asymmetries and lead to overall efficiencies. Data helps manage a company because it makes it easier to track key performance metrics and evaluate the moving parts of a company regularly. It will help identify problems or poorly performing segments early and allow managers to address them quickly. 
+Finally, data offers the possibility of greater transparency within the company. If we see corporate management as a [principal-agent problem][pap], then increased availability of data allows us to overcome information asymmetries and lead to overall efficiencies. Data helps manage a company because it makes it easier to track key performance metrics and evaluate the moving parts of a company regularly. It will help identify problems or poorly performing segments early and allow managers to address them quickly. 
+
+[pap]: http://en.wikipedia.org/wiki/Principal%E2%80%93agent_problem
 
 Of course, there are many prerequisite steps before a company can fully utilize the data they sit on. Developing excellence in data analysis allows a company to get more accurate and powerful insights. Analysts who can dive deep and think fast will help executives understand what is actually happening on the front lines of the company. It is also critical to engender a culture for rigorous testing and targeting, in order to fully leverage the possibilities offered by Big Data.  
 
