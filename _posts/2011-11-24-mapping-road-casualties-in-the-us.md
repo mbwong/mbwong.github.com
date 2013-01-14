@@ -3,7 +3,7 @@ tags: school
 title: Mapping road casualties around Harvard
 layout: post
 ---
-# Mapping road casualties in the US
+# Mapping road casualties around Harvard
 
 Despite Harvard students' tendencies to jaywalk, the area around Harvard
 Square has been fairly devoid of traffic deaths in the past 10 year, according
