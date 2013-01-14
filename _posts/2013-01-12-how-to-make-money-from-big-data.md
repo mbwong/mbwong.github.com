@@ -62,11 +62,13 @@ Finally, a nimble data infrastructure is necessary to process all the data in a 
 
 ##Approach 3. Sell data management, visualization, and analytics as a enterprise service 
 
-This brings me to the final route to capture value in the Big Data age: provide b2b data services in a wide range of data-related service. At the bottom of the stack we have database management and data infrastructure software such as Oracle, Teradata, and IBM. With databases quickly growing in size, innovations in this space and can lead to better and faster products and leave from for disruption. In the middle are various visualization or business intelligence packages. The market in this space is young, fractured, but highly competitive, likely due to the relative easy of enter this market. There are a plethora of solutions targeting at companies large and small. Finally, at the top of stack are software and consulting services focused on analytics of data, such as [APT][[http://predictivetechnologies.com]], optimize.ly, and Mixpanel. What distinguish this approach of making money from data is the company itself does not own the key data. Instead, the data comes from 
+This brings me to the final route to capture value in the Big Data age: provide b2b data services in a wide range of data-related service. At the bottom of the stack we have database management and data infrastructure software such as Oracle, Teradata, and IBM. With databases quickly growing in size, innovations in this space and can lead to better and faster products and leave from for disruption. In the middle are various visualization or business intelligence packages. The market in this space is young, fractured, but highly competitive, likely due to the relative easy of enter this market. There are a plethora of solutions targeting at companies large and small. Finally, at the top of stack are software and consulting services focused on analytics of data, such as [APT][apt], optimize.ly, and Mixpanel. What distinguish this approach of making money from data is that the company itself does not own the key data. Instead, the data comes from the customer. This suggests a unique set of challenges for the business team, such as knowledge about the industry. 
 
 Together, these three approaches will drive billions of dollars of value in the coming decades. I wish you luck!
 
-Full disclosure: I work for [APT][http://predictivetechnologies.com], where we build enterprise software to help companies use Big Data to optimize their business strategy.
+Full disclosure: I work for [APT][apt], where we build enterprise software to help companies use Big Data to optimize their business strategy.
+
+[apt]: http://predictivetechnologies.com
 
 [bd]: http://en.wikipedia.org/wiki/Big_data
 
