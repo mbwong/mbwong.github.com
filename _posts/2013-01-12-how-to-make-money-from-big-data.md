@@ -30,7 +30,7 @@ The road to monetization for data products falls under three rough categories:
 
 3. Drive traffic to somewhere you can monetize: Companies such as Amazon or Netflix have their recommendation engines tells users about products that they might want to buy or movies they might want to watch. Android, Google News, Google Books all help drive traffic to Google Search, whether directly through links or indirectly by boosting Google's brand. 
 
-To build a data product, you'l need a stellar product team and a good user interface. You'll also need to be good at some big data methods (machine learning, graphical methods, recommendation systems, and the like). Eventually you'll also need a group of engineers who are good enough to handle the deluge of data that you'll be processing. If you manage to reach scale, you might even need an in-house data infrastructure team. 
+To build a data product, you'll need a stellar product team and a good user interface. You'll also need to be good at some big data methods (machine learning, graphical methods, recommendation systems, and the like). At some point, especially if you manage to reach scale, you'll also need a group of engineers who are good enough to handle the deluge of data that you'll be processing. 
 
 ##Approach 2. Use data to drive strategy and management at an existing company
 
