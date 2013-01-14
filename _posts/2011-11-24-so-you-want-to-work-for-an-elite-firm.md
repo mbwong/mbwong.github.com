@@ -1,6 +1,5 @@
 --- 
-tags: 
-- career
+tags: career
 title: So you want to work for an elite firm?
 layout: post
 ---
@@ -29,13 +28,13 @@ that extracurriculars are more important than grades!
 Now is this system fair? According to Rivera,
 
 > Admittance and attendance at a prestigious educational institution is
-heavily grounded in an individual’s socio-economic background and that of
-his/her parents (see Bowen & Bok, 1998), partially because of the use of
-extracurricular activities as a criterion of evaluation. The use of time and
-resource-intensive extracurricular involvement at college or graduate school
-by employers, however, has the potential to result in a double ﬁlter on
-socioeconomic status that could signiﬁcantly disadvantage those candidates who
-attend super-elite universities but who come from less afﬂuent backgrounds.
+> heavily grounded in an individual’s socio-economic background and that of
+> his/her parents (see Bowen & Bok, 1998), partially because of the use of
+> extracurricular activities as a criterion of evaluation. The use of time and
+> resource-intensive extracurricular involvement at college or graduate school
+> by employers, however, has the potential to result in a double ﬁlter on
+> socioeconomic status that could signiﬁcantly disadvantage those candidates who
+> attend super-elite universities but who come from less afﬂuent backgrounds.
 
 Indeed, why do recruiters look so fondly on prestigious institutions, gap-year
 travel, or other time- and resource-heavy activities? And why do they care so
