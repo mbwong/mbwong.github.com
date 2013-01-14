@@ -5,17 +5,8 @@ title: Archive
 <h2 id="intro"></h2>
 
 <div class="post">
-  <h2>Blog Archive</h2>
-  <ul style="list-style: none; padding: 0; margin: 0 15px 0 0">
-  {% for post in site.posts %}
-    <li>  
-      <span>{{ post.date | date: "%b %d, %Y"  }}</span> &nbsp;&nbsp;&raquo;&nbsp;&nbsp;  <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-  </ul>
-
   <h2>On Big Data</h2>
-  <ul style="list-style: none; padding: 0; margin: 0 15px 0 0;">
+  <ul style="list-style: none; padding: 0; margin: 0;">
   {% for post in site.tags.data %}
     <li>  
       <span>{{ post.date | date: "%b %d, %Y"  }}</span> &nbsp;&nbsp;&raquo;&nbsp;&nbsp;  <a href="{{ post.url }}">{{ post.title }}</a>
@@ -23,8 +14,8 @@ title: Archive
   {% endfor %}
   </ul>
   
-  <h2>On Society and Technology</h2>
-  <ul style="list-style: none; padding: 0; margin: 0 15px 0 0;">
+  <h2 style="margin-top: 10px">On Society and Technology</h2>
+  <ul style="list-style: none; padding: 0; margin: 0;">
   {% for post in site.tags.society %}
     <li>  
       <span>{{ post.date | date: "%b %d, %Y"  }}</span> &nbsp;&nbsp;&raquo;&nbsp;&nbsp;  <a href="{{ post.url }}">{{ post.title }}</a>
@@ -33,7 +24,7 @@ title: Archive
   </ul>
   
   <h2>On Career</h2>
-  <ul style="list-style: none; padding: 0; margin: 0 15px 0 0;">
+  <ul style="list-style: none; padding: 0; margin: 0;">
   {% for post in site.tags.career %}
     <li>  
       <span>{{ post.date | date: "%b %d, %Y"  }}</span> &nbsp;&nbsp;&raquo;&nbsp;&nbsp;  <a href="{{ post.url }}">{{ post.title }}</a>
@@ -42,7 +33,7 @@ title: Archive
   </ul>
   
    <h2>On School</h2>
-  <ul style="list-style: none; padding: 0; margin: 0 15px 0 0;">
+  <ul style="list-style: none; padding: 0; margin: 0;">
   {% for post in site.tags.school %}
     <li>  
       <span>{{ post.date | date: "%b %d, %Y"  }}</span> &nbsp;&nbsp;&raquo;&nbsp;&nbsp;  <a href="{{ post.url }}">{{ post.title }}</a>
