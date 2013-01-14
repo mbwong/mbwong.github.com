@@ -1,6 +1,5 @@
 --- 
 tags: 
-- internet
 - data
 title: Google+ is about mining user data
 layout: post
