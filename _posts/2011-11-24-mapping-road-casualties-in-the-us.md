@@ -1,6 +1,6 @@
 --- 
-tags: data
-title: Mapping road casualties in the US
+tags: school
+title: Mapping road casualties around Harvard
 layout: post
 ---
 # Mapping road casualties in the US
