@@ -10,11 +10,7 @@ After four years in Cambridge, I thought I'd make a list of things that I think 
 
 ## First, the Harvard things
 
-* Hook up at First Chance Dance _and_ Last Chance Dance
-
 * Skip lecture
-
-* Streak during Primal Scream!
 
 * See the Adam House's underground murals
 
@@ -36,9 +32,9 @@ After four years in Cambridge, I thought I'd make a list of things that I think 
 
 * Write a Crimson op-ed
 
-* Sex in the Widener stacks
+* Housing night
 
-* Get Wasted on Housing night
+* Streak during Primal Scream!
 
 ## Also, venture into Boston...
 
