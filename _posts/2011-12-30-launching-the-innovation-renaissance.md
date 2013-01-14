@@ -1,5 +1,5 @@
 --- 
-tags: 
+tags: economics, data
 title: Launching the Innovation Renaissance
 layout: post
 ---

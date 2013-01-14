@@ -1,5 +1,5 @@
 --- 
-tags: 
+tags: school
 title: Why choose Harvard
 layout: post
 ---

@@ -1,5 +1,5 @@
 --- 
-tags: 
+tags: life, career
 title: What I learned from Eventplease
 layout: post
 ---

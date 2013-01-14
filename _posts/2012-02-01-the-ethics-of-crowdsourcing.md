@@ -1,5 +1,5 @@
 --- 
-tags: 
+tags: data, technology, internet
 title: The ethics of crowdsourcing
 layout: post
 ---

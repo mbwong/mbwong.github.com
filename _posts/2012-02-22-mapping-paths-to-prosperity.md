@@ -1,5 +1,5 @@
 --- 
-tags: 
+tags: data, economics
 title: Mapping paths to prosperity
 layout: post
 ---

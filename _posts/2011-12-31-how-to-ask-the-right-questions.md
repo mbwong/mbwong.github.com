@@ -1,5 +1,5 @@
 --- 
-tags: 
+tags: life, career
 title: How to ask the right questions
 layout: post
 ---

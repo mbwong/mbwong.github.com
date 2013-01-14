@@ -1,5 +1,5 @@
 --- 
-tags: 
+tags: data, internet, technology
 title: First Party Apps
 layout: post
 ---

@@ -1,5 +1,5 @@
 --- 
-tags: 
+tags: internet, data, technology
 title: Jotform seized for user-generated phishing content
 layout: post
 ---

@@ -1,5 +1,5 @@
 --- 
-tags: 
+tags: data, economics, business
 title: McKinsey Global Institute tackles Big Data
 layout: post
 ---

@@ -1,5 +1,5 @@
 --- 
-tags: 
+tags: school
 title: The Harvard Bucket List
 layout: post
 ---

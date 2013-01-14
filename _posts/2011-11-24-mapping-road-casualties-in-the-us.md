@@ -1,7 +1,5 @@
 --- 
-tags: 
-- data
-- data visualization
+tags: data
 title: Mapping road casualties in the US
 layout: post
 ---
