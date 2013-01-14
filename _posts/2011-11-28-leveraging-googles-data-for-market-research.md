@@ -1,10 +1,7 @@
 --- 
 tags: 
 - data
-- running a business
-- internet
-- business analytics
-- online advertising
+- business
 title: Leveraging Google's data for market research
 layout: post
 ---

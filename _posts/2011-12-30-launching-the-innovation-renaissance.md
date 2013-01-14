@@ -1,5 +1,5 @@
 --- 
-tags: economics, data
+tags: economics society
 title: Launching the Innovation Renaissance
 layout: post
 ---

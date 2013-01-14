@@ -1,5 +1,5 @@
 --- 
-tags: data, business
+tags: data business
 title: How to make money from Big Data
 layout: post
 ---

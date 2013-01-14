@@ -1,5 +1,5 @@
 --- 
-tags: 
+tags: society economics technology
 title: Using Amazon Mechanical Turk for behavior experiments
 layout: post
 ---

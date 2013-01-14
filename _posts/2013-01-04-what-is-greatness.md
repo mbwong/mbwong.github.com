@@ -1,5 +1,5 @@
 --- 
-tags: life, personal
+tags: life personal
 title: What is Greatness
 layout: post
 ---

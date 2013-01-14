@@ -1,11 +1,10 @@
 --- 
 tags: 
 - data
-- data visualization
-title: Everything you need know about money
+title: Visualizing money
 layout: post
 ---
-# Everything you need know about money
+# Visualizing money
 
 ![](http://media.tumblr.com/tumblr_lv7bwi25IX1r3oiuq.png)
 

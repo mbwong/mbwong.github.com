@@ -1,5 +1,5 @@
 --- 
-tags: data, economics
+tags: society economics
 title: Mapping paths to prosperity
 layout: post
 ---

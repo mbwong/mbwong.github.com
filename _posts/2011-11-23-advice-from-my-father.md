@@ -1,5 +1,5 @@
 --- 
-tags: 
+tags: career life
 title: Advice from my father
 layout: post
 ---

@@ -1,5 +1,5 @@
 --- 
-tags: 
+tags: data 
 title: How did Moneyball change the game?
 layout: post
 ---

@@ -1,5 +1,5 @@
 --- 
-tags: 
+tags: data business
 title: The future of shopping carts
 layout: post
 ---

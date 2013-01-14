@@ -1,5 +1,5 @@
 --- 
-tags: 
+tags: society technology economics
 title: Framing effect measured on Amazon Mechanical Turk
 layout: post
 ---

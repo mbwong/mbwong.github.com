@@ -1,7 +1,8 @@
 --- 
-tags: 
+tags: data
 title: Know any good company blogs about data?
 layout: post
+published: false
 ---
 # Know any good company blogs about data?
 

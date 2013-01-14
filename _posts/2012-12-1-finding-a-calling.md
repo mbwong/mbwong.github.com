@@ -1,5 +1,5 @@
 --- 
-tags: life, career
+tags: life career
 title: How to find a calling
 layout: post
 ---

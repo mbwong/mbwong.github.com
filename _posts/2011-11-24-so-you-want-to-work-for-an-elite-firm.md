@@ -1,7 +1,6 @@
 --- 
 tags: 
 - career
-- harvard
 title: So you want to work for an elite firm?
 layout: post
 ---

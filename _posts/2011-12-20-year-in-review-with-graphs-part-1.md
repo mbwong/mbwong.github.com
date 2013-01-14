@@ -1,5 +1,5 @@
 --- 
-tags: 
+tags: society
 title: Year in review (with graphs)
 layout: post
 ---

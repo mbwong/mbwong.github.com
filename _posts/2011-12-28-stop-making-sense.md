@@ -1,5 +1,5 @@
 --- 
-tags: life, personal
+tags: life personal
 title: Stop making sense
 layout: post
 ---

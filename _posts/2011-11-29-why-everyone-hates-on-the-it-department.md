@@ -1,7 +1,7 @@
 --- 
 tags: 
-- running a business
-- IT
+- business
+- data
 title: Why everyone hates on the IT department
 layout: post
 ---

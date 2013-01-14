@@ -1,6 +1,6 @@
 --- 
 tags: 
-- business analytics
+- business 
 - data
 title: How businesses are using data to drive decisions
 layout: post

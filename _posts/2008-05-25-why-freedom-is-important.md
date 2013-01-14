@@ -1,5 +1,5 @@
 --- 
-tags: 
+tags: school
 title: Why Freedom is Important at St. Paul's School
 layout: post
 ---

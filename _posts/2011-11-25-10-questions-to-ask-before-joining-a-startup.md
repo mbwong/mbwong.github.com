@@ -1,6 +1,6 @@
 --- 
 tags: 
-- startups
+- life
 - career
 title: 10 questions to ask before joining a startup
 layout: post

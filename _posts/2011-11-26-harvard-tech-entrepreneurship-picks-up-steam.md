@@ -1,7 +1,6 @@
 --- 
 tags: 
-- startups
-- harvard
+- school
 title: Harvard tech entrepreneurship picks up steam!
 layout: post
 ---

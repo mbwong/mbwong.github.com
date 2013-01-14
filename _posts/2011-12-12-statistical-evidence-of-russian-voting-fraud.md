@@ -1,5 +1,5 @@
 --- 
-tags: 
+tags: data
 title: Statistical evidence of Russian voting fraud
 layout: post
 ---

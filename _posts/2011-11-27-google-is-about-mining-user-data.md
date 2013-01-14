@@ -1,8 +1,7 @@
 --- 
 tags: 
 - internet
-- online advertising
-- social data
+- data
 title: Google+ is about mining user data
 layout: post
 ---

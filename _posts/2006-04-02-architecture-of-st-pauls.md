@@ -1,5 +1,5 @@
 --- 
-tags: 
+tags: school
 title: An Architectural History of St. Paul's School
 layout: post
 ---
