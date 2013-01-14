@@ -72,7 +72,7 @@ Finally, a nimble data infrastructure is necessary to process all the data in a 
 
 This brings me to the final route to capture value in the Big Data age: provide b2b data services. At the bottom of the stack we have database management and data infrastructure software such as Oracle, Teradata, and IBM. With databases quickly growing in size, innovations in this space and can lead to better and faster products and leave plenty of room for growth and disruption. In the middle of the stack are various visualization or business intelligence packages. The market in this space is young, fractured, but highly competitive, likely due to the relative ease of entering this market. There are a plethora of solutions targeting at companies from large to small. Finally, at the top of stack are software and consulting services focused on analytics of data, such as [APT][apt], optimize.ly, and Mixpanel. 
 
-What distinguish this approach of making money from data is that the company itself does not own the key data. Instead, the data comes from the customer. This suggests a unique set of challenges and requirements for the business team, such as the need to develope deep knowledge about the industries you cater to and an excellent client-facing team. 
+What distinguishes this approach of making money from data is that the company itself does not own the key data. Instead, the data comes from the customer. This suggests a unique set of challenges and requirements for the business team, such as the need to develope deep knowledge about the industries you cater to and an excellent client-facing team. 
 
 Together, these three approaches will drive billions of dollars of value in the coming decades. Want to ride the wave? I wish you luck!
 
