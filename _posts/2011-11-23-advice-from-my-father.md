@@ -1,9 +1,9 @@
 --- 
 tags: career life
-title: Advice from my father
+title: Career advice from my father
 layout: post
 ---
-# Advice from my father
+# Career advice from my father
 
 A couple days ago, I wrote to my parents to let them know where I've decided
 to work as my first job after college. In response, my father sent me this
@@ -17,7 +17,7 @@ All of it is well worth read. I thought I'd share:
 >
 > My life I chose to do things I would enjoy and believed I could do an excellent job; and started from there. This was teaching. This was not necessarily the only thing I could do well and enjoyed, but one started somewhere. I was much less ambitious than what I achieved eventually. If you enjoyed what you do then your clients will return and your career will develop from there.
 >
-> Make friends at work and outside work. When I started I had colleagues like (omitting names) at Chinese University. Outside I had (omitting names) discussing social-political issues. So stay active and meet friends and do things together. Join groups and expand out based on what interests you.
+> Make friends at work and outside work. When I started I had colleagues at Chinese University. Outside I had friends discussing social-political issues. So stay active and meet friends and do things together. Join groups and expand out based on what interests you.
 >
 > Do not keep a firm unchanging opinion of yourself, like I am in production not marketing. The two are not really so far apart and who knows what is your real talent.
 >
