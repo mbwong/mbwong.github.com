@@ -2,6 +2,7 @@
 tags: data society internet technology
 title: Jotform seized for user-generated phishing content
 layout: post
+published: false
 ---
 # Jotform seized for user-generated phishing content
 
