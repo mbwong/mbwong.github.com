@@ -1,5 +1,5 @@
 --- 
-tags: society technology internet
+tags: data technology internet
 title: Privacy policies and network neutrality
 layout: post
 ---
