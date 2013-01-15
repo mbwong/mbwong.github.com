@@ -1,9 +1,9 @@
 --- 
 tags: life personal
-title: Stop making sense
+title: The Danger of Narrative
 layout: post
 ---
-# Stop making sense
+# The Danger of Narrative
 
 [Tyler Cowen](http://marginalrevolution.com/) gave a speech at TED (transcript
 [here](http://lesswrong.com/r/discussion/lw/8w1/transcript_tyler_cowen_on_stor
