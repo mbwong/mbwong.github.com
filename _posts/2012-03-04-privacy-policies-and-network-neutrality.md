@@ -2,6 +2,7 @@
 tags: data technology internet
 title: Privacy policies and network neutrality
 layout: post
+published: false
 ---
 # Privacy policies and network neutrality
 
