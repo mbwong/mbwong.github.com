@@ -1,64 +1,88 @@
----
-layout: default
-title: Home
----
-<h2 id="intro"></h2>
-<div class="post">
-<p><img src="/mugshot.png"/></p>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <meta content="en-us" http-equiv="Content-Language" />
+    <meta content="The online writing of Michael Wong" name="description" />
+    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link href="/css/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
+    <link rel="alternate" type="application/atom+xml" title="Michael Wong - Atom" href="/atom.xml" />
+    <title>Michael B Wong</title>
+    {% include analytics.html %}
+  </head>
+  <body>
+    <header>
+      <h1 id="title">
+       michael b wong
+       <br/><a href="/" title="Home">home</a>
+       <br/><a href="/#blog">blog</a><div>
+      </h1>
+    </header>
+    <div id="wrapper">
 
-<p>I recently graduated from <a href="http://www.harvard.edu/">Harvard College</a> with a degree in <a href="http://xkcd.com/793/">Physics</a>. I currently work for <a href="http://predictivetechnologies.com">APT</a> as a consultant in San Francisco. You can find me on <a href="http://github.com/mbwong">GitHub</a>, <a href="http://www.linkedin.com/pub/michael-wong/25/547/850">LinkedIn</a>, or <a href="http://twitter.com/mbwong">Twitter</a>. My resume is <a href="/resume.pdf">here</a>. On this website I post some of my thoughts and personal writing. If you like it, subscribe to <a href="http://feeds.feedburner.com/MichaelBWong">my RSS feed</a>!
+    <h2 id="intro"></h2>
+    <div class="post">
+    <p><img src="/mugshot.png"/></p>
+    
+    <p>I recently graduated from <a href="http://www.harvard.edu/">Harvard College</a> with a degree in <a href="http://xkcd.com/793/">Physics</a>. I currently work for <a href="http://predictivetechnologies.com">APT</a> as a consultant in San Francisco. You can find me on <a href="http://github.com/mbwong">GitHub</a>, <a href="http://www.linkedin.com/pub/michael-wong/25/547/850">LinkedIn</a>, or <a href="http://twitter.com/mbwong">Twitter</a>. My resume is <a href="/resume.pdf">here</a>. On this website I post some of my thoughts and personal writing. If you like it, subscribe to <a href="http://feeds.feedburner.com/MichaelBWong">my RSS feed</a>!
+    
+    <h2 id="blog">My Recent Posts</h2>
+      <ul style="list-style: none; padding: 0; margin: 0;">
+      {% for post in site.posts limit: 5%}
+        <li>  
+          <span>{{ post.date | date: "%b %d, %Y"  }}</span> &nbsp;&nbsp;&raquo;&nbsp;&nbsp;  <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+      {% endfor %}
+      </ul>
+      
+      <h2 style="margin-top: 25px">On Technology, the Internet, and Big Data</h2>
+      <ul style="list-style: none; padding: 0; margin: 0;">
+      {% for post in site.tags.data %}
+        <li>  
+          <span>{{ post.date | date: "%b %d, %Y"  }}</span> &nbsp;&nbsp;&raquo;&nbsp;&nbsp;  <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+      {% endfor %}
+      </ul>
+      
+      <h2 style="margin-top: 25px">On Economics and Politics</h2>
+      <ul style="list-style: none; padding: 0; margin: 0;">
+      {% for post in site.tags.economics %}
+        <li>  
+          <span>{{ post.date | date: "%b %d, %Y"  }}</span> &nbsp;&nbsp;&raquo;&nbsp;&nbsp;  <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+      {% endfor %}
+      </ul>
+      
+      <h2 style="margin-top: 25px">On Career</h2>
+      <ul style="list-style: none; padding: 0; margin: 0;">
+      {% for post in site.tags.career %}
+        <li>  
+          <span>{{ post.date | date: "%b %d, %Y"  }}</span> &nbsp;&nbsp;&raquo;&nbsp;&nbsp;  <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+      {% endfor %}
+      </ul>
+      
+       <h2 style="margin-top: 25px">On School</h2>
+      <ul style="list-style: none; padding: 0; margin: 0;">
+      {% for post in site.tags.school %}
+        <li>  
+          <span>{{ post.date | date: "%b %d, %Y"  }}</span> &nbsp;&nbsp;&raquo;&nbsp;&nbsp;  <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+      {% endfor %}
+      </ul>
+      
+      <h2 style="margin-top: 25px">On How to Live</h2>
+      <ul style="list-style: none; padding: 0; margin: 0 15px 0 0;">
+      {% for post in site.tags.personal %}
+        <li>  
+          <span>{{ post.date | date: "%b %d, %Y"  }}</span> &nbsp;&nbsp;&raquo;&nbsp;&nbsp;  <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+      {% endfor %}
+      </ul>
+    </div>
 
-<h2 id="blog">My Recent Posts</h2>
-  <ul style="list-style: none; padding: 0; margin: 0;">
-  {% for post in site.posts limit: 5%}
-    <li>  
-      <span>{{ post.date | date: "%b %d, %Y"  }}</span> &nbsp;&nbsp;&raquo;&nbsp;&nbsp;  <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-  </ul>
-  
-  <h2 style="margin-top: 25px">On Technology, the Internet, and Big Data</h2>
-  <ul style="list-style: none; padding: 0; margin: 0;">
-  {% for post in site.tags.data %}
-    <li>  
-      <span>{{ post.date | date: "%b %d, %Y"  }}</span> &nbsp;&nbsp;&raquo;&nbsp;&nbsp;  <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-  </ul>
-  
-  <h2 style="margin-top: 25px">On Economics and Politics</h2>
-  <ul style="list-style: none; padding: 0; margin: 0;">
-  {% for post in site.tags.economics %}
-    <li>  
-      <span>{{ post.date | date: "%b %d, %Y"  }}</span> &nbsp;&nbsp;&raquo;&nbsp;&nbsp;  <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-  </ul>
-  
-  <h2 style="margin-top: 25px">On Career</h2>
-  <ul style="list-style: none; padding: 0; margin: 0;">
-  {% for post in site.tags.career %}
-    <li>  
-      <span>{{ post.date | date: "%b %d, %Y"  }}</span> &nbsp;&nbsp;&raquo;&nbsp;&nbsp;  <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-  </ul>
-  
-   <h2 style="margin-top: 25px">On School</h2>
-  <ul style="list-style: none; padding: 0; margin: 0;">
-  {% for post in site.tags.school %}
-    <li>  
-      <span>{{ post.date | date: "%b %d, %Y"  }}</span> &nbsp;&nbsp;&raquo;&nbsp;&nbsp;  <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-  </ul>
-  
-  <h2 style="margin-top: 25px">On How to Live</h2>
-  <ul style="list-style: none; padding: 0; margin: 0 15px 0 0;">
-  {% for post in site.tags.personal %}
-    <li>  
-      <span>{{ post.date | date: "%b %d, %Y"  }}</span> &nbsp;&nbsp;&raquo;&nbsp;&nbsp;  <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-  </ul>
-</div>
+    </div>
+  </body>
+</html>
+
