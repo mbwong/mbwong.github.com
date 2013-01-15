@@ -1,7 +1,7 @@
 --- 
 tags: 
 - economics
-title: Visualizing money
+title: xkcd visualizes money
 layout: post
 ---
 # xkcd visualizes money
