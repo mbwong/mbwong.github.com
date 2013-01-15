@@ -1,5 +1,5 @@
 --- 
-tags: data economics
+tags: data
 title: Data analysis lessons from the Greatest Good
 layout: post
 ---
