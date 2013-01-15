@@ -4,7 +4,7 @@ tags:
 title: Visualizing money
 layout: post
 ---
-# Visualizing money
+# xkcd visualizes money
 
 ![](http://media.tumblr.com/tumblr_lv7bwi25IX1r3oiuq.png)
 
