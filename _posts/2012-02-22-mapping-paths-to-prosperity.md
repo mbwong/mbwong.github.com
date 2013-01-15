@@ -1,6 +1,6 @@
 --- 
 tags: society economics
-title: Mapping paths to prosperity
+title: Visualizing economic complexity
 layout: post
 ---
 # Visualizing economic complexity 
