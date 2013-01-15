@@ -1,5 +1,5 @@
 --- 
-tags: society internet
+tags: data society internet
 title: In Facebook we trust?
 layout: post
 ---
