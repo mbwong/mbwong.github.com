@@ -6,7 +6,7 @@ layout: post
 
 #How to make money from Big Data
 
-When I first started writing this blog, the hype around [Big Data][bd] was just [beginning][gtrends]. This time last year, McKinsey Global Institute had just published [a report on Big Data][mgi]. Now, almost every day the HBR blog has an article about Big Data. Everybody recognizes that a massive amount of data is available to us. They say, Big Data will transform and electrify the world. 
+When I first started writing this blog, the hype around [Big Data][bd] was just [beginning][gtrends]. This time last year, McKinsey Global Institute had just published [a report on Big Data][mgi]. Now, almost every day the HBR blog has an article about Big Data. Everybody recognizes that a massive amount of data is available to us. It's become mundane to say, Big Data will transform and electrify the world. 
 
 But the hype around Big Data is at least partially driven by how poorly understood it is. Its mysterious potential has only added to its intrigue. No doubt many "Big Data" start-ups will get funded to an incredible degree, even though most of them will fail. Many corporations will rush to implement a "Big Data" strategy only to find that they wasted a lot of time and money. 
 
@@ -28,13 +28,11 @@ The road to monetization for data products falls under three rough categories:
 
 2. Sell the data product: For example, LinkedIn sells the data to headhunters to help them find the appropriate recruits. IBM's Watson is now turning into a medical aid. Palantir sells a data platform to governments and financial institutions for deep knowledge about the world. 
 
-3. Drive traffic to somewhere you can monetize: Companies such as Amazon or Netflix have their recommendation engines tells users about products that they might want to buy or movies they might want to watch. Android, Google News, Google Books all help drive traffic to Google Search, whether directly through links or indirectly by boosting Google's brand. 
-
-To build a data product, you'll need a stellar product team and a good user interface. You'll also need to be good at some big data methods (machine learning, graphical methods, recommendation systems, and the like). At some point, especially if you manage to reach scale, you'll also need a group of engineers who are good enough to handle the deluge of data that you'll be processing. 
+3. Drive traffic to somewhere you can monetize: Companies such as Amazon or Netflix have their recommendation engines tells users about products that they might want to buy or movies they might want to watch. Android, Google News, Google Books all help drive traffic to Google Search, whether directly through links or indirectly by boosting Google's brand. Nielsen compiles and sells consumer sales data to corporations. 
 
 ##Approach 2. Use data to drive strategy and management at an existing company
 
-While building a data product is strictly the realm of a technology company, many more traditional companies are also sitting on top of massive amounts of data. Logistics companies have data documenting the trade of good around the word, for instance. Grocery chains know what customers buy down to the minute and location. This data can be used to drive incremental value for the firm in several ways: 
+While building a data product belongs mostly to the realm of technology companies, many more traditional companies are also sitting on top of massive amounts of data. Logistics companies have data documenting the trade of good around the word, for instance. Grocery chains know what customers buy down to the minute and location. This data can be used to drive incremental value for the firm in several ways: 
 
 ###1. Test and predict effectiveness of business programs 
 
