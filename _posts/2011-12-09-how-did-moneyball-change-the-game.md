@@ -1,5 +1,5 @@
 --- 
-tags: data 
+tags: economics 
 title: How did Moneyball change the game?
 layout: post
 ---
