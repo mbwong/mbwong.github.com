@@ -1,6 +1,6 @@
 --- 
 tags: 
-- data
+- economics
 title: Visualizing money
 layout: post
 ---
