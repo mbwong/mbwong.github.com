@@ -1,9 +1,9 @@
 --- 
 tags: career
-title: So you want to work for an elite firm?
+title: How to land a job at an elite firm
 layout: post
 ---
-# So you want to work for an elite firm?
+# How to land a job at an elite firm
 
 [Bryan
 Caplan](http://econlog.econlib.org/archives/2011/11/how_elite_firms.html)
