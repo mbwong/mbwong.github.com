@@ -20,7 +20,7 @@ But, after four years of exploring different interests during college, I realize
 
 As Cal Newport wrote in [this New York Times op-ed](http://www.nytimes.com/2012/09/30/jobs/follow-a-career-passion-let-it-follow-you.html), 
 
->[The Cult of Passion] puts a lot of pressure on the rest of us — and demands long deliberation. If we’re not careful, it tells us, we may end up missing our true calling. And even after we make a choice, we’re still not free from its effects. Every time our work becomes hard, we are pushed toward an existential crisis, centered on what for many is an obnoxiously unanswerable question: “Is this what I’m really meant to be doing?” This constant doubt generates anxiety and chronic job-hopping.
+>The Cult of Passion puts a lot of pressure on the rest of us — and demands long deliberation. If we’re not careful, it tells us, we may end up missing our true calling. And even after we make a choice, we’re still not free from its effects. Every time our work becomes hard, we are pushed toward an existential crisis, centered on what for many is an obnoxiously unanswerable question: “Is this what I’m really meant to be doing?” This constant doubt generates anxiety and chronic job-hopping.
 >
 >As I considered my options during my senior year of college, I knew all about this Cult of Passion and its demands. But I chose to ignore it. The alternative career philosophy that drove me is based on this simple premise: The traits that lead people to love their work are general and have little to do with a job’s specifics. These traits include a sense of autonomy and the feeling that you’re good at what you do and are having an impact on the world. Decades of research on workplace motivation back this up. 
 
