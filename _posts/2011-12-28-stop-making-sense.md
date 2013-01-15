@@ -1,9 +1,9 @@
 --- 
 tags: life personal
-title: The Danger of Narrative
+title: The Danger of Narratives
 layout: post
 ---
-# The Danger of Narrative
+# The Danger of Narratives
 
 [Tyler Cowen](http://marginalrevolution.com/) gave a speech at TED (transcript
 [here](http://lesswrong.com/r/discussion/lw/8w1/transcript_tyler_cowen_on_stor
