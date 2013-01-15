@@ -51,9 +51,11 @@ attempt to remove possible biases arising from responses from bots or
 inattentive subjects. I found our results consistent with those from previous
 studies, even without filtering identifiably bad response.
 
-The responses are tabulated as follows [TK denotes results by Tversky/Kahneman
+The responses are tabulated as follows (TK denotes results by Tversky/Kahneman
 and Horton denotes [their 2010 results on
-mTurk](http://www.nber.org/papers/w15961)]:
+mTurk][nber]):
+
+[nber]: http://www.nber.org/papers/w15961
 
 ![](http://media.tumblr.com/tumblr_lwjcwoWqnW1r3oiuq.png)
 
