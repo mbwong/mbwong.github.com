@@ -6,7 +6,7 @@ layout: post
 ---
 # Google+
 
-According to [this fascinating article on ReadWriteWeb](http://www.readwriteweb.com/archives/google_was_never_a_facebook_competitor.php), the purpose of Google+ is not to replace Facebook. Instead it is to gather social data to more effectively understand users and better mine their advertising value. The end results? The "most targeted advertising platform in history"
+According to [this fascinating article on ReadWriteWeb](http://www.readwriteweb.com/archives/google_was_never_a_facebook_competitor.php), the purpose of Google+ is not to replace Facebook. Instead it is to gather social data to more effectively understand users and better mine their advertising value. The end results? The "most targeted advertising platform in history":
 
 > Contrary to popular belief, Google+ was never created to directly compete for people's time on the internet. A simple, ad free system, Google+ was launched to compete for users' personal data. Becoming the primary platform for social networking would simply be a bonus.
 >
