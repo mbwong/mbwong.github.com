@@ -1,6 +1,7 @@
 --- 
 tags: 
 - internet
+- data
 - society
 - online advertising
 title: Why Zuck's law is not the new Moore's law
