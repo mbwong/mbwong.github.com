@@ -9,7 +9,9 @@ After I wrote my [term paper](http://mbwong.com/post/14551602641/using-amazon-
 mechanical-turk-for-behavior-experiments) on conducting behavior experiments
 on Amazon Mechnical Turk (posted here), I attempted to replicate [the classic
 framing study by Tversky and Kahneman
-(1981)](http://en.wikipedia.org/wiki/Framing_effect_(psychology)).
+(1981)][tk].
+
+[tk]: http://en.wikipedia.org/wiki/Framing_effect_(psychology)
 
 I created two one-question survey using the MTurk template, each containing a
 versions of the same question:
