@@ -18,9 +18,8 @@ The question framed as “save”:
 
 > Outbreak of an unusual Asian disease, expected to kill 600 people.
 >
->   * Program A: 200 people will be saved.
->   * Program B: There is a 1/3 probability that 600 people will be saved, and
-a 2/3 probability that nobody will be saved.
+> * Program A: 200 people will be saved.
+> * Program B: There is a 1/3 probability that 600 people will be saved, and a 2/3 probability that nobody will be saved.
 >
 > Which do you choose?
 
@@ -28,8 +27,8 @@ The question framed as “die”:
 
 > Outbreak of an unusual Asian disease, expected to kill 600 people.
 >
->   * Program A: 400 people will die.
->   * Program B: There is a 1/3 probability that nobody will die, and a 2/3 probability that 600 people will be die.
+> * Program A: 400 people will die.
+> * Program B: There is a 1/3 probability that nobody will die, and a 2/3 probability that 600 people will be die.
 >
 > Which do you choose?
 
