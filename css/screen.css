@@ -28,11 +28,10 @@ a:hover {
 a img { border-width: 0; }
 
 blockquote {
-  /*border-left: 1px solid #222;*/
+  border-left: 4px solid #888;*/
   line-height: 18px;
   font-size: 11pt;
   margin: 20px;
-  padding-left: 10px;
 }
 
 code {
