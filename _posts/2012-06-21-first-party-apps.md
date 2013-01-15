@@ -1,10 +1,10 @@
 --- 
 tags: data internet technology
-title: First Party Apps
+title: Data Portability via First Party Apps
 layout: post
 ---
 
-# First Party Apps
+# Data Portability via First Party Apps
 
 In the spirit of data portability, I spent a couple weeks developing and exploring the idea of a "first party app" -- an app that makes it easier for users to directly manipulating data from an API without going through third-party servers. 
 
