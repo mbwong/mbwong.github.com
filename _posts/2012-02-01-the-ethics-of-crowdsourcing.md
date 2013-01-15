@@ -1,5 +1,5 @@
 --- 
-tags: society internet
+tags: data society internet
 title: The ethics of crowdsourcing
 layout: post
 ---
