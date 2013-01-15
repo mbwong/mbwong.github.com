@@ -1,10 +1,10 @@
 --- 
 tags: 
 - data
-title: Google+ is about mining user data
+title: Google+
 layout: post
 ---
-# Google+ is about mining user data
+# Google+
 
 According to [this fascinating article on ReadWriteWeb](http://www.readwriteweb.com/archives/google_was_never_a_facebook_competitor.php), the purpose of Google+ is not to replace Facebook. Instead it is to gather social data to more effectively understand users and better mine their advertising value. The end results? The "most targeted advertising platform in history"
 
