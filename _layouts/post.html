@@ -1,11 +1,33 @@
----
-layout: default
----
-<h2 id="intro"></h2>
-<time datetime="{{ page.date | date: "%Y-%m-%d" }}">
-{{ page.date | date: "%b %d, %Y" }}
-</time>
-<article class="post">
-{{ content }}
-<p>Read more of my writing <a href="/#blog">here.</a></p>
-</article>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <meta content="en-us" http-equiv="Content-Language" />
+    <meta content="A blog by Michael B Wong" name="description" />
+    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link href="/css/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
+    <link rel="alternate" type="application/atom+xml" title="Michael Wong - Atom" href="/atom.xml" />
+    <title>Michael B Wong &mdash; {{ page.title }}</title>
+    {% include analytics.html %}
+  </head>
+  <body>
+    <header>
+      <h1 id="title">
+       michael b wong
+       <br/><a href="/" title="Home">home</a>
+       <br/><a href="/#blog">blog</a><div>
+      </h1>
+    </header>
+    <div id="wrapper">
+      <h2 id="intro"></h2>
+      <time datetime="{{ page.date | date: "%Y-%m-%d" }}">
+        {{ page.date | date: "%b %d, %Y" }}
+      </time>
+      <article class="post">
+        {{ content }}
+        <p>Read more of my writing <a href="/#blog">here.</a></p>
+      </article>
+    </div>
+  </body>
+</html>
