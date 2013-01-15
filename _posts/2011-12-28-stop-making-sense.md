@@ -1,9 +1,9 @@
 --- 
 tags: life personal
-title: The Danger of Narratives
+title: Don't believe the stories
 layout: post
 ---
-# The Danger of Narratives
+# Don't believe the stories
 
 [Tyler Cowen](http://marginalrevolution.com/) gave a speech at TED (transcript
 [here](http://lesswrong.com/r/discussion/lw/8w1/transcript_tyler_cowen_on_stor
