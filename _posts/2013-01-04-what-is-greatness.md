@@ -1,10 +1,10 @@
 --- 
 tags: life personal
-title: What is Greatness
+title: Greatness
 layout: post
 ---
 
-#What is Greatness
+# Greatness
 
 When I think of greatness, I think of a family friend Ms. Poon. She had an ordinary existence. During my childhood our family would visit her during Chinese New Year in her cramped little apartment. My sister and I would say greetings to her in exchange for sweets and a red packet of money. In our brief encounters, she was always full of smiles and had a larger than life demeanor, but otherwise she seemed like any other loving grandmother.
 
