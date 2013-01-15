@@ -1,9 +1,9 @@
 --- 
 tags: data
-title: Data analysis lessons from the Greatest Good
+title: What I learned about data analysis at the Greatest Good
 layout: post
 ---
-# Data analysis lessons from the Greatest Good
+# What I learned about data analysis at the Greatest Good
 
 I spent my past summer at [the Greatest Good](http://greatestgood.com/), a
 consulting boutique headed by Steve Levitt and other Chicago economists. I got
@@ -20,6 +20,4 @@ principles and I wanted to share them with you:
 3. First build a simple model, then dig further. This makes your time better spent. 
 4. Think really hard about your assumptions. Never forget them. Test your them if possible. Make sure your assumptions don't weaken your analysis.
 5. Have a story to tell. Don't just recite numbers. This forces you to think harder about what's actually going on and it allows you to communicate better
-
-What do you think?
 
