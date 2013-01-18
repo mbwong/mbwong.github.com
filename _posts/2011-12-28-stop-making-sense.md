@@ -7,11 +7,11 @@ layout: post
 
 [Tyler Cowen](http://marginalrevolution.com/) gave a speech at TED (transcript
 [here](http://lesswrong.com/r/discussion/lw/8w1/transcript_tyler_cowen_on_stor
-ies/)) warning us from thinking too much in stories. He warns against
-believing the simple narratives, and especially the inspiring ones that TED
-embraces.
+ies/)) warning us againist thinking too much in stories. He asks us not to 
+believe the simple narratives, and especially the inspiring ones that the TED
+series embraces.
 
-Indeed, we are all too prone to believing powerful stories. As Cowen puts it, 
+Indeed we are all too prone to believing such powerful stories. As Cowen puts it, 
 "We all like to think advertising only works on the other guy, but that's not
 how it is. Advertising works on all of us, so if you're too attached to
 stories, what will happen is people selling products come along, and they will
