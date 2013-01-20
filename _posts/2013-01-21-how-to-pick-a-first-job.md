@@ -6,7 +6,7 @@ layout: post
 
 # How to pick a first job
 
-You've made it mostly through college and you've done some [soul-searching][ss] and you've settled on a career direction. Perhaps like me, when you graduate you want to do something related to Big Data and software. Now where you should get your first job or internship?
+You've made it mostly through college. You've done some [soul-searching][ss] and you've settled on a career direction. Perhaps like me, when you graduate you want to do something related to Big Data and software. Now where you should get your first job or internship?
 
 [ss]: http://mbwong.com/2012/12/01/finding-a-calling.html
 
