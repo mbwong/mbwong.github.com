@@ -1,10 +1,10 @@
 --- 
 tags: life career
-title: How to find a calling
+title: How to pick a career direction
 layout: post
 ---
 
-# How to find a Calling
+# How to pick a career direction
 
 LinkedIn's founder Reid Hoffman recently published a book titled "The Start-up of YOU." It wisely suggests that we should all think of our careers as start-ups. Succeeding in today volatile economic environment requires adaptability, a strong personal network, and entrepreneurial thinking. 
 
