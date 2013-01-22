@@ -12,10 +12,6 @@ My recommendation is that you position yourself to be in a place where you can l
 
 Why? Because acquiring skills opens up new opportunities for you in the labor market, and gaining knowledge of the big picture allows you to better position yourself competitively in the future. Learning means building up your own human capital. It will determine your future productivity. When you evaluate your first job, the learning opportunity is the most important parameter to consider.
 
-(Before I continue, though, let me clearly state that this recommendation assumes that you have some idea of what you want to do with your life. If you aren't sure what career path you're interested in, read my essay on [how to find a calling][ss] as well.)
-
-[ss]: http://mbwong.com/2012/12/01/finding-a-calling.html
-
 Here are some components that contribute to a good learning experience:
 
 1. *Breadth of exposure*: You can learn a lot simply by working in an environment that allows you to see a lot of moving parts. For example, you might choose to work at a consulting firm where you can meet people from different parts of the corporate ladder in different industries. You might choose to work at a big software company where you can look at different kinds of code, understand the engineering processes, and see how different tools are used. You might become an assistant to a senator and learn about the legislative process. These places give you the big picture. These high exposure jobs will teach you to know whom to talk to regarding different issues and provide you with a mental model of how things are actually run. 
@@ -37,3 +33,7 @@ The main reason I chose APT was that I believed that I could learn the most ther
 [mxp]: http://mixpanel.com
 
 Inevitably there will be a non-career dimension to an employment decisions as well. Family, friends, and location should factor your decision, for your first job is far less important than the people around you. My advice here is only useful if you know what you want to learn and your options are inline with your personal values other than career advancement. 
+
+Finally, let me clearly state that this recommendation assumes that you have some idea of what you want to do with your life. If you aren't sure what career path you're interested in, read my essay on [how to find a calling][ss] as well.
+
+[ss]: http://mbwong.com/2012/12/01/finding-a-calling.html
