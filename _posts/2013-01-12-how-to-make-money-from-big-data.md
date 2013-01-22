@@ -26,9 +26,9 @@ The road to monetization for data products falls under three rough categories:
 
 1. Sell ads: Just like Google, Facebook, Yelp, etc. 
 
-2. Sell the data product: For example, LinkedIn sells the data to headhunters to help them find the appropriate recruits. IBM's Watson is now turning into a medical aid. Palantir sells a data platform to governments and financial institutions for deep knowledge about the world. 
+2. Sell the data product: For example, LinkedIn sells the data to headhunters to help them find the appropriate recruits. IBM's Watson is now turning into a medical aid. Palantir sells a data platform to governments and financial institutions for deep knowledge about the world. Nielsen compiles and sells consumer sales data to corporations. 
 
-3. Drive traffic to somewhere you can monetize: Companies such as Amazon or Netflix have their recommendation engines tells users about products that they might want to buy or movies they might want to watch. Android, Google News, Google Books all help drive traffic to Google Search, whether directly through links or indirectly by boosting Google's brand. Nielsen compiles and sells consumer sales data to corporations. 
+3. Drive traffic to somewhere you can monetize: Companies such as Amazon or Netflix have their recommendation engines tells users about products that they might want to buy or movies they might want to watch. Android, Google News, Google Books all help drive traffic to Google Search, whether directly through links or indirectly by boosting Google's brand. 
 
 ##Approach 2. Use data to drive strategy and management at an existing company
 
