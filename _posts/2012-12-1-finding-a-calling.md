@@ -8,7 +8,7 @@ layout: post
 
 LinkedIn's founder Reid Hoffman recently published a book titled "The Start-up of YOU." It wisely suggests that we should all think of our careers as start-ups. Succeeding in today volatile economic environment requires adaptability, a strong personal network, and entrepreneurial thinking. 
 
-You have somewhere between 40 and 50 productive years to come. To be productive, you must focus and pick one thing to pursue. But like me, you might start out with interests in many things and hence have a number of career choices. How do you choose what my start-up will be about? What will you do with your life? What's your calling? It's a huge and looming question.
+You have somewhere between 40 and 50 productive years. To be productive, you must focus and pick one thing to pursue. But like me, you might start out with interests in many things and hence have a number of career choices. How do you choose what my start-up will be about? What will you do with your life? What's your calling? It's a huge and looming question.
 
 ## Follow your passion?
 
