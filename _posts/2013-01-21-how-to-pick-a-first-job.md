@@ -32,8 +32,8 @@ The main reason I chose APT was that I believed that I could learn the most ther
 [tgg]: http://greatestgood.com
 [mxp]: http://mixpanel.com
 
-Inevitably there will be a non-career dimension to an employment decisions as well. Family, friends, and location should factor your decision, for your first job is far less important than the people around you. My advice here is only useful if you know what you want to learn and your options are inline with your personal values other than career advancement. 
+There will be a non-career dimension to an employment decisions as well. Family, friends, and location should factor your decision, for your first job is far less important than the people and support network around you. My advice here is only useful if you know what you want to learn and your options are inline with your personal values other than career advancement. 
 
-Finally, let me clearly state that this recommendation assumes that you have some idea of what you want to do with your life. If you aren't sure what career path you're interested in, read my essay on [how to find a calling][ss] as well.
+Bear in mind, also, that it is premature optimization to follow this recommendation unless you have some idea of what you want to learn. If you aren't sure what career path you're interested in, read my essay on [how to find a calling][ss] as well.
 
 [ss]: http://mbwong.com/2012/12/01/finding-a-calling.html
