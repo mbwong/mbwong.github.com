@@ -6,11 +6,11 @@ layout: post
 
 # How to pick a first job
 
-You've made it mostly through college. You've done some [soul-searching][ss] and you've settled on a career direction. Perhaps like me, when you graduate you want to do something related to Big Data and software. Now where you should get your first job or internship?
+You've made it mostly through college. You've done some soul-searching and you've settled on a career direction. Perhaps like me, when you graduate you want to do something related to Big Data and software. Now where you should get your first job or internship?
+
+My recommendation is that you position yourself to be in a place where you can learn the most about the things you're interested in. (If you don't know what career path you're interested in, read my essay on [how to find a calling][ss] instead.)
 
 [ss]: http://mbwong.com/2012/12/01/finding-a-calling.html
-
-My recommendation is that you position yourself to be in a place where you can learn the most about the things you're interested in. 
 
 Why? Because acquiring skills opens up new opportunities for you in the labor market, and gaining knowledge of the big picture allows you to better position yourself competitively in the future. Learning means building up your own human capital. It will determine your future productivity. When you evaluate your first job, the learning opportunity is the most important parameter to consider.
 
