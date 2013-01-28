@@ -33,7 +33,7 @@ brought down for many. It means that students may get more
 choices. It may drive competition amongst teachers, thereby improving quality. 
 It may even lift people out of poverty and reduce income inequality 
 by helping people invest in their human capital more cheaply, 
-and allow the labor force to respond to shifting market environment quicker [1]. 
+and allow the labor force to respond to shifting market environment quicker \[1\]. 
 
 But skeptics will question whether this concept of online education is a
 sufficient answer to our education needs. Admittedly, MOOCs are 
@@ -82,7 +82,7 @@ An enhanced feedback loop can create a much more intimate and customized learnin
 experience for kids.
 
 I am especially excited about the steps that Khan Academy (KA) is taking in 
-this direction [2].  KA's Salman Khan emphasizes, for example, the value of student's 
+this direction \[2\].  KA's Salman Khan emphasizes, for example, the value of student's 
 being able to stop or replay instruction videos at their own pace. Today, 
 the interactive problem sets that KA provides are customized based on student's 
 performance and idiosyncrasies. In stark opposition to the aforementioned lecture 
