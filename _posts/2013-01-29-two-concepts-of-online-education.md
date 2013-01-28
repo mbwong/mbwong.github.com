@@ -116,9 +116,9 @@ transformed by these advances. I foresee a bright future.
 
 1. Read [The Race Between Education and Technology][katz] by Gouldin and Katz for a detailed study of the relationships between education and inequality. 
 
-[katz]: http://www.amazon.com/Race-between-Education-Technology/dp/0674035305
-
 2. See [this TED talk by Salman Khan][ted] on the ideas behind Khan Academy.
+
+[katz]: http://www.amazon.com/Race-between-Education-Technology/dp/0674035305
 
 [ted]: http://www.youtube.com/watch?v=gM95HHI4gLk
 
