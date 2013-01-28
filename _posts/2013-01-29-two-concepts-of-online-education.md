@@ -1,10 +1,10 @@
 --- 
 tags: data education
-title: Two revolutions in online education
+title: Two Revolutions in Online Education
 layout: post
 ---
 
-# Two revolutions in online education
+# Two Revolutions in Online Education
 
 Online education is all the rage today. Coursera, Udacity, EdX, Khan
 Academy are quickly becoming household names. They promise to change
@@ -12,7 +12,7 @@ the face of education. But how will these massive open online courses (MOOCs)
 change the landscape? In my mind, there are two ways that these new technologies 
 will change the world. 
 
-## 1. Cheaper Access to Education 
+## 1. A Revolution in Access
 
 This first educational revolution under way is an expansion of educational access. 
 Online platforms allow people to access knowledge more cheaply. In the off-line world, a teacher 
@@ -61,7 +61,7 @@ competition may drive up the quality these courses. This revolution in
 educational access is just getting started, but may accelerate dramatically 
 in the coming years. 
 
-## 2. Improved Pedagogy for Students
+## 2. A Revolution in Measurement
 
 Accelerating the revolution in education access may be a concurrent 
 revolution in measurement of student behavior. 
