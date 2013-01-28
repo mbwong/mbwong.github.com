@@ -112,7 +112,7 @@ Together, revolutions in education access and performance measurement promise to
 how we learn. 20 years from today, our education system will be completely 
 transformed by these advances. I foresee a bright future. 
 
-### Notes:
+## Notes:
 
 1. Read [The Race Between Education and Technology][katz] by Gouldin and Katz for a detailed study of the relationships between education and inequality. 
 
