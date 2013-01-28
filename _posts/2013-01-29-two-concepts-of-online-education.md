@@ -1,5 +1,5 @@
 --- 
-tags: data, education
+tags: data education
 title: Two revolutions in online education
 layout: post
 ---
