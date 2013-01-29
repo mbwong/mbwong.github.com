@@ -8,14 +8,18 @@ layout: post
 
 Online education is all the rage today. Coursera, Udacity, EdX, Khan
 Academy are quickly becoming household names. They promise to change
-the face of education. But how will these massive open online courses (MOOCs)
-change the landscape? In my mind, there are two ways that these new technologies 
+the face of education. But will these massive open online courses (MOOCs)
+actually change the landscape? 
+
+In my mind, there are two ways that these new technologies 
 will change the world. 
 
 ## 1. A Revolution in Access
 
 This first educational revolution under way is an expansion of educational access. 
-Online platforms allow people to access knowledge more cheaply. In the off-line world, a teacher 
+Online platforms allow people to access knowledge more cheaply. 
+
+In the off-line world, a teacher 
 can teach 30 kids at a time, maybe 100 in a day; with online teaching, a teacher
 can reach thousands of students at once. If our old education model
 can be parodied as chalk talks on blackboards, online education
@@ -24,25 +28,29 @@ accessible lecture hall. Anyone across the world with a good Internet
 connection can more cheaply access this auditorium, put on headphones
 and tune in to hear an ever louder chorus of lecturers.
 
-Online platforms thus offer a cheap way to deliver knowledge. 
-This has many benefits to our society. With universities around the 
-world now joining the rush to open up their courses to 
-anyone who has an internet connection, an optimist has much to be 
-excited about. It means the cost of education may be 
+This cheaper way to deliver knowledge brings many benefits to our society. 
+It means the cost of education may be 
 brought down for many. It means that students may get more 
 choices. It may drive competition amongst teachers, thereby improving quality. 
 It may even lift people out of poverty and reduce income inequality 
 by helping people invest in their human capital more cheaply, 
 and allow the labor force to respond to shifting market environment quicker \[1\]. 
 
-But skeptics will question whether this concept of online education is a
-sufficient answer to our education needs. Admittedly, MOOCs are 
+With universities around the 
+world now joining the rush to open up their courses to 
+anyone who has an internet connection, an optimist has much to be 
+excited about. 
+
+Skeptics will question whether this concept of online education is a
+sufficient answer to our education needs, however. Admittedly, MOOCs are 
 a fast food version of a university class. A growth in scale
 necessarily discounts some of the difficult-to-measure benefits of
 learning in person, such as social learning or participation in
 discourse and argument. It diminishes the role of teacher in 
-individually aiding a student's progress. It is incredibly difficult 
-to grade thousand students at one reasonably, much less providing 
+individually aiding a student's progress. 
+
+It is also incredibly difficult 
+to grade thousand students at one with credibility, much less provide 
 individualized feedback. An enterprising student might learn much 
 from these online platforms, but employers are rightfully doubtful 
 the legitimacy of online education. The college degree still means much,
@@ -63,7 +71,7 @@ in the coming years.
 
 ## 2. A Revolution in Measurement
 
-Accelerating the revolution in education access may be a concurrent 
+Accelerating the revolution in education access is a concurrent 
 revolution in measurement of student behavior. 
 As a by-product of the increasing uses of educational 
 technologies inside and outside the classroom, 
@@ -85,7 +93,9 @@ I am especially excited about the steps that Khan Academy (KA) is taking in
 this direction \[2\].  KA's Salman Khan emphasizes, for example, the value of student's 
 being able to stop or replay instruction videos at their own pace. Today, 
 the interactive problem sets that KA provides are customized based on student's 
-performance and idiosyncrasies. In stark opposition to the aforementioned lecture 
+performance and idiosyncrasies. 
+
+In stark opposition to the aforementioned lecture 
 model, online learning in the form that KA is pushing forward customizes and 
 individualizes the student learning experience. These feedback loops 
 encoded within the software will help enrich and optimize a student's learning. 
@@ -95,11 +105,12 @@ parents are able to use online tools to guide their kids through their exercises
 KA is also bringing technology into the classroom, letting students work online, 
 allowing teachers to track student performance online, and freeing class time 
 to work on topics that performance data suggest student need help with. 
+
 This model of combining online education with offline education create 
 great synergies, allowing software and in-person teaching to be highly complementary. 
 These steps will lead to a higher quality education for all. 
 
-Coursera is making efforts in these aspects as well. 
+Coursera is also making efforts in these aspects as well. 
 Their pedagogy statement emphasizes better measurement of student mastery and
 instant feedback. With these general orientation, these start-ups will no doubt also 
 come up with other methods to improve pedagogy. The details of possible 
