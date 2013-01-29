@@ -12,9 +12,9 @@ the face of education. But will these massive open online courses (MOOCs)
 actually change the landscape? 
 
 In my mind, there are two ways that these new technologies 
-will change the world. 
+will change the world: (1) A revolution in access and (2) a revolution in measurement.
 
-## 1. A Revolution in Access
+## A Revolution in Access
 
 This first educational revolution under way is an expansion of educational access. 
 Online platforms allow people to access knowledge more cheaply. 
@@ -69,7 +69,7 @@ competition may drive up the quality these courses. This revolution in
 educational access is just getting started, but may accelerate dramatically 
 in the coming years. 
 
-## 2. A Revolution in Measurement
+## A Revolution in Measurement
 
 Accelerating the revolution in education access is a concurrent 
 revolution in measurement of student behavior. 
