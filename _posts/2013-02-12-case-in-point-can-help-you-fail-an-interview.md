@@ -28,4 +28,4 @@ So should you still buy Case In Point? Probably, yes. It is still full of great 
 
 And, oh yes, don't forget the most important tip from Cosentino... Practice! In my experience, it is the single best predictor of interview success. Start early. Find someone intelligent and intense to practice with, every day. Estimate everything in your daily life. If you're running low on case questions, just read WSJ and think of each article as a case question. 
 
-Good luck.
+I hope this helps you ace your case. Good luck.
