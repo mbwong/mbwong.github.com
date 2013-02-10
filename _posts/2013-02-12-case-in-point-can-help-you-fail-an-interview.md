@@ -6,7 +6,9 @@ layout: post
 
 # Case In Point Can Make You Fail an Interview
 
-Mark Cosentino's Case In Point is a staple for anybody who's interested in a consulting job. And yes, I read it too in my senior year of college. But not everybody who uses it aces interviews. Why? Here are three mistakes that I had made and that now, as a case interviewer, I see people who read Case In Point make:
+Mark Cosentino's [Case In Point][cip] is a staple for anybody who's interested in a consulting job. And yes, I read it too in my senior year of college. But not everybody who uses it aces interviews. Why? Here are three mistakes that I had made. And now that I’m an interviewer, I keep seeing others make them too!
+
+[cip]: http://www.amazon.com/Case-Point-Complete-Interview-Preparation/dp/0971015864
 
 1. __Market-sizing by cohort__ - Case In Point has a seemingly brilliant solution to the panic that ensues when your interviewer asks you to estimate the number of potential customers: Do it by population cohort. Divide up the US population by age groups and calculate market size for each. And you might think "Oh, great. When I don't have anything to say, I can use this to fill up my time!" Big mistake! Most of the time, it makes little sense to market-size by cohort. If a product is targeted to a specific age group, then just calculate for that age group. If it isn't, just assume an average. Your goal is to get the estimated answer in the quickest, simplest way (without sacrificing too much accuracy). Cohorting will waste you a couple of important minutes and make the interviewer pretty bored! This is a sure way to get dragged into the arithmetic weeds and trip yourself up. A better way to avoid panicking is simply to practice estimation questions over and over, and time yourself. Try to get to an answer consistently under a minute, and you'll be ready for prime time. 
 
@@ -22,8 +24,8 @@ Frameworks also give you an idea of what the structure of case discussion should
 
 ## Conclusion
 
-So should you still buy Case In Point? Probably, yes. It is still full of great advice about how to approach a case question and how to organize your thoughts. If you've never done a case before, Case In Point will do you much more good than harm. It will give you a much better idea of what you're getting into. But a lazy and uncritical reader may slightly be misguided. You are now warned.
+So should you still buy Case In Point? Probably, yes. It is still full of great advice about how to approach a case question and how to organize your thoughts. If you've never done a case before, Case In Point will do you much more good than harm. It will give you a much better idea of what you're getting into. But a lazy and uncritical reader may slightly be misguided. You are now warned. 
 
-And, oh yes, let us not forget the best tip from Cosentino... Practice! In my experience, it is the single best predictor of interview success. Start early. Find someone intelligent and intense to practice with, every day. Estimate everything in your daily life. If you're running low on case questions, just read WSJ and think of each article as a case question. 
+And, oh yes, let us not forget the most important tip from Cosentino... Practice! In my experience, it is the single best predictor of interview success. Start early. Find someone intelligent and intense to practice with, every day. Estimate everything in your daily life. If you're running low on case questions, just read WSJ and think of each article as a case question. 
 
-Good luck. 
+Good luck.
