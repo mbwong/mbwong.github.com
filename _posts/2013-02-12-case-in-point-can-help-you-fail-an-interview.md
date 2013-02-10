@@ -24,7 +24,7 @@ Frameworks also give you an idea of what the structure of case discussion should
 
 ## Conclusion
 
-So should you still buy Case In Point? Probably, yes. It is still full of great advice about how to approach a case question and how to organize your thoughts. If you've never done a case before, Case In Point give you a much better idea of what to expect, and its basic approach is largely sound. But an uncritical reader may be misguided and fall into one of the above traps. You are now warned. 
+So should you still buy Case In Point? Probably, yes. It is still full of great advice about how to approach a case question and how to organize your thoughts. If you've never done a case before, Case In Point gives you a much better idea of what to expect, and its basic approach is largely sound. But an uncritical reader may be misguided and fall into one of the above traps. You are now warned. 
 
 And, oh yes, don't forget the most important tip from Cosentino... Practice! In my experience, it is the single best predictor of interview success. Start early. Find someone intelligent and intense to practice with, every day. Estimate everything in your daily life. If you're running low on case questions, just read WSJ and think of each article as a case question. 
 
