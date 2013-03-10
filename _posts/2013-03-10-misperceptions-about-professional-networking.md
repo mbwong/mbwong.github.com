@@ -22,7 +22,7 @@ Here are things that have worked for me:
 
 __Have a story.__ To help people understand what I'm interested in, I have to communicate my story. This way people understand where I come from and where I want to go. As a result, they give me more relevant and helpful information. Here is a [blog post from HBR][1] about how to put together a personal story. 
 
-[1] http://blogs.hbr.org/cs/2013/02/younger_workers_need_a_career_narrative.html
+[1]: http://blogs.hbr.org/cs/2013/02/younger_workers_need_a_career_narrative.html
 
 __Have something to offer.__ It is hard to develop a deeper relationship with someone if there is no economic incentive for you to interact. If I find someone who's doing work I believe in, I try to find some way to help that person. This doesn't mean I spend weeks digging through their work to try to change their lives. I just try to give them a reason to feel good about talking to me. Help them in some way. Teach them something if I can. Let them know that I believe in their work. 
 
