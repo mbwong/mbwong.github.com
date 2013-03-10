@@ -20,11 +20,11 @@ Before you look around for mentors, it's a good idea to reflect about what work 
 
 Here are a couple approaches I try when meeting people with similar interests:
 
-__Have a story.__ To help people understand what I'm interested in, I often try to optimize how I communicate my story. I want people to understand where I come from or where I want to go so that they give me more relevant and helpful information. [This blog post from HBR][1] about how to put together a personal story explains it better than I can. 
+__Have something to offer.__ It is hard to develop a deeper relationship with someone if there is no economic incentive for you to interact. If I find someone who's doing work I believe in, I try to find some way to help that person. This doesn't mean I spend weeks digging through their work to try to change their lives. I just try to give them a reason to feel good about talking to me. For example, I try to teach them something or let them know that I believe in their work. 
+
+__Have a story.__ To help people understand what I'm interested in, I try to optimize how I communicate my story. I want people to understand where I come from or where I want to go so that they give me more relevant and helpful information. [This blog post from HBR][1] about how to put together a personal story explains it better than I can. 
 
 [1]: http://blogs.hbr.org/cs/2013/02/younger_workers_need_a_career_narrative.html
-
-__Have something to offer.__ It is hard to develop a deeper relationship with someone if there is no economic incentive for you to interact. If I find someone who's doing work I believe in, I try to find some way to help that person. This doesn't mean I spend weeks digging through their work to try to change their lives. I just try to give them a reason to feel good about talking to me. Like, teach them something or let them know that I believe in their work. 
 
 __Know the field.__ Knowing more things about your field and the people in it is very valuable. I try to follow relevant blogs and publications. I try to go to relevant events. When I do this, I am better at knowing about people whom I might want to talk to, bringing something to the table, and asking good questions. 
 
