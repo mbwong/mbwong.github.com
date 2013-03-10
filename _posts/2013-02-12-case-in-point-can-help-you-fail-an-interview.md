@@ -6,7 +6,7 @@ layout: post
 
 # Case In Point Can Make You Fail an Interview
 
-tl;dr: I rant about the many bad case interviews I've encountered lately.
+__tl;dr__: I rant about the many bad case interviews I've encountered lately.
 
 Mark Cosentino's [Case In Point][cip] is a staple for anybody who's interested in a consulting job. And yes, I read it too in my senior year of college. But not everybody who uses it aces interviews. Why? Here are three mistakes Case In Point helped me make. And now that I’m an interviewer, I keep seeing others make them too!
 
