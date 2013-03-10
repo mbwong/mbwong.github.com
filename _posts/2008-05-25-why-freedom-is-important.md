@@ -1,10 +1,10 @@
 --- 
 tags: school
-title: Why Freedom is Important at St. Paul's School
+title: Freedom is Important at St. Paul's School
 layout: post
 ---
 
-#Why Freedom is Important at St. Paul's School
+#Freedom is Important at St. Paul's School
 
 
 _Originally published in The Pelican, the student newspaper at St. Paul's School._

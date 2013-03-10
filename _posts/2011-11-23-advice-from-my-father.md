@@ -1,9 +1,9 @@
 --- 
 tags: career life
-title: Career advice from my father
+title: Advice from my father
 layout: post
 ---
-# Career advice from my father
+# Advice from my father
 
 A couple days ago, I wrote to my parents to let them know where I've decided
 to work as my first job after college. In response, my father sent me this

@@ -1,6 +1,6 @@
 --- 
 tags: data society internet
-title: The ethics of crowdsourcing
+title: Ethics of crowdsourcing
 layout: post
 ---
 # The ethics of crowdsourcing

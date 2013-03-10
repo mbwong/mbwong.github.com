@@ -1,10 +1,10 @@
 --- 
 tags: data business
-title: How to make money from Big Data
+title: Making money from Big Data
 layout: post
 ---
 
-#How to make money from Big Data
+#Making money from Big Data
 
 When I first started writing this blog, the hype around [Big Data][bd] was just [beginning][gtrends]. This time last year, McKinsey Global Institute had just published [a report on Big Data][mgi]. Now, almost every day the HBR blog has an article about Big Data. Everybody recognizes that a massive amount of data is available to us. It's become mundane to say, Big Data will transform and electrify the world. 
 

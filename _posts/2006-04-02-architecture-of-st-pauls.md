@@ -1,10 +1,10 @@
 --- 
 tags: school
-title: An Architectural History of St. Paul's School
+title: Architectural History of St. Paul's School
 layout: post
 ---
 
-#An Architectural History of St. Paul's School
+#Architectural History of St. Paul's School
 
 _Originally published in The Pelican, the student newspaper at St. Paul's School._
 

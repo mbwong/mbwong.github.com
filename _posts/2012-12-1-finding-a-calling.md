@@ -1,10 +1,10 @@
 --- 
 tags: life career
-title: How to find a calling
+title: Finding a calling
 layout: post
 ---
 
-# How to find a calling
+# Finding a calling
 
 LinkedIn's founder Reid Hoffman recently published a book titled "The Start-up of YOU." It wisely suggests that we should all think of our careers as start-ups. Succeeding in today volatile economic environment requires adaptability, a strong personal network, and entrepreneurial thinking. 
 

@@ -1,10 +1,10 @@
 --- 
 tags: school
-title: Why you should choose a Harvard College education
+title: Why choose a Harvard College education
 layout: post
 ---
 
-# Why you should choose a Harvard College education
+# Why choose a Harvard College education
 
 I've often been asked by prospective students to offer advice when deciding whether to attend Harvard. This kind of advice is not easy to give. How does one possibly condense the complexity of the college experience into a mere few sentences? 
 

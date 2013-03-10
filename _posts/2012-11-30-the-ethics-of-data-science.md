@@ -1,6 +1,6 @@
 --- 
 tags: 
-title: The Ethics of a Data Scientist
+title: Ethics of a Data Scientist
 layout: post
 published: false
 ---

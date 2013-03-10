@@ -1,6 +1,6 @@
 --- 
 tags: life career
-title: How to ask the right questions
+title: Asking the right questions
 layout: post
 ---
 # How to ask the right questions

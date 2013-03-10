@@ -2,10 +2,10 @@
 tags: 
 - life
 - career
-title: 10 questions to ask before joining a startup
+title: Questions before joining a startup
 layout: post
 ---
-# 10 questions to ask before joining a startup
+# Questions to ask before joining a startup
 
 [OnStartups](http://onstartups.com/tabid/3339/bid/122/Joining-A-Startup-Top-6
 -Questions-You-Should-Ask.aspx) has a good post on questions to ask before

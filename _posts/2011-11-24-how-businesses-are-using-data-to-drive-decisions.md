@@ -2,7 +2,7 @@
 tags: 
 - business 
 - data
-title: How businesses are using data to drive decisions
+title: How businesses use data
 layout: post
 ---
 # How businesses are using data to drive decisions
