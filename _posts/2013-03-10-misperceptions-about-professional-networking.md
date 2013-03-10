@@ -4,6 +4,8 @@ title: A Better Way to Think about Professional Networking
 layout: post
 ---
 
+#A Better Way to Think about Professional Networking
+
 A friend asks me a question:
 
 > I lack a professional network, and don't really know anyone who is a leader in the general sector I'm interested in. I wish I could find a mentor or have more ways to find about what kind of steps would be helpful in the larger picture of my career. How do I go about building this kind of network or finding people with good advice to give? I realize I don't even know where to get started, how to initiate such a conversation and with whom. Do you have any suggestions? What's worked for you? 
