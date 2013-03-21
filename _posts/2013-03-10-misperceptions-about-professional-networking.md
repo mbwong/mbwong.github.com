@@ -12,9 +12,7 @@ A friend asks me a question:
 
 Great question. There is a perception that networking is about collecting business cards and phone numbers. It is transaction-like. It is forced. It is scary. Fortunately I've found that networking does not have to feel this way. Rather I think of networking as making friends with cool people, helping them, and letting them help you. It is a nice thing to do, because it is great to have friends that have similar career interests. You get to geek out about things that you are passionate about. You can support each other even when everyone else might be doubting what you're working on. 
 
-Sometimes the relationship between you and your friend might be more like mentor and advisee. Ideal mentors have knowledge that improve your thinking or some power to help you achieve your dreams. Most likely they are people in your field whom you want to emulate, but they can be anybody. They might be 20 years older or 5 years younger. Younger mentors will stick around for longer, so you'll both have more opportunities to benefit from that relationship. 
-
-Here are a couple approaches I try when meeting people with similar career interests:
+A special case is when the relationship between you and your friend is like advisee and mentor. The person may have knowledge that improve your thinking or some power to help you achieve your dreams. Maybe they are people in your field whom you want to emulate. It will seem intimidating to try to befriend them, but the process is not so different from making friends! Here are a couple approaches I try when meeting people with similar career interests:
 
 __Have something to offer.__ It is hard to develop a deeper relationship with someone if there is no economic incentive for you to interact. If I find someone who's doing work I believe in, I try to find some way to help that person. This doesn't mean I spend weeks digging through their work to try to change their lives. I just try to give them a reason to feel good about talking to me. For example, I try to tell them something interesting or let them know that I believe in their work. 
 
