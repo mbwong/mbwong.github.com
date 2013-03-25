@@ -8,7 +8,7 @@ layout: post
 
 LinkedIn's founder Reid Hoffman recently published a book titled "The Start-up of YOU." It wisely suggests that we should all think of our careers as start-ups. Succeeding in today volatile economic environment requires adaptability, a strong personal network, and entrepreneurial thinking. But how do I choose what my start-up will be about? I have somewhere between 40 and 50 productive years. To be productive, I must focus and pick one thing to pursue. But I have a multitude of interests and hence have a number of career choices. What is my calling? It's a huge and looming question.
 
-## Follow my passion?
+## Should I follow my passion?
 
 In America, there is the notion that we should follow our hearts. When we think about our careers, we often ask: "What are you passionate about?" It's a consumerist idea that we should get what we want that has been beaten into us by Hollywood and its romantic comedies. We think of Oprah and Donald Trump, who openly advise that we only ought to do what we want to. 
 
