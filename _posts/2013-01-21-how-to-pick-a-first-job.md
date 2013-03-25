@@ -8,15 +8,13 @@ layout: post
 
 During my senior year, I had a choice between three job offers: I could be a consultant at [APT][apt] (a big data software company), a consultant at [The Greatest Good][tgg] (a data consultancy started by Freakonomics author Steve Levitt), or a solutions architect at [Mixpanel][mxp] (a web analytics startup). While all three of my jobs belonged under the Big Data umbrella, the job descriptions, business models, and cultures of the companies were quite different. 
 
-The main reason I chose APT was that I believed that I could learn the most there about Big Data technologies and analytical methods, as well as the Big Data ecosystem at large. These were the things that I was most interested in. APT had the scale and a transparent culture that I would get to see what management consultants see, i.e. different industries, as well as a bit of what product managers see, i.e. the product cycle. 
+I chose APT mainly because I thought I could learn the most there. I was interested in Big Data technologies and analytical methods, as well as the Big Data ecosystem at large. APT had the scale and a transparent culture that I would get to see what management consultants see, i.e. different industries, as well as a bit of what product managers see, i.e. the product cycle. I could try on different hats and learn what work I liked best. 
 
 [apt]: http://predictivetechnologies.com
 [tgg]: http://greatestgood.com
 [mxp]: http://mixpanel.com
 
-Why did I want to go to a place where I could learn the most? First, because learning about new things is fun. It's also helpful for your future. Learning makes you more productive. This opens up new opportunities in the job market. Understanding the big picture also helps you understand how to develop a competitive advantage. 
-
-Here are some components that I thought about:
+Here are some components of learning that I thought about:
 
 1. *Breadth of exposure*: One can learn a lot simply by working in an environment that allows one to see a lot of moving parts. For example, one might choose to work at a consulting firm to meet people from different parts of the corporate ladder in different industries. One might choose to work at a big software company to look at different kinds of code, understand the engineering processes, and see how different tools are used. One might become an assistant to a senator to learn about the legislative process. These high exposure jobs offers a big picture and will teach you to know whom to talk to regarding different issues. One walks away with a mental model of how things actually work. 
 
@@ -28,8 +26,8 @@ Here are some components that I thought about:
 
 5. *Support infrastructure*: It's worth it to inquire about the resources that the company will devote to helping you succeed in the job as well. The question is: Will you be able to focus on the thing you actually care about? For example, does the company provide you with sufficient compensation so that you don't have to worry too much about paying bills? Are there the internal staff, policies, support teams, or tools that you need in order to be productive? Will the additional perks (e.g. free food and gyms) help you focus on your job? How will these things affect your ability to learn?
 
-There will be a non-career dimension to an employment decisions as well. Family, friends, and location should factor your decision, for your first job is far less important than the people and support network around you. 
+Then there is a non-career dimension to an employment decisions as well. Family, friends, and location should factor your decision, for the people and support network around you are important for your personal growth as well. 
 
-Bear in mind, also, that it is premature optimization to follow this recommendation unless you have some idea of what you want to learn. If you aren't sure what career path you're interested in, read my essay on [how to find a calling][ss] as well.
+You might ask, what should I learn? I was choosing between relatively similar paths with a field, but given a choice between two different fields, how would I have chosen? Well, that's a topic for [another post][ss]. 
 
 [ss]: http://mbwong.com/2012/12/01/finding-a-calling.html
