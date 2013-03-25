@@ -14,7 +14,9 @@ In America, there is the notion that we should follow our hearts. When we think 
 
 Despite my Chinese (hence more conformist) roots, I drank the Kool-aid too. As I grew up I came to believe that I should follow my passion. I assumed that whatever I did I must love deeply. But, four years of trying different things during college made me realize that passion can be a fickle and temporary thing. Unlike the studious pre-med student who always wanted to be a doctor, my passions were all over the map. One month I am excited about web technologies. Then I'm excited about some new politician or a new book. I had relied heavily on infatuations to guide my life, but it only made me uncommitted and unfocused. Passion alone is not a good guide for life planning. 
 
-Cal Newport puts it very well in [this New York Times op-ed](http://www.nytimes.com/2012/09/30/jobs/follow-a-career-passion-let-it-follow-you.html):
+Cal Newport puts it very well in [this New York Times op-ed][newport]:
+
+[newport]: http://www.nytimes.com/2012/09/30/jobs/follow-a-career-passion-let-it-follow-you.html 
 
 >The Cult of Passion puts a lot of pressure on the rest of us — and demands long deliberation. If we’re not careful, it tells us, we may end up missing our true calling. And even after we make a choice, we’re still not free from its effects. Every time our work becomes hard, we are pushed toward an existential crisis, centered on what for many is an obnoxiously unanswerable question: “Is this what I’m really meant to be doing?” This constant doubt generates anxiety and chronic job-hopping.
 >
@@ -31,3 +33,5 @@ Reflection is also necessary to find out exactly what makes you happy. What coul
 When I graduated from college, I had a vague idea of what field I wanted to be in, but I knew little about what kind of job I really wanted. Finding happiness was, and still is, an iterative process: Try new things, fall in love, fall out of love, fail, fail, fail, -- and along the way -- introspect, strategize, and find a way to improve. Over time, I've been able to do more and more things that I love. It is hard work. There are no easy or quick answers. But, at least for me, this more deliberate and rational approach has worked better than simply "following my passion."
 
 A great essay I've read on this topic is [this lengthy discussion by Paul Graham][pg]. It has many more important points about the things that might derail you from finding work you love, such as money and prestige. As DFW says, I wish you more than luck. 
+
+[pg]: http://www.paulgraham.com/love.html
