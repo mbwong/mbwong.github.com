@@ -22,7 +22,7 @@ Cal Newport puts it very well in [this New York Times op-ed](http://www.nytimes.
 
 ## A more rational approach
 
-Rather than following your passions or ideals blindly, a better attitude is to optimize your career so that you get to do more and more things that make you happy. This way your life is not a wild romantic pursuit, but rather a march towards fulfillment. It may not be as thrilling, but I have found this approach to be more meaningful. 
+Rather than following your passions or ideals blindly, a better attitude is to optimize your career so that you get to do more and more things that make you happy. This way your life is not a wild romantic pursuit, but rather a march towards fulfillment. It may not be as thrilling, but I have found this approach to be less stressful. 
 
 Optimizing to find work you love, I think, requires a mixture of exploration and reflection. 
 
