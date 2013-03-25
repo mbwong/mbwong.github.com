@@ -20,7 +20,7 @@ Cal Newport puts it very well in [this New York Times op-ed](http://www.nytimes.
 >
 >As I considered my options during my senior year of college, I knew all about this Cult of Passion and its demands. But I chose to ignore it. The alternative career philosophy that drove me is based on this simple premise: The traits that lead people to love their work are general and have little to do with a job’s specifics. These traits include a sense of autonomy and the feeling that you’re good at what you do and are having an impact on the world. Decades of research on workplace motivation back this up. 
 
-## Finding work you love
+## A more rational approach
 
 Rather than following your passions or ideals blindly, a better attitude is to optimize your career so that you get to do more and more things that make you happy. This way your life is not a wild romantic pursuit, but rather a march towards fulfillment. It may not be as thrilling, but I have found this approach to be more meaningful. 
 
