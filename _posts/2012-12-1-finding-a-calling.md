@@ -24,16 +24,10 @@ Cal Newport puts it very well in [this New York Times op-ed](http://www.nytimes.
 
 Rather than following your passions or ideals blindly, a better attitude is to optimize your career so that you get to do more and more things that make you happy. This way your life is not a wild romantic pursuit, but rather a march towards fulfillment. It may not be as thrilling, but I have found this approach to be less stressful. 
 
-Optimizing to find work you love, I think, requires a mixture of exploration and reflection. 
+Optimizing to find work you love, I think, requires a mixture of exploration and reflection. Exploration is necessary to find out exactly what makes you happy. Without different experiences under your belt, there is simply no way for you to figure who you are and what you prefer doing. This means that you take the risks and put yourself out there. It means overcoming some of your fears of the unknown and failure. It is not always easy, but often worth it. 
 
-Exploration is necessary to find out exactly what makes you happy. Without different experiences under your belt, there is simply no way for you to figure who you are and what you prefer doing. 
+Reflection is also necessary to find out exactly what makes you happy. What could you learn from trying new things if you don't take the time to process your experiences? During introspection, you might ask yourself: What made me happy today? Am I doing work that I admire? What am I doing well and what I can do better? Reflection requires discipline. To introspect properly, you need to be honest with yourself. What good do you do for anybody, if you lie to yourself about how you don't mind doing a job that you secretly hate?
 
-This means that you take the risks and put yourself out there. It means overcoming some of your fears of the unknown and failure. It is not always easy, but often worth it. 
-
-Reflection is also necessary to find out exactly what makes you happy. What could you learn from trying new things if you don't take the time to process your experiences? During introspection, you might ask yourself: What made me happy today? Am I doing work that I admire? What am I doing well and what I can do better? Reflection requires discipline. 
-
-To introspect properly, you need to be honest with yourself. What good do you do for anybody, if you lie to yourself about how you don't mind doing a job that you secretly hate?
-
-When I graduated from college, I had a vague idea of what field I wanted to be in, but I knew little about what kind of job I really wanted. Finding happiness was, and still is, an iterative process: Try new things, fall in love, fall out of love, fail, fail, fail, -- and along the way -- introspect, strategize, and find a way to improve. Over time, I've been able to do more and more things that I love. It is hard work. There are no easy or quick answers. But, at least for me, this more deliberate and rational approach has worked better than simply "following your passion."
+When I graduated from college, I had a vague idea of what field I wanted to be in, but I knew little about what kind of job I really wanted. Finding happiness was, and still is, an iterative process: Try new things, fall in love, fall out of love, fail, fail, fail, -- and along the way -- introspect, strategize, and find a way to improve. Over time, I've been able to do more and more things that I love. It is hard work. There are no easy or quick answers. But, at least for me, this more deliberate and rational approach has worked better than simply "following my passion."
 
 A great essay I've read on this topic is [this lengthy discussion by Paul Graham][pg]. It has many more important points about the things that might derail you from finding work you love, such as money and prestige. As DFW says, I wish you more than luck. 
