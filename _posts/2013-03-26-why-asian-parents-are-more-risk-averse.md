@@ -20,6 +20,6 @@ Possible reasons that parents might exert pressure include: (A) Absent governmen
 
 This framework suggests four ways that the parent's utility function is different from a child, explaining (1). It also explains (2): Asian countries have less developed government welfare and there is a stronger expectation that children provide for their parents. Furthermore, the costs to a poor familial reputation is higher in Asian societies, leading to a strong incentive for the parents to pressure kids into less risky jobs. 
 
-This model needs much more refinement, of course. Interestingly, however, the above analysis suggests that a weakening of the family may lead to more optimal career choices by the offspring. 
+This model needs much more refinement, of course. Interestingly, though, the above analysis suggests that a weakening of the family may lead to more optimal career choices by the offspring. 
 
-There may be informational effects as well. For example, children have less complete knowledge of the world and therefore may be less capable of utility maximization. On the other hand, the world is changing rapidly, so parents are also liable to having an outdated understanding of the world also. 
+There may be informational effects as well. For example, children have less complete knowledge of the world and therefore may be less capable of utility maximization. On the other hand, the world is changing rapidly, so parents are also liable to having an outdated understanding of the world. 
