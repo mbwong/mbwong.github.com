@@ -9,9 +9,7 @@ layout: post
 Online education is all the rage today. Coursera, Udacity, EdX, Khan
 Academy are quickly becoming household names. They promise to change
 the face of education. But will these massive open online courses (MOOCs)
-actually change the landscape? 
-
-In my mind, there are two ways that these new technologies 
+actually change the landscape? In my mind, there are two ways that these new technologies 
 will change the world: (1) A revolution in access and (2) a revolution in measurement.
 
 ## A Revolution in Access
