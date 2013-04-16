@@ -4,6 +4,8 @@ title: Leaving San Francisco
 layout: post
 ---
 
+# Leaving San Francisco
+
 In a few weeks I depart for Chicago to start a research job. As I begin to pack away my belongings, my mind tried to sum up my 9 months in San Francisco... 
 
 I will miss San Francisco, no doubt about it. There is a timeless beauty to this hilly city that seems unparalleled by any other. Who can resist falling in love with the area after biking across the Golden Gate on a sunny day and then lounging at a seaside cafe for a delectable brunch? Whose heart is not filled with joy and awe after driving up the Pacific Coast Highway before sunset? Surely, biking up to Twins Peaks to watch the sunrise above the fog will forever rank among my most sublime memories. 
