@@ -6,7 +6,9 @@ layout: post
 
 # Leaving San Francisco
 
-In a few weeks I leave San Francisco for good. As I begin to pack away my belongings, my mind began to replay my past 9 months. I will miss San Francisco, no doubt about it. This hilly city possesses a timeless beauty unparalleled by any other. Who can resist falling in love with the area after biking across the Golden Gate Bridge on a sunny day and then lounging at a seaside cafe for a delectable brunch? Whose heart is not filled with joy and awe after driving up the Pacific Coast Highway before sunset? Surely, biking up to Twins Peaks to watch the sunrise above the fog will forever rank among my most sublime memories. 
+In a few weeks I leave San Francisco for good. As I begin to pack away my belongings, my mind begins to replay my past 9 months and marvel at the vast distances travelled since college graduation, physically, emotionally, intellectually. 
+
+Saying goodbye is difficult. I will miss San Francisco, no doubt about it. This hilly city possesses a timeless beauty unparalleled by any other. Who can resist falling in love with the area after biking across the Golden Gate Bridge on a sunny day and then lounging at a seaside cafe for a delectable brunch? Whose heart is not filled with joy and awe after driving up the Pacific Coast Highway before sunset? Surely, biking up to Twins Peaks to watch the sunrise above the fog will forever rank among my most sublime memories. 
 
 My love for San Francisco is much akin to a lover's infatuation, however. At first she seemed perfect. Her beauty was awe-inspiring and her quirkiness seductive. The new life with her promised redemption. Yet, spring-time obsession disappoints as the layers of intrigue peel away. After all no city can be truly, completely ideal. Underneath the surface beauty of San Francisco, there is much poverty and apathy. 
 
@@ -28,4 +30,4 @@ Another big lesson I have internalized is how much better life is when you have 
 
 I leave San Francisco a little older, perhaps wiser, certainly more hopeful. Like me San Francisco is changing and growing. Tech start-ups are migrating into the city. Various neighborhoods are being rapidly redeveloped. People from all around the globe are immigrating here. San Francisco will become increasingly cosmopolitan, which will also help it flourish. I am hopeful that San Francisco will come to address its imperfections and become the cultural center for the entire Bay Aera. In any case it will remain the beautiful city that I have long left part of my heart in. 
 
-Next stop: Hyde Park, Chicago. 
+Next stops: Yosemite - LA - Flagstaff - Grand Canyon - Las Vegas - then finally and more permanently - Hyde Park, Chicago
