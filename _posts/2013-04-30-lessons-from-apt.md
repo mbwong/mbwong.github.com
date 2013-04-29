@@ -27,7 +27,7 @@ layout: post
 19. Keep everyone in the team posted about your progress. Use a team task management software, if possible. Properly managing expectations will make you less stressed and help your team run smoother. 
 20. Small offices are more intimate and less intimidating, but larger offices give you more people to learn from. 
 21. Cross-office communication and initiatives are very difficult. Open few office unless local talent and presence is absolutely necessary. Flying product managers and senior product engineers to different offices is highly beneficial to company unity. 
-22. PowerPoints are only good for presentations. As internal documents they constrain ideas. Use written word for internal communications instead. Yet again, flexible media is better and more expressive. 
+22. PowerPoints are only good for presentations. As internal documents they constrain ideas. Use written word for internal communications instead. Yet again, flexible and expressive media is better.
 23. Record meetings as videos. It helps people improve their public speaking. It's also a great way to share knowledge across offices when timezone is a problem. 
 24. So much of building a good company is about finding talent, keeping talent, and using talent. Great founders and managers spend a ton of time on recruiting, supporting staff, and building up company culture. 
 25. Sales is a combination of understanding the prospective client's perspective and persistence. Henry Ford said something like the secret to success is to be able to see the world from another person's perspective. During my time at APT, I've observe his saying to be rather true. 
