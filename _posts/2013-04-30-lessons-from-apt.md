@@ -15,7 +15,7 @@ layout: post
 7. Code review is a fantastic get someone (me) to code better. Start early. Do it often. 
 8. Product people constantly juggling opinions and you have sell both ways. Don't just be the advocate for the user. Go to the user and be an advocate for the software team. Or vice versa. By being accountable to all parties, you gain respect and trust all around and get more done. 
 9. When working with data, always write checks to ensure the integrity of your data. You don't want to discover six months later that you don't have the write number of rows. 
-10. Giving constructive feedback to other people is difficult, but it makes the world a better place. Why? Because it's even harder to get for good constructive feedback. Write down some benchmarks, and let others know where they stand. 
+10. Giving constructive feedback to other people is hard to do and even harder to do well. A good way to give feedback is to write down some benchmarks and expectations, and let them know where they stand. 
 11. Just say "I don't know" when you don't know.  
 12. Have a story. People connect with you better that way. 
 13. It's very rare that people ask great questions. However, it's worth searching for the million-dollar question, for it will pay back in droves. 
