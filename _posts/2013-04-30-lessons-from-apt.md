@@ -1,12 +1,12 @@
 --- 
 tags: career
-title: 31 Lessons from APT
+title: 30 Lessons from APT
 layout: post
 ---
 
-# 31 Lessons from APT
+# 30 Lessons from APT
 
-1. There is always a simpler solution, and someone else probably knows it. If you ask, people are generally willing to help. Also, it is often surprising who knows things about the things you care about. Don't short change yourself by thinking you can figure it out yourself; ask. 
+1. There is always a simpler solution. Someone else probably knows it. It is often surprising who knows things about the things you care about. Don't short change yourself by thinking you can figure it out yourself; ask widely. Don't be afraid that you are wasting the time of other people. If you ask, people are generally willing to help. 
 2. Use a good, easy-to-use code repository. Let everyone see everyone else's code, even if you don't let everyone see anyone else's data. Most likely you're not the only person trying to do something, nor is it the only time you'll have to do it. 
 3. Write APIs and stored procedures. Always abstract away redundancies. It reduces error and makes life easier in the future. Understandably putting in this additional effort is often easier said than done, because humans are lazy and don't want to invest in efforts that only pay off much later. But you should over-automate. If you are not automating too much at least half of the time, that means you're automating too little on average, and that will impede the growth of your company. 
 4. Don't make smart, engineering-minded people do repetitive, manual things needlessly. It's a waste of resource. Instead, arm them with the best tools and license them to overhaul your most inefficient processes. Tell them what the company needs done, then let them take charge of the hard problems and solve them for you while you help from the sidelines. 
@@ -33,6 +33,6 @@ layout: post
 25. Sales is a combination of understanding the prospective client's perspective and persistence. Henry Ford said something like the secret to success is to be able to see the world from another person's perspective. During my time at APT, I've observe his saying to be rather true. 
 26. Relationships with clients reigns supreme. Cultivate the relationships. Get to know them at more than a superficial level. They will do amazing things for you. APT embraces this attitude and it is one of the reasons for its stellar growth. 
 27. The corporate world is bewildering. There can be entire business units in large corporations devoted to doing very little. Politics can be very toxic and lead to little or no information sharing within a company. Things are easily lost within the corporate hierarchy. What gets done depends very much on what the C-level executives care about. Managers can only work within their fiefdom and around on the margins. 
-29. Corporate restructuring causes a lot of nervousness and can bring productivity of managers and analyst to zero. The costs of such an exercise is not to be discounted. 
-30. It is worth it to bond deeply with co-workers. Organize fun activities for the team. Get to know the background of co-workers. Fight for them. Help them. Unfortunately I was too shy early on and I leave with a sense of foregoing the opportunity to develop friendships more deeply. 
-31. All in all it has been a good eight months. Taking a more roundabout career path (with a wonderful stop at APT) has taught me a lot, and I am rather hopeful that I am getting closer to finding something I love to do. 
+28. Corporate restructuring causes a lot of nervousness and can bring productivity of managers and analyst to zero. The costs of such an exercise is not to be discounted. 
+29. It is worth it to bond deeply with co-workers. Organize fun activities for the team. Get to know the background of co-workers. Fight for them. Help them. Unfortunately I was too shy early on and I leave with a sense of foregoing the opportunity to develop friendships more deeply. 
+30. All in all it has been a good eight months. Taking a more roundabout career path (with a wonderful stop at APT) has taught me a lot, and I am rather hopeful that I am getting closer to finding something I love to do. 
