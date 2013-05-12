@@ -16,7 +16,7 @@ Getting married is one of the most significant economic decisions one can make. 
 
 4. Personal traits contribute to the strength of a marriage. These include alignment of goals, open-mindedness, flexibility, willingness and ability to communicate. These attributes are important to the success of a marriage. A stable marriage require both the capacity and the determination to continually improve along these dimensions. 
 
-While (1) and (2) are strong economic reasons to get married, I find (3) much weaker. The loving feeling is likely to dissipate over time. There is a significant risk of becoming stuck in an undesirable contract. Divorce is very costly, especially with kids around. 
+While (1) and (2) are strong economic reasons to get married, I find (3) much weaker. The loving feeling is likely to dissipate over time. The incentive to stay married will weaken, and hence there is a significant risk of becoming stuck in an undesirable contract. Divorce is very costly, especially with kids around. 
 
 It is best to get married when the long-term utility gain is very high. It rarely makes sense to get married if you don't want to have kids or you don't significantly help each other achieve goals. 
 
