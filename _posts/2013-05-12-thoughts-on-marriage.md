@@ -12,7 +12,7 @@ Getting married is one of the most significant economic decisions one can make. 
 
 2. People get married to bring together distinct skill sets. For example, a big picture thinker pairs well with an detail-oriented person. A quiet thinker might benefit by pairing with a good communicator. In this case, getting married  maximizes long-term joint production output by combining complementary non-tradable assets. Marriage makes both people better able to achieve goals. Think Hillary and Bill. Call this the "power couple" arrangement. 
 
-3. People also get married to maximize immediate happiness. When one falls in love, one cannot imagine living without the other person. Getting married is an agreement to keep this person around to make oneself happier in the moment. 
+3. People also get married to maximize immediate happiness. When one falls in love, one cannot imagine living without the other person. Loneliness sucks; getting married gives one a thrill and fulfillment otherwise difficult to obtain. 
 
 4. Personal traits contribute to the strength of a marriage. These include alignment of goals, open-mindedness, flexibility, willingness and ability to communicate. These attributes are important to the success of a marriage. A stable marriage require both the capacity and the determination to continually improve along these dimensions. 
 
