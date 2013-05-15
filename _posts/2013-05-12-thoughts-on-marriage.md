@@ -10,7 +10,7 @@ Getting married is one of the most significant economic decisions one can make. 
 
 1. People get married to have kids. The basic reasoning is that two individuals pre-commit to a long-term project that takes twenty years to complete. Child-rearing is resource-intensive and the childbearing party needs a societally enforceable commitment. 
 
-2. People get married to brings together distinct skill sets. For example, a big picture thinker pairs well with an detail-oriented person. A quiet thinker might benefit by pairing with a good communicator. In this case, getting married  maximizes long-term joint production output by combining complementary non-tradable assets. Marriage makes both people better able to achieve goals. Think Hillary and Bill. Call this the "power couple" arrangement. 
+2. People get married to bring together distinct skill sets. For example, a big picture thinker pairs well with an detail-oriented person. A quiet thinker might benefit by pairing with a good communicator. In this case, getting married  maximizes long-term joint production output by combining complementary non-tradable assets. Marriage makes both people better able to achieve goals. Think Hillary and Bill. Call this the "power couple" arrangement. 
 
 3. People also get married to maximize immediate happiness. When one falls in love, one cannot imagine living without the other person. Getting married is an agreement to keep this person around to make oneself happier in the moment. 
 
