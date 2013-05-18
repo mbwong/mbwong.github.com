@@ -20,4 +20,6 @@ While (1) and (2) are strong economic reasons to get married, I find (3) much we
 
 It is best to get married when the long-term utility gain is very high. It is more difficult in the longer run to stay married if you don't want to have kids or you don't significantly help each other achieve goals. 
 
-Of course, there is a lot of uncertainty involved in such long term planning. Dating is desirable for it improves information and reduces uncertainty. But there will always be "unknown unknowns." Luck will play a large role. So, best of luck too. 
+Of course, marriage is not a static equilibrium. Rather it is not only dynamic but subject to all kinds of shocks. In particular, relationships are probably overexposed to bad events simply because bad events are more memorable and painful. I have found human relationships to be rather difficult to change. Relationships often fall into a certain pattern and it takes a lot of effort to change. It is probably a good idea to both start a relationship and keep it on the right footing.
+
+There is also a lot of uncertainty involved in such long term planning. Dating is desirable for it improves information and reduces uncertainty. But there will always be "unknown unknowns." Luck will play a large role. So, best of luck too. 
