@@ -6,7 +6,7 @@ layout: post
 
 # Thoughts on Marriage
 
-Getting married is one of the most significant economic decisions one can make. Without having read much on family economics, let me speculate about when marriage is appropriate. In my mind there are several mechanisms at play: 
+Getting married is one of the most significant economic decisions one can make. Suppose we only think of marriage as merely a legal contract to share income with a cost to breaking it. Furthemore let us ignore its religious or cultural implications. Without having read much on family economics, let me speculate about when marriage is appropriate. In my mind there are several mechanisms at play: 
 
 1. People get married to have kids. A long commitment is necessary because child-rearing is resource-intensive. Since division of labor is efficient, two individuals commit to a long-term project that takes twenty years to complete. 
 
