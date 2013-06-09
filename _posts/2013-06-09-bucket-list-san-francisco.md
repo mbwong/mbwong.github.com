@@ -6,7 +6,7 @@ layout: post
 
 #Bucket list for San Francisco
 
-I have been missing SF very much since my move to Chicago. Here's a list of things I came to love while I was there. Perhaps someone will find them useful. 
+I have been missing SF very much since my move to Chicago. Here's a list of things I came to love while I was there. Perhaps you will find them useful. 
 
 * Brunch places - Brenda's, Universal Cafe
 * Burrito - Tacqueria Cancun
