@@ -1,7 +1,5 @@
 --- 
-tags: 
-- business
-- data
+tags: business data
 title: Why everyone hates on the IT department
 layout: post
 published:false
