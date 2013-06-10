@@ -10,9 +10,9 @@ I have been missing SF very much since my move to Chicago. Here's a list of thin
 
 * Favorite brunch places - Brenda's, Universal Cafe
 * Favorite burrito - Tacqueria Cancun
-* Favorite bookstores - Dog-eared books
+* Favorite bookstore - Dog-eared books
 * Favorite Vietnamese - Turtle Tower
-* Favorite im sum - Hong Kong Lounge; Runner up: The House in Milbrae (actually it's better, but much farther)
+* Favorite dim sum - Hong Kong Lounge; Runner up: The House in Milbrae (actually it's better, but much farther)
 * Favorite Yakitori - Kokko in San Mateo
 * Favorite place to drink beer - Suppenkuche
 * Favorite coffee shop for working - Coffee Bar
