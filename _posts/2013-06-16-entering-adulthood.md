@@ -54,7 +54,7 @@ What matters is that _you_ do work that is fulfilling and meaningful. Thankfully
 
 Now the 9-to-5 grind and the loneliness of adult life -- _that shit is real_. When I was grinding away in consulting, I barricaded my soul against the tedium of work life with books, documentaries, new experiences around the city, intellectual conversations with friends nearby, and letters with friends far away. Even now with a job I enjoy much more I still try to keep my life varied. 
 
-I try not to live beyond my means. Getting used to a lifestyle can lead to suffering, because you then no longer know how to live without it. Behavioral economists may call this loss aversion. Buddhist may call this attachment. But at the same time it is too extreme to shun all worldly pleasure. What I try to do is to live with a bit of awe in my daily life instead. I try to remember that I come from dust and to dust I will return. Everything nice is nice while it lasts. It is a luxury and not a necessity. 
+I try not to live beyond my means. Getting used to a lifestyle can lead to suffering, because you then no longer know how to live without it. Behavioral economists may call this loss aversion. Buddhists may call this attachment. But at the same time it is too extreme to shun all worldly pleasure. What I try to do is to live with a bit of awe in my daily life instead. I try to remember that I come from dust and to dust I will return. Everything nice is nice while it lasts. It is a luxury and not a necessity. 
 
 As for [networking][networking], I think of it as finding out about different people and different work and maybe making friends along the way. It is really not that important to impress anyone. I just let them teach me something new and have fun listening. 
 
