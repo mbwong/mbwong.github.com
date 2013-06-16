@@ -70,4 +70,4 @@ I once wrote about my more rational approach to [finding work I love][love]. Per
 
 [love]: http://mbwong.com/2012/12/01/finding-a-calling.html
 
-Living well is the work of a lifetime.  In retrospect I am lucky that I didn't love my first job; I ended up with lots of mental bandwidth to reflect and work through personal issues. You and I will experience many more things in the next few years. We should expect to change our mind many times. We are young and we still have time. 
+Living well is the work of a lifetime.  In retrospect I feel lucky that I didn't love my first job; I ended up with lots of mental bandwidth to reflect and work through personal issues. You and I will experience many more things in the next few years. We should expect to change our mind many times. We are young and we still have time. 
