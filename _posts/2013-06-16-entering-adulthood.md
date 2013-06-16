@@ -28,7 +28,7 @@ Adulthood was so utterly overwhelming that I took many, many months to ponder it
 [harvard]: http://www.theatlantic.com/magazine/archive/2009/06/what-makes-us-happy/307439/
 [hahn]: http://ajaytao2010.files.wordpress.com/2012/08/true-love-thich-nhat-hanh.pdf
 
-(2) **Do work I enjoy** - The idea is simple: spend as many hours a day as possible doing something I love. By contrast, this is very hard to achieve. Half of my friends from college have quit their first jobs because they weren't a good fit and it has only been a year since graduation. It is hard because no one can tell you what kind of work you can enjoy. To pick the right job you have to know what motivates and excites you. These things are partly unique to each person and you have to figure it out yourself. 
+(2) **Do work I enjoy** - The idea is simple: spend as many hours a day as possible doing something I love. By contrast, this is very hard to achieve. It has only been a year since graduation and half of my friends have quit their first jobs because they weren't a good fit. I think finding work you love is hard because no one can tell you what kind of work you can enjoy. To pick the right job you have to know what motivates and excites you. These things are partly unique to each person and you have to figure it out yourself. 
 
 I have a clearer idea now that I have tried a few things: I like thinking about ideas and helping people I love. I love writing and teaching; I get totally immersed in it. By contrast, I hate commuting, short deadlines, and attending meetings. I'm also not really a competitive person, so I don't excel at everything I do. I'm much more motivated when my actions lead to something bigger than myself, like helping people. 
 
