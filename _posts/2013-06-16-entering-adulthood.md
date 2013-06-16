@@ -41,7 +41,7 @@ So how do I make money? In fact there are so many ways to make money. Sure it ca
 
 [vogels]: http://www.blouinartinfo.com/news/story/815597/remembering-herbert-vogel-the-postman-who-amassed-one-of-americas-greatest-art-collections
 
-Then there are moments when doing things I love comes into conflict with making money. When this happens, I try to remember that money is just a means of achieving some other things that I care about. I ask myself: Are those other things worth not doing what I love? 
+There are often moments when doing things I love comes into conflict with making money. When this happens, I try to remember that money is just a means of achieving some other things that I care about. I ask myself: Are those other things worth not doing what I love? 
 
 ## Other observations
 
