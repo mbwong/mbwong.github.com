@@ -13,7 +13,7 @@ I remember my first experiences of adult life well. It was during my internship 
 [lcd]: http://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl
 [talkingheads]: http://open.spotify.com/track/2WM63pILSg6VzgCnu0OU6K
 
-Adulthood was so utterly overwhelming that I took many, many months to pondered it.  [Many][kahneman] [thinkers][aurelius] [have][trunk] [helped][dfw] [me][graham]. I also benefited from talking and writing with many friends and, at one point, a therapist. Perhaps I can help by telling you a few principles that I now follow. 
+Adulthood was so utterly overwhelming that I took many, many months to ponder it.  [Many][kahneman] [thinkers][aurelius] [have][trunk] [helped][dfw] [me][graham]. I also benefited from talking and writing with many friends and, at one point, a therapist. Perhaps I can help by telling you a few principles that I now follow. 
 
 [trunk]: http://blog.penelopetrunk.com/
 [graham]: http://www.paulgraham.com/love.html
