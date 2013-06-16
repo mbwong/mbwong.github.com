@@ -45,11 +45,11 @@ There are often moments when doing things I love comes into conflict with making
 
 ## Other observations
 
-You raised some interesting [criticisms][mit] of the culture of the tech industry. Don't make too big a deal out of it, though. There will be bad incentives and bad culture in any industry. Academics spend too much time fussing about publications and tenure, doctors with lawsuits, bankers with face time, priests with orthodoxy. If you ruled out industries due to some generalization like "people in tech aren't tackling meaningful questions", soon there won't be any industries that you can work in. 
+You raised some interesting [criticisms][mit] of the culture of the tech industry. I'm not sure that should stop you from doing what you love. There will be bad incentives and bad culture in any industry. Academics spend too much time fussing about publications and tenure, doctors with lawsuits, bankers with face time, priests with orthodoxy. If you ruled out industries due to some generalization like "people in tech aren't tackling meaningful questions", soon there won't be any industries that you can work in. 
 
 [mit]: http://miter.mit.edu/the-unexotic-underclass/
 
-What matters is that _you_ do work that is fulfilling. Thankfully, variation within industries is often large. I worry about the mini-culture of my specific team more than what people in other companies do. I look for coworkers that I can learn from for a long time to come. I look for bosses that give me clear goals and good feedback, but trust me to be independent and creative. Great parents do that for their kids. Great teachers do that for their students. Great bosses are like that too. 
+What matters is that _you_ do work that is fulfilling and meaningful. Thankfully, variation within industries is often large. I worry about the mini-culture of my specific team more than what people in entire industry do. I look for coworkers that I can learn from for a long time to come. I look for bosses that give me clear goals and good feedback, but trust me to be independent and creative. Great parents do that for their kids. Great teachers do that for their students. Great bosses are like that too. 
 
 Now the 9-5 grind and the loneliness of adult life -- _that shit is real_. When I was grinding away in consulting, I barricaded my soul against the tedium of work life with books, documentaries, new experiences around the city, intellectual conversations with friends nearby, and letters with friends far away. Even now with a job I enjoy much more I still try to keep my life varied. 
 
