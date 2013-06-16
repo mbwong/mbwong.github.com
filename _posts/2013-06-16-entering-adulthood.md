@@ -45,7 +45,7 @@ There are often moments when doing things I love comes into conflict with making
 
 ## Other observations
 
-You raised some interesting [criticisms][mit] about the culture of the tech industry. I'm not sure that should stop you from doing what you love. There will be bad incentives and bad culture in any industry. Academics spend too much time fussing about publications and tenure, doctors with lawsuits, bankers with face time, priests with orthodoxy. If you ruled out industries due to some generalization like "people in tech aren't tackling meaningful questions", soon there won't be any industries that you can work in. 
+You raised some interesting [criticisms][mit] about the culture of the tech industry. I'm not sure that should stop you from doing what you enjoy if technology is what motivates and excites you. There will be bad incentives and bad culture in any industry. Academics spend too much time fussing about publications and tenure, doctors with lawsuits, bankers with face time, priests with orthodoxy. If you ruled out industries due to some generalization like "people in tech aren't tackling meaningful questions", soon there won't be any industries that you can work in. 
 
 [mit]: http://miter.mit.edu/the-unexotic-underclass/
 
