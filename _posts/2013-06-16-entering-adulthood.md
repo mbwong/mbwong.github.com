@@ -41,7 +41,7 @@ So how do I make money? In fact there are so many ways to make money. Sure it ca
 
 I am fortunate. I don't have kids yet and my parents hopefully have many healthy years left.  It wasn't easy, but I did manage to find jobs that allow me to subsist and learn a ton. Learning is enjoyable _and_ it helps me make money in the long run. 
 
-There are often moments when doing things I love comes into conflict with making money. When this happens, I try to remember that money is just a means of achieving some other things that I care about. I ask myself: Are those other things worth not doing what I love? 
+There are often moments when doing things I love comes into conflict with making money. When this happens, I try to remember that money is just a means of achieving some other things that I care about. I ask myself: Are those other things worth the time that I won't be doing what I love? 
 
 ## Other observations
 
