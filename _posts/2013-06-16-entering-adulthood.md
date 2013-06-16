@@ -8,7 +8,7 @@ layout: post
 
 _A friend wrote to me about the confusion of entering adult life -- the 9-to-5 grind, the loss of close-by friends, the phoniness, the materialism. Here's an edited version of my response._
 
-I remember my first experiences of adult life during my internship the summer before senior year. I was exhausted each day when I returned from just sitting in front of a computer from 9am to 6pm. I was frightened to realize that all my friends were [suddenly far away][lcd]. Adulthood was so utterly overwhelming that it took many, many months for me to even begin to sort it out. I remember thinking, [_How did I get here?_][talkingheads] I was so confused about what to do with my life. I changed my mind again and again. 
+I remember my first experiences of adult life during my internship the summer before senior year well. I was exhausted each day when I returned from just sitting in front of a computer from 9am to 6pm. I was frightened to realize that all my friends were [suddenly far away][lcd]. Adulthood was so utterly overwhelming that it took many, many months for me to even begin to sort it out. I remember thinking, [_How did I get here?_][talkingheads] I was so confused about what to do with my life. I changed my mind again and again. 
 
 [lcd]: http://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl
 [talkingheads]: http://open.spotify.com/track/2WM63pILSg6VzgCnu0OU6K
