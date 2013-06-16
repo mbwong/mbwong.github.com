@@ -23,8 +23,9 @@ Adulthood was so utterly overwhelming that I took many, many months to ponder it
 
 ## Goals
 
-(1) **Build deep relationships with many people** - Psychologists say relationships with other humans are the single most important factor for happiness. As I left school, I began to realize that friendships just aren't the renewable resource that it used to be. I've never been good at keeping touch, but I try to do better now. I have found this to be pretty simple: Just reach out to people whose company I like and grab a lunch or Skype. Really listen to them. Help them. It is incredibly rewarding to keep relationships with friends and family alive, warm, and meaningful. Here is more wisdom on [how to love someone][hahn]. 
+(1) **Build deep relationships with many people** - [Psychologists][harvard] say relationships with other humans are the single most important factor for happiness. As I left school, I began to realize that friendships just aren't the renewable resource that it used to be. I've never been good at keeping touch, but I try to do better now. I have found this to be pretty simple: Just reach out to people whose company I like and grab a lunch or Skype. Really listen to them. Help them. It is incredibly rewarding to keep relationships with friends and family alive, warm, and meaningful. Here is more wisdom on [how to love someone][hahn]. 
 
+[harvard]: http://www.theatlantic.com/magazine/archive/2009/06/what-makes-us-happy/307439/
 [hahn]: http://ajaytao2010.files.wordpress.com/2012/08/true-love-thich-nhat-hanh.pdf
 
 (2) **Do work I enjoy** - The idea is simple: spend as many hours a day as possible doing something I love. By contrast, this is very hard to achieve. Half of my friends from college have quit their first jobs because they weren't a good fit and it has only been a year since graduation. It is hard because no one can tell you what kind of work you can enjoy. To pick the right job you have to know what motivates and excites you. These things are partly unique to each person and you have to figure it out yourself. 
