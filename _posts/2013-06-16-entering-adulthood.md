@@ -49,7 +49,7 @@ You raised some interesting [criticisms][mit] of the culture of the tech industr
 
 [mit]: http://miter.mit.edu/the-unexotic-underclass/
 
-What matters is that _you_ do work that is fulfilling and meaningful. Thankfully, variation within industries is often large. I worry about the mini-culture of my specific team more than what people in entire industry do. I look for coworkers that I can learn from for a long time to come. I look for bosses that give me clear goals and good feedback, but trust me to be independent and creative. Great parents do that for their kids. Great teachers do that for their students. Great bosses are like that too. 
+What matters is that _you_ do work that is fulfilling and meaningful. Thankfully, variation within industries is often large. I worry about the mini-culture of my specific team much more. I look for coworkers that I can learn from for a long time to come. I look for bosses that give me clear goals and good feedback, but trust me to be independent and creative. Great parents do that for their kids. Great teachers do that for their students. Great bosses are like that too. 
 
 Now the 9-5 grind and the loneliness of adult life -- _that shit is real_. When I was grinding away in consulting, I barricaded my soul against the tedium of work life with books, documentaries, new experiences around the city, intellectual conversations with friends nearby, and letters with friends far away. Even now with a job I enjoy much more I still try to keep my life varied. 
 
