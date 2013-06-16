@@ -6,7 +6,7 @@ layout: post
 
 # Entering Adulthood
 
-_A friend wrote to me about the confusion of entering adult life -- the 9-5 grind, the loss of close-by friends, the phoniness, the materialism. Here's an edited version of my response._
+_A friend wrote to me about the confusion of entering adult life -- the 9-to-5 grind, the loss of close-by friends, the phoniness, the materialism. Here's an edited version of my response._
 
 I remember my first experiences of adult life during my internship the summer before senior year. I was exhausted each day when I returned from just sitting in front of a computer from 9am to 6pm. I was frightened to realize that all my friends were [suddenly far away][lcd]. Adulthood was so utterly overwhelming that it took many, many months for me to even begin to sort it out. I remember thinking, [_How did I get here?_][talkingheads] I was so confused about what to do with my life. I changed my mind again and again. 
 
@@ -31,7 +31,7 @@ I cannot claim to have any more experience than you, but perhaps I have gained f
 
 I have a clearer idea now that I have tried a few things: I like thinking about ideas and helping people I love. I love writing and teaching; I get totally immersed in it. By contrast, I hate commuting, short deadlines, and attending meetings. I'm also not really a competitive person, so I don't excel at everything I do. I'm much more motivated when my actions lead to something bigger than myself, like helping people. 
 
-You might think: all this should be obvious, right? But while I could say these same words two years ago, they were not meaningful realities. Two years ago I could say, "Oh, 9-5 is a drag", but did I really understand how or why it was a drag until I experienced it? Sometimes one has to make mistakes. Mistakes hurt, but they also make one think harder. If you're not completely happy with your internship, you might ask: Well, why do you find your work unfulfilling? What might make it more fulfilling? How do you get there? The only way to find work you enjoy is to try. 
+You might think: all this should be obvious, right? But while I could say these same words two years ago, they were not meaningful realities. Two years ago I could say, "Oh, 9-to-5 is a drag", but did I really understand how or why it was a drag until I experienced it? Sometimes one has to make mistakes. Mistakes hurt, but they also make one think harder. If you're not completely happy with your internship, you might ask: Well, why do you find your work unfulfilling? What might make it more fulfilling? How do you get there? The only way to find work you enjoy is to try. 
 
 (3) **Make some money (eventually)** - Money is a means to an end. Money matters to me because I want the power to do things for people I love, such as pay my parents' medical bills or my kids' education. Money also matters because it frees me to do things I enjoy and spend time with people I love; I don't want to worry a ton about the cost of groceries or be unable to purchase airplane tickets. When you think about it this way, making money can be an act of love. Some people make money for selfish reasons, but it is possible make money for selfless reasons too. 
 
@@ -51,7 +51,7 @@ You raised some interesting [criticisms][mit] about the culture of the tech indu
 
 What matters is that _you_ do work that is fulfilling and meaningful. Thankfully, variation within industries is often large. I worry about the mini-culture of my specific team much more. I look for coworkers that I can learn from for a long time to come. I look for bosses that give me clear goals and good feedback, but trust me to be independent and creative. Great parents do that for their kids. Great teachers do that for their students. Great bosses are like that too. 
 
-Now the 9-5 grind and the loneliness of adult life -- _that shit is real_. When I was grinding away in consulting, I barricaded my soul against the tedium of work life with books, documentaries, new experiences around the city, intellectual conversations with friends nearby, and letters with friends far away. Even now with a job I enjoy much more I still try to keep my life varied. 
+Now the 9-to-5 grind and the loneliness of adult life -- _that shit is real_. When I was grinding away in consulting, I barricaded my soul against the tedium of work life with books, documentaries, new experiences around the city, intellectual conversations with friends nearby, and letters with friends far away. Even now with a job I enjoy much more I still try to keep my life varied. 
 
 I try not to live beyond my means. Getting used to a lifestyle can lead to suffering, because you then no longer know how to live without it. Behavioral economists may call this loss aversion. Buddhist may call this attachment. But at the same time it is too extreme to shun all worldly pleasure. What I try to do is to live with a bit of awe in my daily life instead. I try to remember that I come from dust and to dust I will return. Everything nice is nice while it lasts. It is a luxury and not a necessity. 
 
