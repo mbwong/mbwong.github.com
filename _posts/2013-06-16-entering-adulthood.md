@@ -13,7 +13,7 @@ I remember my first experiences of adult life during my internship the summer be
 [lcd]: http://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl
 [talkingheads]: http://open.spotify.com/track/2WM63pILSg6VzgCnu0OU6K
 
-I cannot claim to have any more experience than you, but perhaps I have gained from pondering adulthood for the past year.  [Many][kahneman] [thinkers][aurelius] [have][trunk] [helped][dfw] [me][graham]. I also benefited from talking and writing with many friends and, at one point, a therapist. Perhaps I can help by telling you a few goals that I have coming out of my reflections. 
+I have pondered adulthood for the past year.  [Many][kahneman] [thinkers][aurelius] [have][trunk] [helped][dfw] [me][graham]. I also benefited from talking and writing with many friends and, at one point, a therapist. Perhaps I can help by telling you a few goals that I have coming out of my reflections. 
 
 [trunk]: http://blog.penelopetrunk.com/
 [graham]: http://www.paulgraham.com/love.html
