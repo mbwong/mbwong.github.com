@@ -8,12 +8,12 @@ layout: post
 
 _A friend wrote to me about the confusion of entering adult life -- the 9-to-5 grind, the loss of close-by friends, the phoniness, the materialism. Here's an edited version of my response._
 
-I remember my first experiences of adult life during my internship the summer before senior year well. I was exhausted each day when I returned from just sitting in front of a computer from 9am to 6pm. I was frightened to realize that all my friends were [suddenly far away][lcd]. Adulthood was so utterly overwhelming that it took many, many months for me to even begin to sort it out. I remember thinking, [_How did I get here?_][talkingheads] I was so confused about what to do with my life. I changed my mind again and again. 
+I remember my first experiences of adult life well. It was during my internship the summer before senior year. I was exhausted each day when I returned from just sitting in front of a computer from 9am to 6pm. I was frightened to realize that all my friends were [suddenly far away][lcd]. I remember thinking, [_How did I get here?_][talkingheads] I was so confused about what to do with my life. I changed my mind again and again. 
 
 [lcd]: http://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl
 [talkingheads]: http://open.spotify.com/track/2WM63pILSg6VzgCnu0OU6K
 
-I have pondered adulthood for the past year.  [Many][kahneman] [thinkers][aurelius] [have][trunk] [helped][dfw] [me][graham]. I also benefited from talking and writing with many friends and, at one point, a therapist. Perhaps I can help by telling you a few goals that I have coming out of my reflections. 
+Adulthood was so utterly overwhelming that I took many, many months to pondered it.  [Many][kahneman] [thinkers][aurelius] [have][trunk] [helped][dfw] [me][graham]. I also benefited from talking and writing with many friends and, at one point, a therapist. Perhaps I can help by telling you a few principles that I now follow. 
 
 [trunk]: http://blog.penelopetrunk.com/
 [graham]: http://www.paulgraham.com/love.html
@@ -23,7 +23,7 @@ I have pondered adulthood for the past year.  [Many][kahneman] [thinkers][aureli
 
 ## My Goals
 
-(1) **Build deep relationships with people** - Psychologists say relationships with other humans are the single most important factor for happiness. As I left school, I began to realize that friendships just aren't the renewable resource that it used to be. I've never been good at keeping touch, but I try to do better now. I have found this to be pretty simple: Just reach out to people whose company I like and grab a lunch or Skype. Really listen to them. Help them. It is incredibly rewarding to keep relationships with friends and family alive, warm, and meaningful. Here is more wisdom on [how to love someone][hahn]. 
+(1) **Build deep relationships with many people** - Psychologists say relationships with other humans are the single most important factor for happiness. As I left school, I began to realize that friendships just aren't the renewable resource that it used to be. I've never been good at keeping touch, but I try to do better now. I have found this to be pretty simple: Just reach out to people whose company I like and grab a lunch or Skype. Really listen to them. Help them. It is incredibly rewarding to keep relationships with friends and family alive, warm, and meaningful. Here is more wisdom on [how to love someone][hahn]. 
 
 [hahn]: http://ajaytao2010.files.wordpress.com/2012/08/true-love-thich-nhat-hanh.pdf
 
