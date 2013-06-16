@@ -21,7 +21,7 @@ Adulthood was so utterly overwhelming that I took many, many months to ponder it
 [aurelius]: http://www.amazon.com/The-Emperors-Handbook-Translation-Meditations/dp/0743233832
 [dfw]: http://moreintelligentlife.com/story/david-foster-wallace-in-his-own-words
 
-## My Goals
+## Goals
 
 (1) **Build deep relationships with many people** - Psychologists say relationships with other humans are the single most important factor for happiness. As I left school, I began to realize that friendships just aren't the renewable resource that it used to be. I've never been good at keeping touch, but I try to do better now. I have found this to be pretty simple: Just reach out to people whose company I like and grab a lunch or Skype. Really listen to them. Help them. It is incredibly rewarding to keep relationships with friends and family alive, warm, and meaningful. Here is more wisdom on [how to love someone][hahn]. 
 
