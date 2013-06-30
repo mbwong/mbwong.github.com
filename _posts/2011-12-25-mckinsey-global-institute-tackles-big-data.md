@@ -2,6 +2,7 @@
 tags: data business
 title: McKinsey's report on Big Data
 layout: post
+published: false
 ---
 # McKinsey's report on Big Data
 
