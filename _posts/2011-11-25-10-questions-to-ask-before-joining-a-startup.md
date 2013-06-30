@@ -2,10 +2,10 @@
 tags: 
 - life
 - career
-title: How to evaluate a startup job
+title: Joining a startup 
 layout: post
 ---
-# How to evaluate a startup job
+# Joining a startup
 
 [OnStartups](http://onstartups.com/tabid/3339/bid/122/Joining-A-Startup-Top-6
 -Questions-You-Should-Ask.aspx) has a good post on questions to ask before
