@@ -1,6 +1,6 @@
 --- 
 tags: life personal
-title: Bucket list for San Francisco
+title: Bucket list&#58; San Francisco
 layout: post
 ---
 
