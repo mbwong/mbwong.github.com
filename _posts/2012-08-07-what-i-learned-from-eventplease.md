@@ -1,6 +1,6 @@
 --- 
 tags: life career
-title: Lessons from Eventplease
+title: Lessons learned: Eventplease
 layout: post
 ---
 
