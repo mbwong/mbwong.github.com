@@ -1,10 +1,10 @@
 --- 
 tags: data education
-title: Two Revolutions in Online Education
+title: A Revolution in Online Education
 layout: post
 ---
 
-# Two Revolutions in Online Education
+# A Revolution in Online Education
 
 Online education is all the rage today. Coursera, Udacity, EdX, Khan
 Academy are quickly becoming household names. They promise to change
