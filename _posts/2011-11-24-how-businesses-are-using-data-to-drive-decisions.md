@@ -4,7 +4,7 @@ tags:
 - data
 title: How businesses use data
 layout: post
-published: no
+published: false
 ---
 # How businesses are using data to drive decisions
 
