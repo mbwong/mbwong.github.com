@@ -3,7 +3,7 @@ tags: career
 title: Getting a job at an elite firm
 layout: post
 ---
-# Getting a job at an elite firm
+# How to get a job at an elite firm
 
 [Bryan
 Caplan](http://econlog.econlib.org/archives/2011/11/how_elite_firms.html)
