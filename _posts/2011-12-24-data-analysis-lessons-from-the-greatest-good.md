@@ -1,9 +1,9 @@
 --- 
 tags: data
-title: Data lessons from the Greatest Good
+title: Lessons learned: the Greatest Good
 layout: post
 ---
-# What I learned about data analysis at the Greatest Good
+# Lessons learned: the Greatest Good
 
 I spent my past summer at [the Greatest Good](http://greatestgood.com/), a
 consulting boutique headed by Steve Levitt and other Chicago economists. I got
