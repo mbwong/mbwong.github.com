@@ -3,6 +3,7 @@ tags:
 - economics
 title: xkcd visualizes money
 layout: post
+published: false
 ---
 # xkcd visualizes money
 
