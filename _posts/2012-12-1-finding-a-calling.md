@@ -1,10 +1,10 @@
 --- 
 tags: life career
-title: Finding work you love
+title: How to find work you love
 layout: post
 ---
 
-# Finding work you love
+# How to find work you love
 
 LinkedIn's founder Reid Hoffman recently published a book titled "The Start-up of YOU." It wisely suggests that we should all think of our careers as start-ups. Succeeding in today volatile economic environment requires adaptability, a strong personal network, and entrepreneurial thinking. But how do I choose what my start-up will be about? I have somewhere between 40 and 50 productive years. To be productive, I must focus and pick one thing to pursue. But I have a multitude of interests and hence have a number of career choices. What is my calling? It's a huge and looming question.
 
