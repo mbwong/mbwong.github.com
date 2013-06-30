@@ -1,10 +1,10 @@
 --- 
 tags: life career
-title: Picking your first job
+title: Jobs that help you learn
 layout: post
 ---
 
-# Picking your first job
+# Jobs that help you learn
 
 During my senior year, I had a choice between three job offers: I could be a consultant at [APT][apt] (a big data software company), a consultant at [The Greatest Good][tgg] (a data consultancy started by Freakonomics author Steve Levitt), or a solutions architect at [Mixpanel][mxp] (a web analytics startup). While all three of my jobs belonged under the Big Data umbrella, the job descriptions, business models, and cultures of the companies were quite different. 
 
