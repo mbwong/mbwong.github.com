@@ -12,18 +12,13 @@ findings](http://www.sciencedirect.com/science/article/pii/S027656241000065X)
 about the recruiting process at elite law firms, investment banks, and
 management consulting firms. Here's how you make it:
 
-1. Go to Harvard or Princeton. Elite firms focus their candidate search at only the most prestigious schools. "Public ivies" such as UMich or Berkeley don't get nearly as much attention.
+1. **Go to Harvard or Princeton.** Elite firms focus their candidate search at only the most prestigious schools. "Public ivies" such as UMich or Berkeley don't get nearly as much attention.
 
-2. Do the right kind of extracurriculars. Be a varsity athlete. Climb Everest. Tour Asia as a concert pianist. Be unique in the right way. Do things that signal work ethic, sociability, and drive.
+2. **Do the right kind of extracurriculars.** Be a varsity athlete. Climb Everest. Tour Asia as a concert pianist. Be unique in the right way. Do things that signal work ethic, sociability, and drive.
 
-3. Maintain a good GPA. Grades matter, but just as a cutoff.
+3. **Maintain a good GPA.** Grades matter, but just as a cutoff.
 
-4. Follow the same path as people who made it. Evaluators have a lot of slack and they tend to recruit people who are similar to themselves.
-
-Below is a chart describing the most important signals to employers. Notice
-that extracurriculars are more important than grades!
-
-![](http://media.tumblr.com/tumblr_lv51kj1Vq11r3oiuq.png)
+4. **Follow the same path as people who made it.** Evaluators have a lot of slack and they tend to recruit people who are similar to themselves.
 
 Now is this system fair? According to Rivera,
 
@@ -36,20 +31,11 @@ Now is this system fair? According to Rivera,
 > socioeconomic status that could signiﬁcantly disadvantage those candidates who
 > attend super-elite universities but who come from less afﬂuent backgrounds.
 
-Indeed, why do recruiters look so fondly on prestigious institutions, gap-year
-travel, or other time- and resource-heavy activities? And why do they care so
-much about "culture fit"? Because it's important to blend in with the elite
-and be able to tell impressive stories at dinner parties. Afterall, the
-ability to charm is a form of cultural capital.
-
-The result of this emphasis on extracurriculars achievement and the homophilic
-nature of recruiting is social closure. In the end, the recruiting process
-ends up serving and perpetuating people who look like the elite.
-
-So you want to work for an elite firm? Learn to look like a high-achieving
-elite.
-
-As they say, fake it till you make it.
+Indeed, to impress the elite, you've got to look like one. And sadly, this 
+emphasis on extracurriculars achievement is force towards social closure. In 
+the end, the recruiting process ends up serving and perpetuating people who 
+look like the elite. So you want to work for an elite firm? Do as they say: 
+fake it till you make it.
 
 ______________________________________________________________
 
