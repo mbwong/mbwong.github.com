@@ -27,7 +27,7 @@ Another easy mistake is to **confuse being in the wrong industry with having a b
 
 Does your job meet these criteria? That you don't like your current job doesn't mean that you need to move to LA or do something else that is drastically different. You may just need to change up your work environment. Sometimes you'll be able to find better work environments within your industry or even with the same company. When you find a better environment, you'll notice that you're much better motivated to grow and learn. 
 
-Now even though meaning and passion matter less than people think, they still matter. I become extra motivated when I do things I believe in and care about. I'm not saying you should ignore your passions completely. Rather, passion doesn't solve all your problems. Even when you are doing things are more interesting or meaningful to you, there are still good and bad workplaces. 
+Now even though meaning and passion matter less than people think, they still matter. I become extra motivated when I do things I believe in and care about. No, you shouldn't ignore your passions completely. But passion doesn't solve all your problems either. Even when you are doing things are more interesting or meaningful to you, there are still good and bad workplaces. 
 
 ## A more rational approach
 
