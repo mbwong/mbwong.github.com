@@ -4,7 +4,7 @@ title: Letter to a younger friend
 layout: post
 ---
 
-# Entering Adulthood
+# Letter to a younger friend
 
 _A friend wrote to me about the confusion of entering adult life -- the 9-to-5 grind, the loss of close-by friends, the phoniness, the materialism. Here's my response._
 
