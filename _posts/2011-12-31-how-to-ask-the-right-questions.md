@@ -1,9 +1,9 @@
 --- 
 tags: life career
-title: Asking the right questions
+title: How to ask good questions
 layout: post
 ---
-# How to ask the right questions
+# How to ask good questions
 
 In the workplace, one of the most useful skills to possess is the ability to
 ask the right questions. In my view, questions serve various purposes:
