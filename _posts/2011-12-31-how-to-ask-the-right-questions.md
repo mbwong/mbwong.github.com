@@ -8,11 +8,15 @@ layout: post
 In the workplace, one of the most useful skills to possess is the ability to
 ask the right questions. In my view, questions serve various purposes:
 
-1. It helps you collect information - You want a clear picture of how something works and presumably someone knows the answer. Your goal is to squeeze it from them. For example, you're looking for a job and you want to know what the hiring process is like. Or you're assessing a job offer and you want to know what the company culture is like. Getting good answers can save you time, help you perform better, make you more money. 
-2. It can improve personal relationships - Questions demonstrate that you care and you're invested in the other person. 
-3. It helps you frame discussion - The goal here is influence. By asking questions, you help others thinking through problems. You allow them to understand what you care about. 
-4. It can inspire creativity - By questioning assumptions, by forcing others to think harder, you place the burden of thinking on them. Asking the right questions can improve their contribution to your team's productivity. For example, you may ask "How can things be done differently?" or "What happens if our supplier fails?"
-5. It forces your group to align your thinking - This is extremely important in a team setting. Only when you ask the hard question and confront your differences, do difference in goals and thinking appear. And they always do. 
+1. **It helps you collect information** - You want a clear picture of how something works and presumably someone knows the answer. Your goal is to squeeze it from them. For example, you're looking for a job and you want to know what the hiring process is like. Or you're assessing a job offer and you want to know what the company culture is like. Getting good answers can save you time, help you perform better, make you more money. 
+
+2. **It helps you improve personal relationships** - Questions demonstrate that you care and you're invested in the other person. 
+
+3. **It helps you frame discussion** - The goal here is influence. By asking questions, you help others thinking through problems. You allow them to understand what you care about. 
+
+4. **It helps you inspire creativity** - By questioning assumptions, by forcing others to think harder, you place the burden of thinking on them. Asking the right questions can improve their contribution to your team's productivity. For example, you may ask "How can things be done differently?" or "What happens if our supplier fails?"
+
+5. **It forces your group to align your thinking** - This is extremely important in a team setting. Only when you ask the hard question and confront your differences, do difference in goals and thinking appear. And they always do. 
 
 So how do you ask the right questions?
 
