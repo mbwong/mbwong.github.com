@@ -1,6 +1,6 @@
 --- 
 tags: data
-title: Lessons learned: the Greatest Good
+title: Lessons learned\: the Greatest Good
 layout: post
 ---
 # Lessons learned: the Greatest Good
