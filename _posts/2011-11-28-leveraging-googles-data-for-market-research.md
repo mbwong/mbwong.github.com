@@ -4,6 +4,7 @@ tags:
 - business
 title: Market research using Google's data
 layout: post
+published: false
 ---
 # Market research using Google's data
 
