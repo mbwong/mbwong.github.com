@@ -1,14 +1,14 @@
 --- 
 tags: life career
-title: How I picked my first job
+title: How to pick your first job
 layout: post
 ---
 
-# How I picked my first job
+# How to pick your first job
 
 During my senior year, I had a choice between three job offers: I could be a consultant at [APT][apt] (a big data software company), a consultant at [The Greatest Good][tgg] (a data consultancy started by Freakonomics author Steve Levitt), or a solutions architect at [Mixpanel][mxp] (a web analytics startup). While all three of my jobs belonged under the Big Data umbrella, the job descriptions, business models, and cultures of the companies were quite different. 
 
-I chose APT mainly because I thought I could learn the most there. I was interested in Big Data technologies and analytical methods, as well as the Big Data ecosystem at large. APT had the scale and a transparent culture that I would get to see what management consultants see, i.e. different industries, as well as a bit of what product managers see, i.e. the product cycle. I could try on different hats and learn what work I liked best. 
+How did I pick? I chose APT mainly because I thought I could learn the most there. I was interested in Big Data technologies and analytical methods, as well as the Big Data ecosystem at large. APT had the scale and a transparent culture that I would get to see what management consultants see, i.e. different industries, as well as a bit of what product managers see, i.e. the product cycle. I could try on different hats and learn what work I liked best. 
 
 [apt]: http://predictivetechnologies.com
 [tgg]: http://greatestgood.com
