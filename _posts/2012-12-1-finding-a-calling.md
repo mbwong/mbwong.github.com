@@ -10,11 +10,9 @@ LinkedIn's founder Reid Hoffman recently published a book titled "The Start-up o
 
 ## Should I follow my passion?
 
-In America, there is the notion that we should follow our hearts. When we think about our careers, we often ask: "What are you passionate about?" It's a consumerist idea that we should get what we want that has been beaten into us by Hollywood and its romantic comedies. We think of Oprah and Donald Trump, who openly advise that we only ought to do what we want to. 
+In America, there is the notion that we should follow our hearts. When we think about our careers, we often ask: "What are you passionate about?" Perhaps it's a consumerist idea that we should get what we want that has been beaten into us by Hollywood and its romantic comedies. We think of Oprah and Donald Trump, who openly advise that we only ought to do what we want to. 
 
 Cal Newport puts it very well in [this New York Times op-ed][newport]:
-
-[newport]: http://www.nytimes.com/2012/09/30/jobs/follow-a-career-passion-let-it-follow-you.html 
 
 >The Cult of Passion puts a lot of pressure on the rest of us — and demands long deliberation. If we’re not careful, it tells us, we may end up missing our true calling. And even after we make a choice, we’re still not free from its effects. Every time our work becomes hard, we are pushed toward an existential crisis, centered on what for many is an obnoxiously unanswerable question: “Is this what I’m really meant to be doing?” This constant doubt generates anxiety and chronic job-hopping.
 
@@ -22,13 +20,11 @@ Despite my Chinese (hence more conformist) roots, I drank the Kool-aid too. As I
 
 ## Easy mistakes
 
-One easy mistake is to romanticize about a different life. *When you don't know much about something, it's easy for it to sound sexy.* I once thought (and still sometimes think) that being a CEO must be really cool. Consider for a moment, though, what the life of a CEO actually looks like. Endless meetings. Very little time with family. Would you actually enjoy it? I didn't really consider the reality of what running a startup was like until I actually tried to run a startup. It turns out that it really wasn't very enjoyable. Managing a team and negotiating deals were very stressful for me. I imagine I could get better at it, and then maybe I will start to enjoy it more. But why make myself unhappy for many, many years when there is already something tangible that I'm better at and enjoy more, such as writing and teaching?
+One easy mistake is to romanticize about a different life. When you don't know much about something, it's easy for it to sound sexy. I once thought (and still sometimes think) that being a CEO must be really cool. Consider for a moment, though, what the life of a CEO actually looks like. Endless meetings. Very little time with family. Would you actually enjoy it? I didn't really consider the reality of what running a startup was like until I actually tried to run a startup. It turns out that it really wasn't very enjoyable. Managing a team and negotiating deals were very stressful for me. I imagine I could get better at it, and then maybe I will start to enjoy it more. But why make myself unhappy for many, many years when there is already something tangible that I'm better at and enjoy more, such as writing and teaching?
 
 Another easy mistake is to think you're in the wrong industry when in fact you just have a bad work environment. I don't just mean the culture of your company or whether your workmates are friendly. What I really mean is the instructions your bosses give you. As [Penelope Trunk][pt] describes, good jobs provide clear goals, a sense of control, helpful feedback, and a suitable level of challenge. The characteristics of a good job is fairly uniform across industries. As Newport elaborates:
 >The traits that lead people to love their work are general and have little to do with a job’s specifics. These traits include a sense of autonomy and the feeling that you’re good at what you do and are having an impact on the world. Decades of research on workplace motivation back this up. 
 Does your job meet these criteria? That you don't like your current job doesn't mean that you need to move to LA or do something else that is drastically different. You may just need to change your work environment. Just look for bosses that provide you with good motivation and make you want to grow and learn. Sometimes you'll be able to find better work environments within your industry. 
-
-[pt]: http://blog.penelopetrunk.com/2013/05/13/how-to-know-if-youre-in-a-good-job/
 
 Now even though meaning and passion matter less than people think, they still matter. I become extra motivated when I do things I believe in and care about. So it's important to know whether you can ever care about your field. But remember: Even when you are doing things are more interesting or meaningful to you, there are still good and bad workplaces. Passion doesn't usually solve all your problems. 
 
@@ -42,4 +38,6 @@ When I graduated from college, I had very little idea of what I wanted to do. Fi
 
 A great essay I've read on this topic is [this lengthy discussion by Paul Graham][pg]. It has many more important points about the things that might derail you from finding work you love, such as money and prestige. As DFW says, I wish you more than luck. 
 
+[newport]: http://www.nytimes.com/2012/09/30/jobs/follow-a-career-passion-let-it-follow-you.html 
+[pt]: http://blog.penelopetrunk.com/2013/05/13/how-to-know-if-youre-in-a-good-job/
 [pg]: http://www.paulgraham.com/love.html
