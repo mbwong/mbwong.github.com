@@ -1,6 +1,6 @@
 --- 
 tags: career
-title: Getting a job at an elite firm
+title: How to get a job at an elite firm
 layout: post
 ---
 # How to get a job at an elite firm
