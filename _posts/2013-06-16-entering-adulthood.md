@@ -1,6 +1,6 @@
 --- 
 tags: life personal
-title: Entering Adulthood
+title: Letter to a younger friend
 layout: post
 ---
 
