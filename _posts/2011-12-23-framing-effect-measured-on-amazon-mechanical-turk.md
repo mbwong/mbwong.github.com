@@ -9,7 +9,7 @@ After I wrote my [term paper](http://mbwong.com/post/14551602641/using-amazon-
 mechanical-turk-for-behavior-experiments) on conducting behavior experiments
 on Amazon Mechnical Turk (posted here), I attempted to replicate [the classic
 framing study by Tversky and Kahneman
-(1981)][tk].
+(1981)][tk]. 
 
 [tk]: http://en.wikipedia.org/wiki/Framing_effect_(psychology)
 
@@ -35,9 +35,7 @@ The question framed as “die”:
 > Which do you choose?
 
 I purposefully did not enforce separation of the test and control subjects, in
-order to gauge the potential for overlap.
-
-Below is a snap shot of the entire survey.
+order to gauge the potential for overlap. (Below is a snap shot of the entire survey.)
 
 ![](http://media.tumblr.com/tumblr_lwjd39nBVB1r3oiuq.png)
 
@@ -61,9 +59,8 @@ mTurk][nber]):
 
 Of the 77 workers surveyed, I found two workers that participated in both
 surveys, and their responses were exempted. Furthermore, filtering quick
-responses do not appear to change the results significantly.
-
-The whole process took less than a day. By paying workers 4 cents, I got
+responses do not appear to change the results significantly. The whole process 
+took less than a day. By paying workers 4 cents, I got
 meaningful survey responses within hours.
 
 Got some behavioral question you want answered and you want to recruit
