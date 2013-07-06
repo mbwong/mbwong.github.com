@@ -6,7 +6,7 @@ layout: post
 
 # Buying a car
 
-Imagine a tense negotiation. Surely you have seen them on television. Perhaps you have even heard fantastic stories about them second hand. 
+Imagine a tense negotiation. Surely you have seen them on television. You have even heard fantastic stories about them second hand. Perhaps, if you are wholly unlike me, you've even been in one. 
 
 Before I went to buy a car, negotiations like this seemed to have only existed in a world with closed doors and important, suited men gathered around a table. A world that an aspiring scholar-hipster such as I would never enter. All I knew about negotiations is an economic model I learned in class. Two parties somehow would meet in the middle of their valuations via Nash bargaining. It's a beautifully simple shorthand for describing the world, but hopelessly useless in the car-purchasing application. By golly buying a car was no visit to the bookstore. In fact, my experience of buying a car had all the high emotions and treacherousness of living an HBO show. It is an experience far removed from the ivory-tower comforts of high-minded intellectualism. 
 
