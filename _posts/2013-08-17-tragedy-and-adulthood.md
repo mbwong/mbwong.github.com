@@ -9,11 +9,12 @@ A few months ago I traveled to Concord to attend my five-year reunion at my boar
 
 My friend Hugh Koeze wrote [a lovely piece][hugh] about our reunion on his blog where he ponders our motives for coming together. He asks, why did we travel hundreds of miles when a free Skype call could have deepened our friendships? What is it that we were actually looking for? How many people did I really get to know better during our drunken evening? Did we ever really go much beyond small talk? 
 
-Like Hugh, I think there's something deep going on. Consider this brilliant clip from Mad Men, where Don Draper talks about the Kodak Carousel as a time machine that brings us back to somewhere we know we are loved. I think, in a similar way, we return to St. Paul's to reconnect with some story we believe about our life, a story in which we have a home or a group. We are who we remember ourselves to be. And so too we need "Kodak" moments. 
+Like Hugh, I think there's something deep going on. Consider [this brilliant clip from Mad Men][madmen], where Don Draper talks about the Kodak Carousel as a time machine that brings us back to somewhere we know we are loved. I think, in a similar way, we return to St. Paul's to reconnect with some story we believe about our life, a story in which we have a home or a group. We are who we remember ourselves to be. And so too we need "Kodak" moments. 
 
 If you read Hugh's article, you will find that his purpose was partly to recreate some semblance of unity or togetherness in our graduating class. Perhaps he wondered: Did that unity ever exist? How can we know anymore, now that 5 years have past? Our memories are fickle. And we need proof. And for Hugh, the experience of sitting together happily chatting away gave him that proof of our bonds. That was his "Kodak" moment. He needed that memory to stay fresh. And I suspect my family was partly doing the same thing. We went through the usual rituals of taking family photos. We looked at old pictures. We chatted about old times. We were renewing not only our bonds, but also our memories of our bonds. After all, we are but our memories. 
 
 [hugh]: http://hughkoeze.wordpress.com/2013/06/10/thoughts-on-my-high-school-reunion/
+[madmen]: http://www.youtube.com/watch?v=suRDUFpsHus
 
 ------------------------------------
 
