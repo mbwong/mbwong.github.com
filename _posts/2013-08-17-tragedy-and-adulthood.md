@@ -1,9 +1,9 @@
 --- 
 tags: personal
-title: Tragedy, Identity, and Adulthood
+title: Tragedy and Identity
 layout: post
 ---
-# Tragedy, Identity, and Adulthood
+# Tragedy and Identity
 
 A few months ago I traveled to Concord to attend my five-year reunion at my boarding high school. It was utterly overwhelming to return to grounds with such intense meaning. Many words were exchanged between my friends, many things felt, and little of it made sense. A few days ago I return from a long family reunion feeling similarly overwhelmed. The immense joy of being reunited and then the sadness of separation. 
 
