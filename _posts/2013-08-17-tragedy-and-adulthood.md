@@ -7,7 +7,7 @@ layout: post
 
 A few months ago I traveled to Concord to attend my five-year reunion at my boarding high school. It was utterly overwhelming to return to grounds with such intense meaning. Many words were exchanged between my friends, many things felt, and little of it made sense. Today I return from a long family reunion feeling similarly overwhelmed by the immense joy of being reunited and then the sadness of separation. 
 
-My friend Hugh Koeze wrote [a lovely piece][hugh] about our reunion on his blog where he ponders our motives for coming together. He asks, why did we travel hundreds of miles when a free Skype call could have deepened our friendships? What is it that we were actually looking for? How many people did I really get to know better during our drunken evening? Did we ever really go much beyond small talk? His post provoked me, and we ended up having a few emails back and forth discussing this issue. 
+Hugh Koeze wrote [a lovely piece][hugh] about our reunion on his blog where he ponders our motives for coming together. He asks, why did we travel hundreds of miles when a free Skype call could have deepened our friendships? What is it that we were actually looking for? How many people did I really get to know better during our drunken evening? Did we ever really go much beyond small talk? His post provoked me, and we ended up having a few emails back and forth discussing this issue. 
 
 [hugh]: http://hughkoeze.wordpress.com/2013/06/10/thoughts-on-my-high-school-reunion/
 
