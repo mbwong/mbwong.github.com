@@ -15,9 +15,9 @@ Like Hugh, I think there's some deep psychology going on. We returned to St. Pau
 
 But, even as we try to relive the memory of a happy time and create happy memories for the future, we confront the loss of our youth, our innocence, our deep and intense friendships of yore. Our reunion forces us to reflect on our life since, and as a result, our reunions were also marked by a tinge of sadness. Hugh writes: "I have real doubts that my friends will ever be as together as we were in high school. That sounds trite, but I believe it’s a real tragedy." We also confront the difficulties of the present. As I left my family reunion, I had to look forward to the fact that I am thousands of miles separated from my parents. My job is here. Their jobs are there. We just aren't going to be together. 
 
---------------------------------------
-
 Adulthood is hard. Our reunions show us exactly why. Adulthood is hard because to be an adult is to deal with tragedies. As kids, we operated in a safe environment where forgiveness is easy and hurt can be undone. Now actions have real consequences. We can't just move back to be with our friends or parents. We can't turn the clocks back. We realize, all of a sudden, that our bodies can't handle the same amount of alcohol anymore. And we realize that we've hurt someone else even if we didn't want to. We're also still hurt from some event that we can no control over. A quarter of our lives are behind us and there are no more graduations to look forward to. This might be it. The grind. 
+
+--------------------------------------
 
 Recently I tried to help a friend grapple with traumatic childhood experiences. Even after a decade they still bother her on a daily basis. Her memories of alienation make it difficult for her to build deep friendships with strangers even today. She told me that she hates all the people in her middle school because they "robbed" of her good memories of her childhood. I didn't really know what to say in response. She's right. She cannot get those memories back. There's something tragic about it, even though it hardly seems dramatic. So then, how can I help my friend? How can we respond to adulthood? 
 
