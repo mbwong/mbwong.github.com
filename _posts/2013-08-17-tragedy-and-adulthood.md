@@ -21,8 +21,6 @@ Adulthood is hard. Our reunions show us exactly why. Adulthood is hard because t
 
 Recently I tried to help a friend grapple with traumatic childhood experiences. Even after a decade they still bother her on a daily basis. Her memories of alienation make it difficult for her to build deep friendships with strangers even today. She told me that she hates all the people in her middle school because they "robbed" of her good memories of her childhood. I didn't really know what to say in response. She's right. She cannot get those memories back. There's something tragic about it, even though it hardly seems dramatic. So then, how can I help my friend? How can we respond to adulthood? 
 
---------------------------------------
-
 I can think of a few approaches we might take when confronted with a tragedy. 
 
 Perhaps we tell ourselves a story that makes us feel better. This is what my high school friends tried to do by returning to SPS. We were telling ourselves a version of a story about our own lives, one that included deep friendships, common identity, and a sense of belonging. And perhaps that is why we started a "War on Terror" in response to 9/11, to pretend to have some control over our destiny. Or why we care so much about our histories. 
