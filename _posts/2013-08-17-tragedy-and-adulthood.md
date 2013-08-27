@@ -11,8 +11,6 @@ My friend Hugh Koeze wrote [a lovely piece][hugh] about our reunion on his blog 
 
 [hugh]: http://hughkoeze.wordpress.com/2013/06/10/thoughts-on-my-high-school-reunion/
 
-------------------------------------
-
 Like Hugh, I think there's some deep psychology going on. 
 
 On one hand, we returned to St. Paul's to reconnect with some story we believe about our life, a story in which we have a home or a group. Hugh, for example, feels unsettled much of the weekend until, at long last, over brunch before we bid farewell, he has recreated the feeling of camaradarie that pervaded our high school years. I suspect my family was partly doing the same thing at our reunion. We went through the usual rituals of taking family photos. We looked at old pictures. We chatted about old times. We were renewing not only our bonds, but also our memories of our bonds. 
