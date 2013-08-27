@@ -9,16 +9,11 @@ A few months ago I traveled to Concord to attend my five-year reunion at my boar
 
 My friend Hugh Koeze wrote [a lovely piece][hugh] about our reunion on his blog where he ponders our motives for coming together. He asks, why did we travel hundreds of miles when a free Skype call could have deepened our friendships? What is it that we were actually looking for? How many people did I really get to know better during our drunken evening? Did we ever really go much beyond small talk? His post provoked me, and we ended up having a few emails back and forth discussing this issue. 
 
-If you read Hugh's article, you will find that his purpose was partly to recreate some semblance of unity or togetherness in our graduating class. He feels unsettled much of the weekend until at long last, over brunch before we bid farewell, he has recreated the feeling of camaradarie that pervaded our high school years. 
-
-Like Hugh, I think there's some deep psychology going on. Consider [this brilliant clip from Mad Men][madmen], where Don Draper talks about the Kodak Carousel as a time machine that brings us back to somewhere we know we are loved. I think, in a similar way, we returned to St. Paul's to reconnect with some story we believe about our life, a story in which we have a home or a group. I mean: Did that unity ever exist? How can we know anymore, now that 5 years have past? Our memories are fickle. And we need proof. And for Hugh, the experience of sitting together happily chatting away gave him that proof of our bonds. That was his "Kodak" moment. He needed that memory to stay fresh. 
-
-I suspect my family was partly doing the same thing at our reunion. We went through the usual rituals of taking family photos. We looked at old pictures. We chatted about old times. We were renewing not only our bonds, but also our memories of our bonds. We need "Kodak" moments too. After all, we are but our memories. 
-
 [hugh]: http://hughkoeze.wordpress.com/2013/06/10/thoughts-on-my-high-school-reunion/
-[madmen]: http://www.youtube.com/watch?v=suRDUFpsHus
 
 ------------------------------------
+
+Like Hugh, I think there's some deep psychology going on. Just as Hugh writes, we returned to St. Paul's to reconnect with some story we believe about our life, a story in which we have a home or a group. Hugh, for example, feels unsettled much of the weekend until, at long last, over brunch before we bid farewell, he has recreated the feeling of camaradarie that pervaded our high school years. I suspect my family was partly doing the same thing at our reunion. We went through the usual rituals of taking family photos. We looked at old pictures. We chatted about old times. We were renewing not only our bonds, but also our memories of our bonds. 
 
 But even as we try to relive the memory of a happy time and create happy memories for the future, we confront the loss of our youth, our innocence, our deep and intense friendships of yore. As a result, our reunions were also marked by a tinge of sadness. Hugh writes: "I have real doubts that my friends will ever be as together as we were in high school. That sounds trite, but I believe it’s a real tragedy." We also confront the difficulties of the present. As I left my family reunion, I had to look forward to the fact that I am thousands of miles separated from my parents. My job is here. Their jobs are there. We just aren't going to be together. 
 
