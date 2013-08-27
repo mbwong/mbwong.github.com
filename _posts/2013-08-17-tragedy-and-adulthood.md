@@ -23,7 +23,7 @@ Adulthood is hard; to be an adult is to deal with tragedies. As kids, we operate
 
 Recently I tried to help a friend grapple with traumatic childhood experiences. Even after a decade they still bother her on a daily basis. Her memories of alienation make it difficult for her to build deep friendships with strangers even today. She told me that she hates all the people in her middle school because they "robbed" of her good memories of her childhood. I didn't really know what to say in response. She's right. She cannot get those memories back. There's something tragic about it, even though it hardly seems dramatic. 
 
-So how do we move past tragedy? How can I help my friend? And how can I deal with the tragedies of adulthood? 
+How do we move past tragedy? How can I help my friend (and myself) deal with the tragedies of adulthood? 
 
 One route to deal with tragedy to tell ourselves a story that makes us feel better. Perhaps this is what my high school friends tried to do by returning to SPS. We were telling ourselves a version of a story about our own lives, one that included deep friendships, common identity, and a sense of belonging. And perhaps that is why we started a "War on Terror" in response to 9/11, to pretend to have some control over our destiny. Or why we care so much about our histories. Another route is rely on some simple principles so we don't feel so lost. We boil the complexity of life into some simple principles or rules of thumb. We look up quotations to make ourselves feel better. We tell ourselves that time will heal everything. 
 
