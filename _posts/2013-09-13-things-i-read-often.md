@@ -39,10 +39,12 @@ __Radhika Nagpal - ["The Awesomest 7-Year Postdoc."][rn]__
 Radhika gives the best advice about how to navigate high pressure environments. It is surprisingly simple.  Stop worrying. Find friends. Have fun. A must read for anyone considering an academic career. 
 [rn]: http://blogs.scientificamerican.com/guest-blog/2013/07/21/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/
 
-__Joel Lowell - ["George Saunders Has Written the Best Book You’ll Read This Year"][nyt]__
+__Joel Lowell - ["George Saunders Has Written the Best Book You’ll Read This Year."][nyt]__
+
 George Saunders writes powerful, compelling, deep, transforming stories. He teaches you how to be kinder, how to be more vulnerable, how to find beauty all around us. But he's not always easy to read. I have found this review very useful in summarizing up some of his ideas. It's not enough, of course, and someday I might supplant this link with something Saunders himself wrote. For now I'll leave you with this New York Times review wherein you will find many quotations. 
 [nyt]: http://www.nytimes.com/2013/01/06/magazine/george-saunders-just-wrote-the-best-book-youll-read-this-year.html?pagewanted=all
 
 __Thich Naht Hahn - [On Love.][tnh]__ 
+
 I learned about this little book from my one-time roommate Jamie. In my mind this book captures the secret to having a fulfilling life full of meaningful, loving relationship with people. It talks about being aware of those around us. It teaches us what it means to love someone, how to understand someone, and how, by understanding them, we can stop hurting them. 
 [tnh]: http://ajaytao2010.files.wordpress.com/2012/08/true-love-thich-nhat-hanh.pdf
