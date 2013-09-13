@@ -11,7 +11,7 @@ When talking to some of my friends, I have often discovered that they, like me, 
 
 __David Foster Wallace - ["This is water."][dfw]__ 
 
-This classic speech makes the concept of enlightenment concrete in our daily lives. It is a fantastic reminder of how to live deliberately. 
+Apart from being incredible writing, DFW's classic speech makes the concept of enlightenment concrete in our daily lives. He asks: What is the value of a liberal arts education? How do we response to the grind of adult life? His answer is a fantastic exposition of how to live. 
 [dfw]: http://moreintelligentlife.com/story/david-foster-wallace-in-his-own-words
 
 __Dave Eggers - ["Interview with the Harvard Advocate."][eggers]__ 
