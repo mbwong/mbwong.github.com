@@ -21,7 +21,7 @@ In this interview, Eggers reminds us why we shouldn't worry about what other peo
 
 __Paul Graham - [How to do what you love.][pg]__ 
 
-The key insight of this post is that it is really difficult to _know_ what you love. I read and reread in the past few year as I tried to figure out what the heck to do with my life. He has a lot of astute observations. I recommend this for people who are looking for their purpose in life. 
+The key insight of this post is that it is really difficult to _know_ what you love. I read and reread in the past few years as I tried (and still try) to figure out what the heck to do with my life. He has a lot of astute observations about how people fail to find what they love. I recommend this for people who are still looking for their purpose in life. 
 [pg]: http://www.paulgraham.com/love.html
 
 __Oliver Sacks - "The Joy of Old Age. (No Kidding.)"__
