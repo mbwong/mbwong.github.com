@@ -38,7 +38,7 @@ __6. Radhika Nagpal - ["The Awesomest 7-Year Postdoc."][rn]__
 Nagpal gives the best advice about how to navigate high pressure environments. It is surprisingly simple.  Stop worrying. Find friends. Have fun. A must read for anyone considering an academic career. 
 [rn]: http://blogs.scientificamerican.com/guest-blog/2013/07/21/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/
 
-__7. James Murphy - [On Failure][murphy]
+__7. James Murphy - [On Failure][murphy]__
 
 This is a video interview of James Murphy talking about his failure as a fledgling artist. He talks about his fear and depression. He talks taking steps to engage culture. Incredible. 
 [murphy]: http://www.youtube.com/watch?v=yYCz06bS380
