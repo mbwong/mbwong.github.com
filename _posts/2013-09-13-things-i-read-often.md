@@ -20,15 +20,17 @@ In this interview, Eggers reminds us why we shouldn't worry about what other peo
 [eggers]: http://www.armchairnews.com/freelance/eggers.html
 
 __Paul Graham - [How to do what you love.][pg]__ 
+
+The key insight of this post is that it is really difficult to _know_ what you love. I read and reread in the past few year as I tried to figure out what the heck to do with my life. He has a lot of astute observations. I recommend this for people who are looking for their purpose in life. 
 [pg]: http://www.paulgraham.com/love.html
 
-
-
 __Oliver Sacks - "The Joy of Old Age. (No Kidding.)"__
-Oliver Sacks is a wonderful writer, full of This is a lovely piece that I want to revisit as I age. 
+
+Oliver Sacks is a wonderful writer, full of awe and optimism. His writings help you marvel at the wonderful world we live in. This is a lovely piece that I want to revisit as I age. 
 [sacks]: http://www.nytimes.com/2013/07/07/opinion/sunday/the-joy-of-old-age-no-kidding.html?_r=0
 
 __Clay Christensen - "How Will You Measure Your Life?"__
+
 Christensen is the kind of academic I'd like to be. An excellent thinker and teacher. He is committed to his family, his Church, and his students. He observes that a number of his classmates at HBS and his fellow Rhodes Scholars ended up in jail. He asks why. He spills his secrets for having a fulfilling, purposeful life. The key? Reflection and perspective. 
 [cc]: http://cityofseekers.com/wp-content/uploads/2011/11/how-will-you-measure-your-life.pdf
 
