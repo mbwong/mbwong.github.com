@@ -16,26 +16,27 @@ Apart from being incredible writing, DFW's classic speech makes the concept of e
 
 __Dave Eggers - ["Interview with the Harvard Advocate."][eggers]__ 
 
-In this interview, Eggers reminds us why we shouldn't worry about what other people think and, even more importantly, why we shouldn't be dismissive of others. He shows us what it's like to embrace and to love life. 
+In this interview, Eggers reminds us why we shouldn't worry about what other people think and, even more importantly, why we shouldn't be dismissive of others. He shows us what it's like to embrace and to love life. If you like music or literature, you'll love his references. Feel free to skip right to the addendum, which is where the meat of this article is. 
 [eggers]: http://www.armchairnews.com/freelance/eggers.html
-
-__Paul Graham - [How to do what you love.][pg]__ 
-
-The key insight of this post is that it is really difficult to _know_ what you love. I read and reread in the past few years as I tried (and still try) to figure out what the heck to do with my life. He has a lot of astute observations about how people fail to find what they love. I recommend this for people who are still looking for their purpose in life. 
-[pg]: http://www.paulgraham.com/love.html
 
 __Oliver Sacks - "The Joy of Old Age. (No Kidding.)"__
 
 Oliver Sacks is a wonderful writer, full of awe and optimism. His writings help you marvel at the wonderful world we live in. This is a lovely piece that I want to revisit as I age. 
 [sacks]: http://www.nytimes.com/2013/07/07/opinion/sunday/the-joy-of-old-age-no-kidding.html?_r=0
 
+__Paul Graham - [How to do what you love.][pg]__ 
+
+The key insight of this post is that it is really difficult to _know_ what you love. I read and reread in the past few years as I tried (and still try) to figure out what the heck to do with my life. He has a lot of astute observations about how people fail to find what they love. I recommend this for people who are still looking for their purpose in life. 
+[pg]: http://www.paulgraham.com/love.html
+
 __Clay Christensen - "How Will You Measure Your Life?"__
 
-Christensen is the kind of academic I'd like to be. An excellent thinker and teacher. He is committed to his family, his Church, and his students. He observes that a number of his classmates at HBS and his fellow Rhodes Scholars ended up in jail. He asks why. He spills his secrets for having a fulfilling, purposeful life. The key? Reflection and perspective. 
+Christensen is the kind of academic I'd like to be. An excellent thinker and teacher and human being. He is committed to his family, his Church, and his students. He observes that a number of his classmates at HBS and his fellow Rhodes Scholars ended up in jail. He asks why. He spills his secrets for having a fulfilling and purposeful life. The key? Reflection and perspective. 
 [cc]: http://cityofseekers.com/wp-content/uploads/2011/11/how-will-you-measure-your-life.pdf
 
 __Radhika Nagpal - ["The Awesomest 7-Year Postdoc."][rn]__
-Radhika gives the best advice about how to navigate high pressure environments: Stop worrying. Find friends. Have fun. Seriously. It is surprisingly simple. 
+
+Radhika gives the best advice about how to navigate high pressure environments. It is surprisingly simple.  Stop worrying. Find friends. Have fun. A must read for anyone considering an academic career. 
 [rn]: http://blogs.scientificamerican.com/guest-blog/2013/07/21/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/
 
 __Joel Lowell - "George Saunders Has Written the Best Book You’ll Read This Year"__
