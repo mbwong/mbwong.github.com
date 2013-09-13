@@ -28,7 +28,7 @@ __Paul Graham - [How to do what you love.][pg]__
 I read and reread this article in the past few years as I tried (and still try) to figure out what the heck to do with my life. The key insight of this post is that it is actually very difficult to _know_ what you love. He has a lot of astute observations about how people fail to find what they love. I recommend this for people who are still looking for their purpose in life. It is a great reminder of the effort necessary to be fulfilled. 
 [pg]: http://www.paulgraham.com/love.html
 
-__Clay Christensen - "How Will You Measure Your Life?"__
+__Clay Christensen - ["How Will You Measure Your Life?"][cc]__
 
 Christensen is the kind of academic I'd like to be. An excellent thinker and teacher and human being. He is committed to his family, his Church, and his students. He observes that a number of his classmates at HBS and his fellow Rhodes Scholars ended up in jail. He asks why. He spills his secrets for having a fulfilling and purposeful life. The key? A year of continual reflection. A constant quest to maintain perspective and see the bigger picture. 
 [cc]: http://cityofseekers.com/wp-content/uploads/2011/11/how-will-you-measure-your-life.pdf
