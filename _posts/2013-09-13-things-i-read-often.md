@@ -43,7 +43,7 @@ __7. Youtube - [Interview with James Murphy of LCD Soundsystem about how to deal
 This is a video interview of James Murphy talking about his failure as a fledgling artist. He talks about his fear and depression. He talks about taking steps to engage culture.  
 [murphy]: http://www.youtube.com/watch?v=yYCz06bS380
 
-__8. Joel Lowell - ["George Saunders Has Written the Best Book You’ll Read This Year."][nyt]__
+__8. Joel Lowell (NYT) - ["George Saunders Has Written the Best Book You’ll Read This Year."][nyt]__
 
 Saunders writes powerful, compelling, deep, transforming stories. He teaches you how to be kinder, how to be more vulnerable, how to find beauty all around us. But he's not always easy to read. I have found this review very useful in summarizing up some of his ideas. It's not enough, of course, and someday I might supplant this link with something Saunders himself wrote. For now I'll leave you with this New York Times review wherein you will find many quotations. 
 [nyt]: http://www.nytimes.com/2013/01/06/magazine/george-saunders-just-wrote-the-best-book-youll-read-this-year.html?pagewanted=all
