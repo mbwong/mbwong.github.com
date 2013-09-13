@@ -50,7 +50,7 @@ Saunders writes powerful, compelling, deep, transforming stories. He teaches you
 
 __9. Thich Nhat Hanh - [On Love.][tnh]__ 
 
-I learned about this little book from my one-time roommate Jamie. In my mind this book captures the secret to having a fulfilling life full of meaningful, loving relationship with people. It talks about being aware and present for our romantic partners, our friends, our parents and children. It teaches us what it means to love someone, how to understand someone, and how, by understanding them, we can stop hurting them. Indispensible. 
+I learned about this little book from my one-time housemate Jamie. In my mind this book captures the secret to having a fulfilling life full of meaningful, loving relationship with people. It talks about being aware and present for our romantic partners, our friends, our parents and children. It teaches us what it means to love someone, how to understand someone, and how, by understanding them, we can stop hurting them. Indispensible. 
 [tnh]: http://ajaytao2010.files.wordpress.com/2012/08/true-love-thich-nhat-hanh.pdf
 
 
