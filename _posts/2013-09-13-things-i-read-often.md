@@ -2,12 +2,11 @@
 tags: personal
 title: Things I read often
 layout: post
-published: false
 ---
 
 # Things I read often
 
-When talking to some of my friends, I have often discovered that they, like me, keep a list of things they read every now and then. I thought I would post mine here in case anyone else is interested. Some of these I have linked to in my past posts. 
+When talking to some of my friends, I have often discovered that they, like me, keep a list of things to read every now and then. I thought I would post mine here in case anyone else is interested. It is of course a work in progress. Some of these I have linked to in my past posts. 
 
 __David Foster Wallace - ["This is water."][dfw]__ 
 
