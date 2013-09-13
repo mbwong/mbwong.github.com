@@ -40,7 +40,7 @@ Nagpal gives the best advice about how to navigate high pressure environments. I
 
 __7. Youtube - [Interview with James Murphy of LCD Soundsystem about how to deal with Failure.][murphy]__
 
-This is a video interview of James Murphy talking about his failure as a fledgling artist. He talks about his fear and depression. He talks about taking steps to engage culture. Incredible. 
+This is a video interview of James Murphy talking about his failure as a fledgling artist. He talks about his fear and depression. He talks about taking steps to engage culture.  
 [murphy]: http://www.youtube.com/watch?v=yYCz06bS380
 
 __8. Joel Lowell - ["George Saunders Has Written the Best Book You’ll Read This Year."][nyt]__
