@@ -23,7 +23,7 @@ __3. Oliver Sacks - ["The Joy of Old Age. (No Kidding.)"][sacks]__
 Oliver Sacks is a wonderful writer. He is full of awe and optimism. His writings help you marvel at the world we live in. He reminds us that there is always a silver lining. One can always find beauty even in what may seem to be dark and difficult situations. This is a lovely piece that I want to revisit as I age. 
 [sacks]: http://www.nytimes.com/2013/07/07/opinion/sunday/the-joy-of-old-age-no-kidding.html?_r=0
 
-__4. Paul Graham - [How to do what you love.][pg]__ 
+__4. Paul Graham - ["How to do what you love."][pg]__ 
 
 I read and reread this article in the past few years as I tried (and still try) to figure out what the heck to do with my life. The key insight of this post is that it is actually very difficult to _know_ what you love. He has a lot of astute observations about how people fail to find what they love. I recommend this for people who are still looking for their purpose in life. It is a great reminder of the effort necessary to be fulfilled. 
 [pg]: http://www.paulgraham.com/love.html
