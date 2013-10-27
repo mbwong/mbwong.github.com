@@ -1,6 +1,6 @@
 --- 
 tags: personal
-title: Letter to SPS #1\: Building Community
+title: Letter to SPS &#35;1&#58; Building Community
 layout: post
 ---
 
