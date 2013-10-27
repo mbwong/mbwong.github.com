@@ -6,7 +6,7 @@ layout: post
 
 # Letter to SPS #1: Building Community
 
-_Lately I've started guest blogging for my high school. Here's an editted version of my first post._
+_Lately I've started guest blogging for my high school. Here's an edited version of my first post._
 
 I remember my boarding high school years were a mess of social cliques. Even though SPS had much school spirit and many wonderful people, teenagers are teenagers. It was easy to feel isolated, lonely, or alienated, especially coming from a different culture or socioeconomic background. 
 
