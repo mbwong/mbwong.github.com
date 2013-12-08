@@ -32,7 +32,7 @@ In retrospect, many decisions were difficult for me because I cared too much abo
 
 In the language of statistics, I had a dimensionality problem. There are too many variables in my model of the world. And when you have many dimensions to consider, you need a lot of data and a lot of computation to fit the model. Of course I would never have enough data or enough brainpower to figure it all out. To take this analogy a little to far: I ran out of RAM. Blue screen of death. 
 
-But perhaps only a few principal components actually matter. Indeed, psychology research tells us that just a few variables go a long way in explaining happiness and productivity. Religion and centuries of philosophy tell us much the same thing. Think about it. Happiness and productivity probably just have to do with being surrounded by a community of people you love, having meaningful and achievable goals to occupy yourself with, and realizing that you are incredibly lucky to be alive. What else?  
+But perhaps only a few principal components actually matter. Indeed, psychology research tells us that just a few variables go a long way in explaining happiness and productivity. Religion and centuries of philosophy tell us much the same thing. Think about it. Happiness and productivity probably just have to do with being surrounded by a community of people whom you love and who love you back, having meaningful and achievable goals to occupy yourself with, and realizing that you are incredibly lucky to be alive. What else?  
 
 -----------------------
 
