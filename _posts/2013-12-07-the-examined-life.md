@@ -36,7 +36,7 @@ But perhaps only a few principal components actually matter. Indeed, psychology 
 
 -----------------------
 
-Yes, there are still big, hard, painful life decisions to be made. But after I began to listen to myself, I began to have a better idea of what matters, and with that knowledge, those decisions became a little less daunting. Once I came to be at peace with the fact I didn't actually want to be a businessman, my decision to switch careers came pretty easily. Once I had a better sense of who I want my friends to be, putting myself out there to be judged became easier. Certitude comes with self-knowledge. 
+Yes, there are still big, hard, painful life decisions to be made. But after I began to listen to myself, I slowly gained a better idea of what mattered to me. And with that knowledge, big decisions became a little less daunting. Once I came to be at peace with the fact I didn't actually want to be a businessman, my decision to switch careers came pretty easily. Once I had a better sense of who I want my friends to be, putting myself out there to be judged became easier. Certitude comes with self-knowledge. 
 
 Steve Jobs said, "Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life. Because almost everything -- all external expectations, all pride, all fear of   or failure -- these things just fall away in the face of death, leaving only what is truly important." In the same spirit, I just try to focus on the things that actually matter to me -- to love and to be a light unto the world as best as I can be. I trust, as Steve Jobs did, that the dots will connect, somehow, someday. 
 
