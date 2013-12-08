@@ -6,7 +6,7 @@ layout: post
 
 # The Examined Life
 
-Socrates taught us that the unexamined life is not worth living. Presumably he meant that we should take some time to reflect on things. This is of course much easier said than done. For most of my life, I fluctuated between “overthinking things” and “not thinking at all.”  
+Socrates taught us that the unexamined life is not worth living. Presumably he meant that we should take some time to reflect on things. This is of course much easier said than done. For most of my life, I fluctuated between overthinking things and not thinking at all.
 
 I’ll first admit that I still don’t really have a grasp on what I am doing with my life. But believe me it used to be even worse. I didn’t reflect much about my life mostly because I felt like there was just no time to think. When I was in high school, I needed to get good grades to go to a good college. In college there was always an exam and then a cool party. And as an adult, I needed to pay the bills and get ahead in my career. It was always hard to find time to reflect about what I was doing. I regret that. I ended up going down many mistaken paths. 
 
@@ -40,4 +40,4 @@ Yes, there are still big, hard, painful life decisions to be made. But after I b
 
 Steve Jobs said, "Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life. Because almost everything -- all external expectations, all pride, all fear of   or failure -- these things just fall away in the face of death, leaving only what is truly important." In the same spirit, I just try to focus on the things that actually matter to me -- to love and to be a light unto the world as best as I can be. I trust, as Steve Jobs did, that the dots will connect, somehow, someday. 
 
-The examined life is hard work. It is also meaningful work. Whether or not we are a more doubtful generation than ones before, I hope it is true that our generation is a more productively reflective one. As our society gets richer and as each of us are given more options and more possibilities, it is all the more critical that we are able to keep our sight on the things that matter. Developing what we might call spiritual clarity or interior wellbeing can make us more effective people. I suspect a society that understands this will be a happier and more productive one too. 
+The examined life is hard work. I find that it is also meaningful work. Whether or not we are a more doubtful generation than ones before, I hope it is true that our generation is a more productively reflective one. As our society gets richer and as each of us are given more options and more possibilities, it is all the more critical that we are able to keep our sight on the things that matter. Developing what we might call spiritual clarity or interior wellbeing can make us more effective people. I suspect a society that understands this will be a happier and more productive one too. 
