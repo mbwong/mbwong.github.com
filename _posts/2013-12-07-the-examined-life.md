@@ -20,7 +20,7 @@ Recently I’ve been trying out a different technique. Every day or two I come h
 
 I try to allow those thoughts to sink in and carefully listen to that inner voice. Sometimes I wrote them down. And sometimes I deviate a bit and try a new perspective, whether it’s from a book I read or a person I talked to. And I try to be very honest with myself. 
 
-I was surprised to found out some quite unexpected facts about myself. For example, I don’t really like startup culture. I was lonely more than I wanted to think I was. I realized that some things my mother did to me in my childhood still bothered me. I found out that I was not motivated in my old job. Believe it or not, these facts didn't fit with who I thought I was. So being honest helped me learn more. 
+I was surprised to find out some quite unexpected facts about myself. For example, I don’t like startup culture. I was lonely more than I wanted to think I was. I realized that some things my mother did to me in my childhood still bothered me. I found out that I was not motivated in my old job. Believe it or not, these facts didn't fit with who I thought I was. So being honest helped me learn more. 
 
 In each case I'd then use what I learned from my reflection to rearrange my life. If I wasn’t satisfied with something that I did, I'd do one thing differently the next day. Call up with a friend. Start walking to a talk that interested me. Plan a holiday. Apply to a job. Write to my mom. Just one small thing. I did this iteratively, incrementally. Every day I learn something and I act on it the next day. So no day is wasted. I don’t wait for some unknown life-changing event. I “just do it.” I live, now. 
 
