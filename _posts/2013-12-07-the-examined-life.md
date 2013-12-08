@@ -16,7 +16,7 @@ It’s been said that ours is a generation full of doubt and indecision. I’d b
 	
 -----------------------
 	 
-Recently I’ve been trying out a different technique. Every day or two I come home and spend just a few minutes thinking about what made me feel rewarded and content and what made me unhappy and frustrated. Was I motivated and productive? Was my work meaningful? Am I getting better at it? Did I do something for my friends today? What can I do better? 
+Over the past year I’ve been trying out a different technique. Every day or two I come home and spend just a few minutes thinking about what made me feel rewarded and content and what made me unhappy and frustrated. Was I motivated and productive? Was my work meaningful? Am I getting better at it? Did I do something for my friends today? What can I do better? 
 
 I try to allow those thoughts to sink in and carefully listen to that inner voice. Sometimes I wrote them down. And sometimes I deviate a bit and try a new perspective, whether it’s from a book I read or a person I talked to. And I try to be very honest with myself. 
 
