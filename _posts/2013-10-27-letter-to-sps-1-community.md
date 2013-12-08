@@ -1,10 +1,10 @@
 --- 
 tags: personal
-title: Letter to SPS &#35;1&#58; Building Community
+title: Building Community
 layout: post
 ---
 
-# Letter to SPS #1: Building Community
+# Building Community
 
 _Lately I've started guest blogging for my high school. Here's an edited version of my first post._
 
@@ -15,8 +15,6 @@ When I first arrived from Hong Kong, I hardly even comprehended the subtleties o
 Yet I ended up loving my SPS community. I spent my senior year actively engaged in the school community when I had spent my first years far on the periphery. I found diverse friends, many of which were way cooler than me. I participated in school policy-making, led student groups, and even managed a sports team. I felt supported, loved, and happy. How did this happen? 
 
 One true story is that I was simply lucky to have stumbled into a great friend group within my form as it took shape. Another true story is that the teachers, the staff, and wealth of resources provided space for us to bond. But could community have blossomed without the attitudes and actions of our peers?
-
-------------------------------
 
 Over years I began to understand how each of us have the power to shape community. This was most important lesson I learned at SPS and I learned it by observing and learning from a few friends who helped build our friend group.  
 
