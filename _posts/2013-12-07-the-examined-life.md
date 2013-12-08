@@ -6,7 +6,7 @@ layout: post
 
 # The Examined Life
 
-Socrates taught us that the unexamined life is not worth living. Presumably he meant that we should take some time to reflect on things. This is of course much easier said than done. For most of my life, I fluctuated between “overthinking things” and “not thinking at all”.  
+Socrates taught us that the unexamined life is not worth living. Presumably he meant that we should take some time to reflect on things. This is of course much easier said than done. For most of my life, I fluctuated between “overthinking things” and “not thinking at all.”  
 
 I’ll first admit that I still don’t really have a grasp on what I am doing with my life. But believe me it used to be even worse. I didn’t reflect much about my life mostly because I felt like there was just no time to think. When I was in high school, I needed to get good grades to go to a good college. In college there was always an exam and then a cool party. And as an adult, I needed to pay the bills and get ahead in my career. It was always hard to find time to reflect about what I was doing. I regret that. I ended up going down many mistaken paths. 
 
