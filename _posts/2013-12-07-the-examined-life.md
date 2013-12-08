@@ -10,7 +10,7 @@ Socrates taught us that the unexamined life is not worth living. Presumably he m
 
 I’ll first admit that I still don’t really have a grasp on what I am doing with my life. But believe me it used to be even worse. I didn’t reflect much about my life mostly because I felt like there was just no time to think. When I was in high school, I needed to get good grades to go to a good college. In college there was always an exam and then a cool party. And as an adult, I needed to pay the bills and get ahead in my career. It was always hard to find time to reflect about what I was doing. I regret that. I ended up going down many mistaken paths. 
 
-And then for a period of time as college ended I found myself overthinking everything. Which was not productive either. I agonized over which career to pursue. I also agonized over whether or not to break up with my ex (and caused her much suffering). I spent weeks – no, months – brooding. I felt emotionally drained, overwhelmed. Sometimes I was paralyzed in my decision-making. At other times I changed my mind incessantly. People told me I was overthinking things. And I was. I could not stop. 
+And then for a period of time as college ended I found myself overthinking everything. Which was not productive either. I agonized over which career to pursue. I also agonized over whether or not to break up with my ex (and caused her much suffering). I spent months brooding. I felt emotionally drained, overwhelmed. Sometimes I was paralyzed in my decision-making. At other times I changed my mind incessantly. People told me I was overthinking things. And I was. I could not stop. 
 
 It’s been said that ours is a generation full of doubt and indecision. I’d be a fool to claim that our generation is any different from other generations. J Alfred Prufrock famously agonized over whether he dared to eat a peach. Let’s not forget Hamlet either. But can we make some progress? Can we approach Socrates’ ideal of the examined life? What does it actually mean to lead an examined life? 
 	
@@ -18,7 +18,7 @@ It’s been said that ours is a generation full of doubt and indecision. I’d b
 	 
 Over the past year I’ve been trying out a different technique. Every day or two I come home and spend just a few minutes thinking about what made me feel rewarded and content and what made me unhappy and frustrated. Was I motivated and productive? Was my work meaningful? Am I getting better at it? Did I do something for my friends today? What can I do better? 
 
-I try to allow those thoughts to sink in and carefully listen to that inner voice. Sometimes I wrote them down. And sometimes I deviate a bit and try a new perspective, whether it’s from a book I read or a person I talked to. And I try to be very honest with myself. 
+I try to allow those thoughts to sink in and carefully listen to that inner voice. Sometimes I wrote them down and sometimes I wrote them on this blog. Sometimes I deviate a bit and try a new perspective, whether it’s because of a book I read or a person I talked to. And I try to be very honest with myself. 
 
 I was surprised to find out some quite unexpected facts about myself. For example, I don’t like startup culture. I was lonely more than I wanted to think I was. I realized that some of the harsh words my mom said to me in my childhood still bothered me. I found out that I was not motivated in my old job. Believe it or not, these facts didn't fit with who I thought I was. So being honest helped me learn more. 
 
@@ -36,7 +36,7 @@ But perhaps only a few principal components actually matter. Indeed, psychology 
 
 -----------------------
 
-Yes, there are still big, hard, painful life decisions to be made. But I suspect that after I began to listen to myself, I began to have a better idea of what matters, and with that knowledge, those decisions became a little less daunting. Once I came to be at peace with the fact I didn't actually want to be a businessman, my decision to switch careers came pretty easily. Once I had a better sense of who I want my friends to be, putting myself out there to be judged became easier. Certitude comes with self-knowledge. 
+Yes, there are still big, hard, painful life decisions to be made. But after I began to listen to myself, I began to have a better idea of what matters, and with that knowledge, those decisions became a little less daunting. Once I came to be at peace with the fact I didn't actually want to be a businessman, my decision to switch careers came pretty easily. Once I had a better sense of who I want my friends to be, putting myself out there to be judged became easier. Certitude comes with self-knowledge. 
 
 Steve Jobs said, "Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life. Because almost everything -- all external expectations, all pride, all fear of   or failure -- these things just fall away in the face of death, leaving only what is truly important." In the same spirit, I just try to focus on the things that actually matter to me -- to love and to be a light unto the world as best as I can be. I trust, as Steve Jobs did, that the dots will connect, somehow, someday. 
 
