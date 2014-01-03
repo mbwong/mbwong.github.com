@@ -2,6 +2,7 @@
 tags: economics
 title: Computer Eats World
 layout: post
+published: false
 ---
 
 #Computer Eats World 
