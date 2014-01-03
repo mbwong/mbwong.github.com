@@ -20,7 +20,7 @@ I know, I know. I'm way behind on my blog posts. It's already 2014. But anyway h
 
 [cz]: https://twitter.com/czaplic
 
-* __Paul Sally Jr. - Introduction to Advanced Mathematics.__ Sally used to teach the introductory proof class at UChicago and this book was the text. And how I wish I came across this book earlier in my life rather than to try to slog through Rudin or Axler! This book makes abstract math enjoyable through wit and concise explanations. This is an excellent introduction to proof concepts and fundamentals of modern mathematics; I highly recommend reading through this book before moving onto a drier textbook that might grind your brains to a halt. 
+* __Paul Sally Jr. - Introduction to Advanced Mathematics.__ (Warning: nerd alert!) Sally used to teach the introductory proof class at UChicago and this book was the text. How I wish I came across this book earlier in my life rather than to try to slog through Rudin's real analysis textbook, which isdry dry dry! This book makes abstract math enjoyable through wit and concise explanations. I highly recommend reading through this book as a great introduction to proof concepts and fundamentals of modern mathematics, if you need it. 
 
 * __Leonard Bernstein - Norton Lectures.__ This lecture series by Leonard Bernstein is incredible. Watch one of the greatest showman in history presents history of classical music with allusions to physics, linguistics, literature, and poetry. It is a masterpiece. Watch it [here][bernstein].
 
