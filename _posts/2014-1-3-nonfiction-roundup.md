@@ -23,7 +23,7 @@ I know, I know. It's already 2014 and here I am making a year-end list of favori
 
 [bernstein]: http://www.openculture.com/2012/03/leonard_bernsteins_masterful_lectures_on_music.html
 
-* __[Mark Edmundson - Teacher.][teacher]__ This memoir is a loving account of how a fresh graduate from Harvard went to working class Medford, Mass. to teach philosophy and opened the mind of the author. It is a thought-provoking exploration of what it means to teach and how to do it in a way that deeply affects the student. The teaching exemplified in this book sets the standard for the kind of teacher I aspire to become. (Hat tip to [Hugh Koeze][hk].)
+* __[Mark Edmundson - Teacher.][teacher]__ This memoir is a loving account of how a fresh graduate from Harvard went to working class Medford, Mass. to teach high school in the 60s and opened the mind of the author, a senior at the time. It is a thought-provoking exploration of what it means to teach and how to do it in a way that deeply affects the student. The teaching exemplified in this book sets the standard for the kind of teacher I aspire to become. (Hat tip to [Hugh Koeze][hk].)
 
 [hk]: http://hughkoeze.wordpress.com/
 [teacher]: http://www.amazon.com/Teacher-One-Who-Made-Difference/dp/0375708545/ref=sr_1_4?s=books&ie=UTF8&qid=1388783398&sr=1-4&keywords=mark+edmundson
