@@ -2,12 +2,11 @@
 tags: personal
 title: Favorite Things of 2013
 layout: post
-published: false
 ---
 
 # Favorite Things of 2013
 
-I know, I know. I'm way behind on my blog posts. It's already 2014. But anyway here are my favorite books and movies this past year, most of which are not actually from 2013. 
+I know, I know. It's already 2014. But anyway here are my favorite books and movies this past year, most of which are not actually from 2013. 
 
 * __[The Act of Killing.][act]__ An absolutely stunning documentary where the filmmaker follows a perpetrator of genocide in Indonesia reenact the act of killing. This is a film about the psychology of violence and a portrait of modern day Indonesia. It will make you wince, laugh, tear up. It might even change the way you think about humans and how we are each capable of tremendous evil. 
 [act]: http://theactofkilling.com/
