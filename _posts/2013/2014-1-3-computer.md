@@ -16,7 +16,7 @@ Internet scholar [Jaron Lanier][lainer] has argued that technology progress is n
 [kelley]: http://www.radiolab.org/story/101024-idea-time-come/
 [lainer]: http://www.nybooks.com/articles/archives/2010/nov/25/generation-why/?pagination=false
 
-Can we subject the effects of technological progress on societal structure and welfare to rigorous analysis? Economists recognize the importance of technological progress as an engine of growth. But many models treat technology as a black box. Larry Summers suggested in [a recent speech to the NBER][summers] that computers might be changing our economy in a way that is different from past technologies. If so, it seems important to open this black box and understand it works, for there may be many nuanced aspects to technological progress that matter. 
+Can we subject the hypothesized effects of technological progress on societal structure and welfare to rigorous analysis? Economists have long emphasized the importance of technological progress as an engine of growth. But many models treat technology as a black box. Larry Summers suggested in [a recent speech to the NBER][summers] that computers might be changing our economy in a way that is different from past technologies. If so, it seems important to open this black box and understand it works, for there may be many nuanced aspects to technological progress that matter. 
 
 [summers]: http://www.nber.org/reporter/
 
