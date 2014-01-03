@@ -8,7 +8,7 @@ layout: post
 
 I know, I know. It's already 2014. But anyway here are my favorite books and movies this past year, most of which are not actually from 2013. 
 
-* __[The Act of Killing.][act]__ An absolutely stunning documentary where the filmmakers follow a perpetrator of genocide in Indonesia reenact the act of killing. This is both a film about the psychology of violence and a portrait of modern day Indonesia. It will make you wince, laugh, tear up. It might even change the way you think about humans and how we are each capable of tremendous evil. 
+* __[The Act of Killing.][act]__ Would you watch a documentary where the filmmakers follow a perpetrator of genocide in Indonesia reenact their acts of killing? What if it is truly one of the most remarkable documentaries, ever? _The Act of Killing_ is both a film about the psychology of violence (then and 40 years later) and a portrait of modern day Indonesia. It will make you wince, laugh, tear up. It might even change the way you think about humans and how we are each capable of tremendous evil. 
 [act]: http://theactofkilling.com/
 
 * __[Is The Man Who Is Tall Happy?][tall]__ An animated interview with Noam Chomsky, one of the most important thinkers alive, by Michel Gondry, the maker of my favorite film _Eternal Sunshine of the Spotless Mind_. He spews fascinating observations about science, linguistics, and dropping nuggets here and there about his extremely accomplished life. I'll admit this is probably not everybody's cup of tea. But it is most definitely mine. Chomsky is a lovely man. The film is similarly enlightening and beautiful and it filled me with warmth and fuzziness. 
@@ -30,11 +30,6 @@ I know, I know. It's already 2014. But anyway here are my favorite books and mov
 
 * __[Gary Becker & Kevin Murphy - Social Economics.][social]__ Ever wonder why there are lines outside restaurants? Why don't restaurant owners raise prices to satisfy unmet demand? Ever wonder about the economics of segregation or fads and fashions? This book examines these social phenomena using the tools of economics. A very enlightening read!  
 [social]:http://www.amazon.com/Social-Economics-Market-Behavior-Environment/dp/067401121X
-
-* __[Herman Hesse - Narcissus and Goldmund.][hesse]__ A lovely novel that explores the tension between a creative life and a cerebral one. It touches on some of the deepest truths about living. (Hat tip to [Evan Czaplicki][cz].)
-
-[cz]: https://twitter.com/czaplic
-[hesse]: http://www.amazon.com/Narcissus-Goldmund-Novel-Hermann-Hesse/dp/0312421672/ref=pd_sim_b_1
 
 * __[Paul Sally Jr. - Tools of the Trade.][tools]__ (Warning: nerd alert!) Sally used to teach the introductory proof class at UChicago and this book was the text. How I wish I came across this book earlier in my life rather than to try to slog through Rudin's real analysis textbook, which isdry dry dry! This book makes abstract math enjoyable through wit and concise explanations. I highly recommend reading through this book as a great introduction to proof concepts and fundamentals of modern mathematics, if you need it. 
 [tools]: http://www.amazon.com/Tools-Trade-Paul-J-Sally/dp/0821846345
