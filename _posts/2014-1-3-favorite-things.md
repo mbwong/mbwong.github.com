@@ -6,7 +6,7 @@ layout: post
 
 # Nonfiction Roundup
 
-I know, I know. It's already 2014 and here I am making a year-end list of favorite nonfiction. But whatever. Here are the nonfiction books and movies I read and saw this year and really loved. 
+I know, I know. It's already 2014 and here I am making a year-end list of favorite nonfiction. But whatever I'm just fashionably late. Here are the nonfiction books and movies I read and saw this year and really loved. 
 
 * __[The Act of Killing.][act]__ Would you watch a documentary where the filmmakers follow a perpetrator of genocide in Indonesia reenact their acts of killing? What if it is truly one of the most remarkable documentaries, ever? _The Act of Killing_ is both a film about the psychology of violence (then and 40 years later) and a portrait of modern day Indonesia. It will make you wince, laugh, tear up. It might even change the way you think about humans and how we are each capable of tremendous evil. 
 [act]: http://theactofkilling.com/
