@@ -7,11 +7,11 @@ published: false
 
 #Computer Eats World 
 
-The robotic age is upon us. Today wearable computing is on the verge of a major breakthrough. Google is rapidly acquiring robotics start-ups. Amazon is investing heavily in drones. In [Marc Andreessen's parlance][eats], computers is rapidly eating the world. The societal consequences of such technological progress, however, are still not well understood. 
+The robotic age is upon us. Wearable computing is on the verge of a major breakthrough. Google is rapidly acquiring robotics start-ups. Amazon is investing heavily in drones. In [Marc Andreessen's parlance][eats], computers is rapidly eating the world. The societal consequences of such technological progress, however, are still not well understood. 
 
 [eats]: http://online.wsj.com/news/articles/SB10001424053111903480904576512250915629460
 
-Internet scholar [Jaron Lanier][lainer] has argued that technology progress is not ideologically neutral and that new technology reshapes our psyche and society in myriad ways. [Kevin Kelley][kelley] famously asked: "What does technology want?" Much ink, for example, has been spilt on the consequences of designing open vs. closed platforms on innovation and public discourse. 
+Internet scholar [Jaron Lanier][lainer] has argued that technology progress is not ideologically neutral and that new technology reshapes our psyche and society in myriad ways. [Kevin Kelley][kelley] famously asked: "What does technology want?" Much ink has been spilt on the consequences of designing open vs. closed platforms on innovation and public discourse. 
 
 [kelley]: http://www.radiolab.org/story/101024-idea-time-come/
 [lainer]: http://www.nybooks.com/articles/archives/2010/nov/25/generation-why/?pagination=false
