@@ -11,7 +11,7 @@ The robotic age is upon us. Today wearable computing is on the verge of a major 
 
 [eats]: http://online.wsj.com/news/articles/SB10001424053111903480904576512250915629460
 
-Internet scholar[Jaron Lanier][lainer] has argued that technology progress is not ideologically neutral and that new technology reshapes our psyche and society in myriad ways. [Kevin Kelley][kelley] famously asked: "What does technology want?" Much ink, for example, has been spilt on the consequences of designing open vs. closed platforms on innovation and public discourse. 
+Internet scholar [Jaron Lanier][lainer] has argued that technology progress is not ideologically neutral and that new technology reshapes our psyche and society in myriad ways. [Kevin Kelley][kelley] famously asked: "What does technology want?" Much ink, for example, has been spilt on the consequences of designing open vs. closed platforms on innovation and public discourse. 
 
 [kelley]: http://www.radiolab.org/story/101024-idea-time-come/
 [lainer]: http://www.nybooks.com/articles/archives/2010/nov/25/generation-why/?pagination=false
@@ -32,7 +32,7 @@ Notable is the lack of automation in human capital production so far. The relati
 
 [thielgraph]: http://www.washingtonpost.com/blogs/wonkblog/wp/2013/12/30/peter-thiels-graph-of-the-year/
 
-The provision of healthcare also seems to have seen relatively little automation. While medical technology has improved, the provision of medicine is still highly labor intensive. Health costs have also sky-rocketed: Is this also because productivity of healthcare workers have not significantly changed? Or is this driven by mis-incentives in the healthcare market? 
+The provision of healthcare also seems to have seen relatively little automation. While medical technology has improved, the medical care is still highly labor intensive. Health costs have also sky-rocketed: Is this also because productivity of healthcare workers have not significantly changed? Or is this driven by mis-incentives in the healthcare market? 
 
 Finally, consider how many properties of local networks that impact social and human capital have not yet been fundamentally altered by computing technology. Studies have shown that the people you are likely to communicate with online are not so different from those you would communicate with offline. The importance of location in real estate prices, education outcomes, crime rates, social capital have hardly diminished despite the interconnectivity of the Internet age. Neighborhood and peer effects remain strong, whether for elites or for the urban poor. The persistence of these local networks has myriad implications for social mobility, especially in an age where the income distribution is divergent. 
 
