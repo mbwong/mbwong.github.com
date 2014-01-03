@@ -2,12 +2,11 @@
 tags: personal
 title: Favorite Things of 2013
 layout: post
-published: false
 ---
 
 # Favorite Things of 2013
 
-I know, I know. I'm way behind on my blog posts. It's already 2014. But anyway here are my favorite books I read this past year, none of which were actually published in 2013, plus a few other movies I loved. 
+I know, I know. I'm way behind on my blog posts. It's already 2014. But anyway here are my favorite books and movies this past year, most of which are not actually from 2013. 
 
 * __Danny Kahneman - Thinking: Fast and Slow.__ This book will no doubt go down in history as one of the definitive studies of behavioral psychology and economics. This book penetrates into deep truths beyond any pop science book I've read. It's changed my thinking and my life. I use the concepts I learned in this book on a daily basis, not only in my research but also in my personal life. I simply don't know what my life would be without it. Yes, it might be on your reading list already. But you might also be procrastinating on it since it is thick and you might expect a work that encapsulates a lifetime's work of a Nobel laureate to be dry and technical. But it is not: it's highly readable, with short chapters and a easy-going style. Highly recommended. 
 
