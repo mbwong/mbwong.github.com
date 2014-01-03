@@ -1,14 +1,14 @@
 --- 
 tags: personal
-title: Travel checklist
+title: Travel Checklist
 layout: post
 ---
 
-#Travel checklist
+#Travel Checklist
 
-After two nearly disastrous trips to the airport, I decided to outsource my pre-travel mental checklist from my brain to my blog so that I don't forget things again. (Where better to leave an easily accessible memo than the Internet?) 
+After two nearly disastrous trips to the airport, I decided to outsource my pre-travel mental checklist from my brain to my blog so that I don't forget things again. Where better to leave an easily accessible memo than the Internet?
 
-In case you happen to have the exact habits as me, here is my list of the most important things I try to remember when traveling: 
+If you happen to have the exact habits as me, here is my list of the most important things I try to remember when traveling: 
 
 * drivers license, passport (visa if needed)
 * computer, charger (adapter if needed)
