@@ -19,7 +19,7 @@ I know, I know. It's already 2014 and here I am making a list of favorite nonfic
 
 [tall]:http://www.youtube.com/watch?v=d9c4xJEP6eI
 
-* __[Leonard Bernstein - Norton Lectures.][bernstein]__ This lecture series by Leonard Bernstein is incredible. Watch one of the greatest showman in history presents history of classical music with allusions to physics, linguistics, literature, and poetry. I thought I need something about music history: These lectures broadened and deepened my understand tremendously. It is a masterpiece. 
+* __[Leonard Bernstein - Norton Lectures.][bernstein]__ This lecture series by Leonard Bernstein is incredible. Watch one of the greatest showman in history presents history of classical music with allusions to physics, linguistics, literature, and poetry. I thought I knew something about music history after spending many years reading books. These lectures broadened and deepened my understand tremendously. It is a masterpiece. 
 
 [bernstein]: http://www.openculture.com/2012/03/leonard_bernsteins_masterful_lectures_on_music.html
 
