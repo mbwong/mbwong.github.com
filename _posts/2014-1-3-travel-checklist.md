@@ -6,7 +6,7 @@ layout: post
 
 #Travel Checklist
 
-Where better to leave an easily accessible memo than the Internet? After two nearly disastrous trips to the airport, I decided to outsource my pre-travel mental checklist from my brain to my blog so that I don't forget things again. If you happen to have the exact habits as me, here is a list of important things: 
+Where better to leave myself an easily accessible memo than the Internet? Apologies to you for this extremely boring post, but after two nearly disastrous trips to the airport, I desperately need to outsource my pre-travel mental checklist from my brain to a place that ensures that I don't forget things again. 
 
 * drivers license, passport (visa if needed)
 * computer, charger (adapter if needed)
