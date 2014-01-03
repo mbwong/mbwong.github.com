@@ -15,7 +15,7 @@ I know, I know. It's already 2014 and here I am making a year-end list of favori
 
 [jiro]: http://www.magpictures.com/jirodreamsofsushi/
 
-* __[Is The Man Who Is Tall Happy?][tall]__ An animated interview with Noam Chomsky, one of the most important thinkers alive, by Michel Gondry, the maker of my favorite film _Eternal Sunshine of the Spotless Mind_. He spews fascinating observations about science, linguistics, and dropping nuggets here and there about his extremely accomplished life. I'll admit this is probably not everybody's cup of tea. But it is most definitely mine. Chomsky is a lovely man. The film is similarly enlightening and beautiful and it filled me with warmth and fuzziness. 
+* __[Is The Man Who Is Tall Happy?][tall]__ An animated interview with Noam Chomsky, one of the most important thinkers alive, by Michel Gondry, the maker of my favorite film _Eternal Sunshine of the Spotless Mind_. Chomsky spews fascinating observations about science, linguistics, and dropping nuggets here and there about his extremely accomplished life. I'll admit this is probably not everybody's cup of tea. But it is most definitely mine. The film is both enlightening and beautiful; it filled me with warmth and fuzziness. 
 
 [tall]:http://www.youtube.com/watch?v=d9c4xJEP6eI
 
