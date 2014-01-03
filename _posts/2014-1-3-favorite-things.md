@@ -15,7 +15,7 @@ I know, I know. It's already 2014. But anyway here are my favorite books and mov
 
 [tall]:http://www.youtube.com/watch?v=d9c4xJEP6eI
 
-* __[Jiro Dreams of Sushi.][jiro]__ I'm a bit late to the party; even though it came out a few years ago, I only watched it this year. It is officially one of my favorite movies ever. I'm very much inspire by what Jiro, Michelin Star winning sushi chef, says about dedicating one's life to craftsmanship. Jiro says "Once you decide on your occupation, you must immerse yourself in your work. You have to fall in love with your work. Never complain about your job. You must dedicate your life to mastering your skill. That's the secret of success, and is the key to being regarded honorably." 
+* __[Jiro Dreams of Sushi.][jiro]__ Even though _Jiro_ came out a few years ago, I only watched it this year. It is officially one of my favorite movies ever. I'm very much inspire by what Jiro, Michelin Star winning sushi chef, says about dedicating one's life to craftsmanship. Jiro says "Once you decide on your occupation, you must immerse yourself in your work. You have to fall in love with your work. Never complain about your job. You must dedicate your life to mastering your skill. That's the secret of success, and is the key to being regarded honorably." 
 
 [jiro]: http://www.magpictures.com/jirodreamsofsushi/
 
