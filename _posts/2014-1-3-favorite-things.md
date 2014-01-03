@@ -9,10 +9,10 @@ published: false
 
 I know, I know. I'm way behind on my blog posts. It's already 2014. But anyway here are my favorite books and movies this past year, most of which are not actually from 2013. 
 
-* __[The Act of Killing.][act]__ An absolutely stunning documentary where the filmmaker follows a perpetrator of genocide in Indonesia reenact the act of killing. This is a film about the psychology of violence and a portrait of modern day Indonesia. It will make you wince, laugh, tear up. It might even change the way you think about humans. 
+* __[The Act of Killing.][act]__ An absolutely stunning documentary where the filmmaker follows a perpetrator of genocide in Indonesia reenact the act of killing. This is a film about the psychology of violence and a portrait of modern day Indonesia. It will make you wince, laugh, tear up. It might even change the way you think about humans and how we are each capable of tremendous evil. 
 [act]: http://theactofkilling.com/
 
-* __[Is The Man Who Is Tall Happy?][tall]__ A film animated by Michel Gondry containing an interview with Noam Chomsky. Both enlightening and beautiful. 
+* __[Is The Man Who Is Tall Happy?][tall]__ A film animated by Michel Gondry containing an interview with Noam Chomsky, who is one of the most important thinkers alive. He spews fascinating observations about science, linguistics, and dropping nuggets here and there about his extremely accomplished life. Chomsky is a lovely man. The film is similarly enlightening and beautiful and it filled me with warmth and fuzziness. 
 
 [tall]:http://www.youtube.com/watch?v=d9c4xJEP6eI
 
