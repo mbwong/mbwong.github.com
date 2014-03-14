@@ -55,7 +55,7 @@ How to get past this point? Matt and Jesse have some great tips [here](http://fa
 
 You've read a lot of different people's code. And from reading, writing, discussing, and thinking about code, you've developed a taste for what good code looks like. You like to spend time rewriting code to make it better, and you think about how to organize your code before you start writing it. When appropriate you use object-oriented programming and you modularize. You abstract your code when necessary. You're never satisfied with code that "just works". You think of code as a piece of writing that you or someone else might come along to read. You make it pretty. Coding is no longer a chore. It is an art. 
 
-###Level 4: (Hacker.) Knowing what actually happens when you run code. Writing beautiful code. 
+###Level 4: (Hacker.) Knowing what actually happens when you run code. 
 
 Attitude alone won't make you a hacker. To be a hacker, you have to know a lot about what actually happens when you type things into the computer. You know about different programming languages. You know a low-level language well, like C or Fortran that you can optimize for speed. You also know a functional language like Haskell, you've contributed to the new data language Julia, and you love Prolog. You also know something about algorithms, compilers, and operating systems. 
 
