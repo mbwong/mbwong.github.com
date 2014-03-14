@@ -33,9 +33,9 @@ Peppered around the web are tutorials for any of the above languages. You might 
 [python]: http://code.tutsplus.com/articles/the-best-way-to-learn-python--net-26288
 [cheatsheet]: http://lgdata.s3-website-us-east-1.amazonaws.com/docs/2128/370795/Stata_Cheat_Sheet.pdf 
 
-After you've become familiar with the syntax, I recommend working on a small project you think you can get done quite quickly. For example, load a dataset and make a graph, or output some regression results into a pdf via latex. Use Google a lot. 
+After you've become familiar with the syntax, I recommend working on a small project you think you can get done quite quickly. For example, load a dataset and make a graph, or output some regression results into a pdf via latex. Use Google a lot. Also check out Stack Overflow. 
 
-If you have the time to take a programming course, it could be helpful. Most programming courses are for general purpose languages rather than statistical languages, so it might not be directly relavant. But taking a course isn't necessary at all. Just spend a few hours a week writing code. It'll come pretty quickly. 
+If you have the time to take a programming course, it could be helpful. Know that most programming courses are for general purpose languages rather than statistical languages, so it might not be directly relavant. Of course, taking a course isn't necessary at all. Just spend a few hours a week writing code. It'll come pretty quickly. If not, there are a ton of online resources to help you along. Like I said, use Google a lot. 
 
 ## Leveling up
 
