@@ -39,11 +39,11 @@ After you've become familiar with the syntax, I recommend working on a small pro
 
 ## Leveling up
 
-###Level 1: (Beginner.) Frustration. 
+###Level 1: Beginner. Frustration. 
 
 OK great. You've started writing code. Maybe it's exciting. Or more likely it's a totally frustrating experience because you can't quite get the computer to do what you want it to. Hang in there! Like most things, it gets easy with practice. 
 
-###Level 2: (Your typical researcher.) It works, but&#8230;
+###Level 2: Your typical researcher. It works, but&#8230;
 
 You are starting to be comfortable with writing code. Your projects begin to scale from a few lines to a few hundred lines, maybe even thousands of lines. Fantastic. But what if you came back to the code you wrote three days later. Would you be able to read and use it? Would someone else be able to read it too? 
 
@@ -51,11 +51,11 @@ Unfortunately it seems to me that many researchers are actually stuck at a level
 
 How to get past this point? Matt and Jesse have some great tips [here](http://faculty.chicagobooth.edu/jesse.shapiro/research/CodeAndData.pdf). But knowing best practices isn't enough. More than anything it requires vigilance. Here's what a level 3 coder is like. 
 
-###Level 3: (Flow.) Writing readable and well organized code. 
+###Level 3: Flow. Writing readable and well organized code. 
 
 You've read a lot of different people's code. And from reading, writing, discussing, and thinking about code, you've developed a taste for what good code looks like. You like to spend time rewriting code to make it better, and you think about how to organize your code before you start writing it. When appropriate you use object-oriented programming and you modularize. You abstract your code when necessary. You're never satisfied with code that "just works". You think of code as a piece of writing that you or someone else might come along to read. You make it pretty. Coding is no longer a chore. It is an art. 
 
-###Level 4: (Hacker.) Knowing what actually happens when you run code. 
+###Level 4: Hacker. Knowing what actually happens when you run code. 
 
 Attitude alone won't make you a hacker. To be a hacker, you have to know a lot about what actually happens when you type things into the computer. You know about different programming languages. You know a low-level language well, like C or Fortran that you can optimize for speed. You also know a functional language like Haskell, you've contributed to the new data language Julia, and you love Prolog. You also know something about algorithms, compilers, and operating systems. 
 
