@@ -35,15 +35,19 @@ Peppered around the web are tutorials for any of the above languages. You might 
 
 After you've become familiar with the syntax, I recommend working on a small project you think you can get done quite quickly. For example, load a dataset and make a graph, or output some regression results into a pdf via latex. Use Google a lot. 
 
+If you have the time to take a programming course, it could be helpful. Most programming courses are for general purpose languages rather than statistical languages, so it might not be directly relavant. But taking a course isn't necessary at all. Just spend a few hours a week writing code. It'll come pretty quickly. 
+
 ## Leveling up
+
+As you start writing and running code, here's how your skills will hopefully progress. 
 
 ###Level 1: Beginner. Frustration. 
 
-OK great. You've started writing code. Maybe it's exciting. Or more likely it's a totally frustrating experience because you can't quite get the computer to do what you want it to. Hang in there! Like most things, it gets easy with practice. 
+OK great. You've started running code. Maybe it's exciting. Or more likely it's a totally frustrating experience because you can't quite get the computer to do what you want it to. Hang in there! Like most things, it gets easy with practice. 
 
 ###Level 2: Your typical researcher. It works, but&#8230;
 
-You are starting to be comfortable with writing code. Your projects begin to scale from a few lines to a few hundred lines, maybe even thousands of lines. Fantastic. But what if you came back to the code you wrote three days later. Would you be able to read and use it? Would someone else be able to read it too? 
+You are now comfortable with writing code. Your projects begin to scale from a few lines to a few hundred lines, maybe even thousands of lines. Fantastic. But what if you came back to the code you wrote three days later. Would you be able to read and use it? Would someone else be able to read it too? 
 
 Unfortunately it seems to me that many researchers are actually stuck at a level where their code works but is difficult to understand or work with. As a result, their code leaves open the door to more errors. It also makes research much harder to replicate. 
 
