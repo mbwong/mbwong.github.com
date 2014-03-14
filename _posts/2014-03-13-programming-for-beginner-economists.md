@@ -49,9 +49,9 @@ OK great. You've started writing code. Maybe it's exciting. Or more likely it's 
 
 ###Level 2: (Your typical researcher.) It works, but&#8230;
 
-Now you've spent over a month writing code that works. You are starting to be comfortable with writing code. Your projects begin to scale from a few lines to a few hundred lines. Fantastic. But what if you came back to the code you wrote three days later. Would you be able to read and use it? Would someone else be able to read it too? Not really. 
+You are starting to be comfortable with writing code. Your projects begin to scale from a few lines to a few hundred lines, maybe even thousands of lines. Fantastic. But what if you came back to the code you wrote three days later. Would you be able to read and use it? Would someone else be able to read it too? 
 
-Unfortunately it seems to me that many researchers are actually stuck in this level of the coding skill. Their code works but is hard to work with and hard to understand. This leaves the doors more open to errors. It also makes research much harder to replicate. 
+Unfortunately it seems to me that many researchers are actually stuck in a level of the coding skill where their code works but it is hard to work with and hard to understand. This leaves open the door to more errors. It also makes research much harder to replicate. 
 
 How to get past this point? Matt and Jesse have some great tips [here](http://faculty.chicagobooth.edu/jesse.shapiro/research/CodeAndData.pdf). But knowing best practices isn't enough. More than anything, it requires vigilance. Here's what a level 3 coder is like. 
 
