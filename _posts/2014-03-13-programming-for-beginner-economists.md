@@ -4,7 +4,7 @@ title: Programming for beginner economists
 layout: post
 ---
 
-# Programming for beginner economists
+# Programming for economists
 
 I studied some computer science as an undergraduate and coding experience gave me quite a bit of leg up when I started to do social science research. As my teachers [Jesse and Matt](http://faculty.chicagobooth.edu/jesse.shapiro/research/CodeAndData.pdf) write:  
 
