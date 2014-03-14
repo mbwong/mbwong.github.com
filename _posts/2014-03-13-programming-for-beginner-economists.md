@@ -6,7 +6,7 @@ layout: post
 
 # Programming for economists
 
-I studied some computer science as an undergraduate and coding experience gave me quite a bit of leg up when I started to do social science research. As [Jesse Shaprio and Matt Gentzkow](http://faculty.chicagobooth.edu/jesse.shapiro/research/CodeAndData.pdf) write:  
+I studied some computer science as an undergraduate and coding experience gave me quite a bit of leg up when I started to do social science research. As [Jesse Shapiro and Matt Gentzkow](http://faculty.chicagobooth.edu/jesse.shapiro/research/CodeAndData.pdf) write:  
 
 > What does it mean to do empirical social science? ... For many of us, most of the time, what it means is writing and debugging code. We write code to clean data, to transform data, to scrape data, and to merge data. We write code to execute statistical analyses, to simulate models, to format results, to produce plots. We stare at, puzzle over, ﬁght with, and curse at code that isn’t working the way we expect it to. We dig through old code trying to ﬁgure out what we were thinking when we wrote it, or why we’re getting a different result from the one we got the week before."
 
