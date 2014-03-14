@@ -51,13 +51,13 @@ OK great. You've started writing code. Maybe it's exciting. Or more likely it's 
 
 You are starting to be comfortable with writing code. Your projects begin to scale from a few lines to a few hundred lines, maybe even thousands of lines. Fantastic. But what if you came back to the code you wrote three days later. Would you be able to read and use it? Would someone else be able to read it too? 
 
-Unfortunately it seems to me that many researchers are actually stuck in a level of the coding skill where their code works but it is hard to work with and hard to understand. This leaves open the door to more errors. It also makes research much harder to replicate. 
+Unfortunately it seems to me that many researchers are actually stuck at a level where their code works but is very hard to understand work with. As a result, their code leaves open the door to more errors. It also makes research much harder to replicate. 
 
-How to get past this point? Matt and Jesse have some great tips [here](http://faculty.chicagobooth.edu/jesse.shapiro/research/CodeAndData.pdf). But knowing best practices isn't enough. More than anything, it requires vigilance. Here's what a level 3 coder is like. 
+How to get past this point? Matt and Jesse have some great tips [here](http://faculty.chicagobooth.edu/jesse.shapiro/research/CodeAndData.pdf). But knowing best practices isn't enough. More than anything it requires vigilance. Here's what a level 3 coder is like. 
 
 ###Level 3: (Flow.) Writing readable and well organized code. 
 
-You've read a lot of different people's code. And from reading, writing, and thinking about code, you've begun to develop a taste for what good code looks like. You like to spend time rewriting code to make it better, and you think about how to organize your code before you start writing it. You're never satisfied with code that "just works". You think of code as a piece of writing that you or someone else might come along to read. You make it pretty. Coding is not a chore. It is an art. 
+You've read a lot of different people's code. And from reading, writing, discussing, and thinking about code, you've developed a taste for what good code looks like. You've used object-oriented programming and you modularize. You like to spend time rewriting code to make it better, and you think about how to organize your code before you start writing it. You're never satisfied with code that "just works". You think of code as a piece of writing that you or someone else might come along to read. You make it pretty. Coding is not a chore. It is an art. 
 
 ###Level 4: (Hacker.) Knowing what actually happens when you run code. Writing beautiful code. 
 
