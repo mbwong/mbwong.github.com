@@ -16,9 +16,9 @@ Yes, computers are eating the world and the next guy can program faster than you
 
 Well, it depends on what you'd like to do. As an empirical researcher, most likely the first thing you want to do is explore data, like print summary statistics and run regressions. For this, you probably want to use Stata or R. 
 
-Stata is quite easy to use out of the box. You fire it up and type in the right commands for what you want to do interactively. It also has handy tools for browsing the dataset. It's designed very much with the social scientist in mind, which means that most of the things you learn econometrics map directly to some command in Stata. 
+Stata is quite easy to use out of the box. You fire it up and type in the right commands for what you want to do interactively. It also has handy tools for browsing the dataset. It's designed very much with the social scientist in mind, which means that most of the things you learn econometrics map directly to some command in Stata. It's well documented and probably the most commonly used language by economists. But it is not free. 
 
-R has similar functionality. What's different is that R is more flexible language. It also has a ton of open source packages for almost any kind of statistics you might want to do. It is more often the go-to choice for statisticians who want fancier tools to do forecasting. 
+R has similar functionality. What's different is that R is open source. So it's free. It's also more flexible language. It has a ton of open source packages for almost any kind of statistics you might want to do. It is more often the go-to choice for statisticians who want fancier tools to do forecasting. 
 
 If you want to estimate a structural model or simulate data, you might want to learn Matlab as well. Matlab stands for matrix laboratory and as its name implies, it is extremely good at matrix operations and offers a level of customization that is generally difficult to achieve in R or Stata. For example, if you derived some formula in an econometric class and want to implement it, you can easily do that in Matlab. 
 
