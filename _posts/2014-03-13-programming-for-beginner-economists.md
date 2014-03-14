@@ -12,7 +12,7 @@ I studied some computer science as an undergraduate and coding experience gave m
 
 Yes, computers are eating the world and the next guy can program faster than you. So for many undergraduate or first year graduate economics students, a pressing question is: Well, how do I get started as a programmer? This blog post will hopefully help you out. 
 
-## Where to start? 
+## Where to start
 
 Well, it depends on what you'd like to do. As an empirical researcher, most likely the first thing you want to do is explore data, like print summary statistics and run regressions. For this, you probably want to use Stata or R. 
 
@@ -24,7 +24,7 @@ If you want to estimate a structural model or simulate data, you might want to l
 
 Finally, if you want to do something more general, like scrape the web or parse text or build a website, then at some point you should learn a general purpose language like Python. In fact, I think everyone benefits from learning a general purpose language. 
 
-## How to start? 
+## How to start
 
 Learning a new language basically consists of learning syntax and then practicing it. First, you need to download the software. Second, you need a good reference for syntax -- one that shows you the building blocks. Both these steps are super easy. 
 
