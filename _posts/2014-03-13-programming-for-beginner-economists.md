@@ -6,7 +6,7 @@ layout: post
 
 # Programming for beginner economists
 
-I studied some computer science as an undergraduate and coding experience gave me quite a bit of leg up when I started to do social science research. As my teachers [Jesse and Matt][http://faculty.chicagobooth.edu/jesse.shapiro/research/CodeAndData.pdf] write:  
+I studied some computer science as an undergraduate and coding experience gave me quite a bit of leg up when I started to do social science research. As my teachers [Jesse and Matt](http://faculty.chicagobooth.edu/jesse.shapiro/research/CodeAndData.pdf) write:  
 
 > What does it mean to do empirical social science? ... For many of us, most of the time, what it means is writing and debugging code. We write code to clean data, to transform data, to scrape data, and to merge data. We write code to execute statistical analyses, to simulate models, to format results, to produce plots. We stare at, puzzle over, ﬁght with, and curse at code that isn’t working the way we expect it to. We dig through old code trying to ﬁgure out what we were thinking when we wrote it, or why we’re getting a different result from the one we got the week before."
 
@@ -53,7 +53,7 @@ Now you've spent over a month writing code that works. You are starting to be co
 
 Unfortunately it seems to me that many researchers are actually stuck in this level of the coding skill. Their code works but is hard to work with and hard to understand. This leaves the doors more open to errors. It also makes research much harder to replicate. 
 
-How to get past this point? Matt and Jesse have some great tips [here][http://faculty.chicagobooth.edu/jesse.shapiro/research/CodeAndData.pdf]. But knowing best practices isn't enough. More than anything, it requires vigilance. Here's what a level 3 coder is like. 
+How to get past this point? Matt and Jesse have some great tips [here](http://faculty.chicagobooth.edu/jesse.shapiro/research/CodeAndData.pdf). But knowing best practices isn't enough. More than anything, it requires vigilance. Here's what a level 3 coder is like. 
 
 ###Level 3: (Flow.) Writing readable and well organized code. 
 
