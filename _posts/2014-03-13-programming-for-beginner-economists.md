@@ -33,7 +33,7 @@ Learning a new language basically consists of learning syntax and then practicin
 Peppered around the web are tutorials for any of the above languages. You might check those out and trying the language interactively as you go. I'd also search for cheat sheets online to get a sense of what commands people find useful. For example, [here][cheatsheet] is one for Stata. Here's a tutorial for [Python][python]. The Matlab website has some great resources. 
 
 [python]: http://code.tutsplus.com/articles/the-best-way-to-learn-python--net-26288
-[stata]: http://lgdata.s3-website-us-east-1.amazonaws.com/docs/2128/370795/Stata_Cheat_Sheet.pdf 
+[cheatsheet]: http://lgdata.s3-website-us-east-1.amazonaws.com/docs/2128/370795/Stata_Cheat_Sheet.pdf 
 
 After you've become familiar with the syntax, I recommend working on a small project you think you can get done quite quickly. For example, load a dataset and make a graph, or output some regression results into a pdf via latex. Use Google a lot. 
 
