@@ -1,6 +1,6 @@
 --- 
 tags: school
-title: Programming for beginner economists
+title: Programming for economists
 layout: post
 ---
 
