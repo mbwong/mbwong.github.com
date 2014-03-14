@@ -39,10 +39,6 @@ After you've become familiar with the syntax, I recommend working on a small pro
 
 ## Leveling up
 
-###Level 0: (Layperson.) Not coding. 
-
-Many people are stuck at this stage. They don't know what you're missing out on! 
-
 ###Level 1: (Beginner.) Frustration. 
 
 OK great. You've started writing code. Maybe it's exciting. Or more likely it's a totally frustrating experience because you can't quite get the computer to do what you want it to. Hang in there! Like most things, it gets easy with practice. 
@@ -57,7 +53,7 @@ How to get past this point? Matt and Jesse have some great tips [here](http://fa
 
 ###Level 3: (Flow.) Writing readable and well organized code. 
 
-You've read a lot of different people's code. And from reading, writing, discussing, and thinking about code, you've developed a taste for what good code looks like. You've used object-oriented programming and you modularize. You like to spend time rewriting code to make it better, and you think about how to organize your code before you start writing it. You're never satisfied with code that "just works". You think of code as a piece of writing that you or someone else might come along to read. You make it pretty. Coding is not a chore. It is an art. 
+You've read a lot of different people's code. And from reading, writing, discussing, and thinking about code, you've developed a taste for what good code looks like. You like to spend time rewriting code to make it better, and you think about how to organize your code before you start writing it. When appropriate you use object-oriented programming and you modularize. You abstract your code when necessary. You're never satisfied with code that "just works". You think of code as a piece of writing that you or someone else might come along to read. You make it pretty. Coding is no longer a chore. It is an art. 
 
 ###Level 4: (Hacker.) Knowing what actually happens when you run code. Writing beautiful code. 
 
