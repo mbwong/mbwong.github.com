@@ -6,7 +6,7 @@ layout: post
 
 # Programming for beginner economists
 
-I studied some computer science as an undergraduate and coding experience gave me quite a bit of leg up when I started to do social science research. As my teachers Jesse and Matt write:  
+I studied some computer science as an undergraduate and coding experience gave me quite a bit of leg up when I started to do social science research. As my teachers [Jesse and Matt][http://faculty.chicagobooth.edu/jesse.shapiro/research/CodeAndData.pdf] write:  
 
 > What does it mean to do empirical social science? ... For many of us, most of the time, what it means is writing and debugging code. We write code to clean data, to transform data, to scrape data, and to merge data. We write code to execute statistical analyses, to simulate models, to format results, to produce plots. We stare at, puzzle over, ﬁght with, and curse at code that isn’t working the way we expect it to. We dig through old code trying to ﬁgure out what we were thinking when we wrote it, or why we’re getting a different result from the one we got the week before."
 
@@ -47,19 +47,17 @@ Many people are stuck at this stage. They don't know what you're missing out on!
 
 OK great. You've started writing code. Maybe it's exciting. Or more likely it's a totally frustrating experience because you can't quite get the computer to do what you want it to. Hang in there! Like most things, it gets easy with practice. 
 
-###Level 2: (Typical researcher.) It works, but... 
+###Level 2: (Your typical researcher.) It works, but&#8230;
 
-Now you've spent over a month writing code that works. You are starting to be comfortable with writing code. Your projects begin to scale from a few lines to a few hundred lines. Fantastic. 
-
-But what if you came back to the code you wrote three days later. Would you be able to read and use it? Would someone else be able to read it too? Not really. 
+Now you've spent over a month writing code that works. You are starting to be comfortable with writing code. Your projects begin to scale from a few lines to a few hundred lines. Fantastic. But what if you came back to the code you wrote three days later. Would you be able to read and use it? Would someone else be able to read it too? Not really. 
 
 Unfortunately it seems to me that many researchers are actually stuck in this level of the coding skill. Their code works but is hard to work with and hard to understand. This leaves the doors more open to errors. It also makes research much harder to replicate. 
 
-How to get past this point? Matt and Jesse have some great tips here. But knowing best practices isn't enough. More than anything, it requires vigilance. Here's what a level 3 coder is like. 
+How to get past this point? Matt and Jesse have some great tips [here][http://faculty.chicagobooth.edu/jesse.shapiro/research/CodeAndData.pdf]. But knowing best practices isn't enough. More than anything, it requires vigilance. Here's what a level 3 coder is like. 
 
-###Level 3: (Programmer.) Writing readable and well organized code. 
+###Level 3: (Flow.) Writing readable and well organized code. 
 
-You've read a lot of different people's code. And just by reading code, you begin to develop a taste for what good code looks like. You're spending some time rewriting code to make it better. You're never satisfied with code that "just works". You think of code as a piece of writing that you or someone else might come along to read. You make it pretty. Coding is not a chore. It is an art. 
+You've read a lot of different people's code. And from reading, writing, and thinking about code, you've begun to develop a taste for what good code looks like. You like to spend time rewriting code to make it better, and you think about how to organize your code before you start writing it. You're never satisfied with code that "just works". You think of code as a piece of writing that you or someone else might come along to read. You make it pretty. Coding is not a chore. It is an art. 
 
 ###Level 4: (Hacker.) Knowing what actually happens when you run code. Writing beautiful code. 
 
