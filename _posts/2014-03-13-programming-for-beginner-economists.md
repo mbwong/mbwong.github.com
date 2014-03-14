@@ -10,13 +10,11 @@ I studied some computer science as an undergraduate and coding experience gave m
 
 > What does it mean to do empirical social science? ... For many of us, most of the time, what it means is writing and debugging code. We write code to clean data, to transform data, to scrape data, and to merge data. We write code to execute statistical analyses, to simulate models, to format results, to produce plots. We stare at, puzzle over, ﬁght with, and curse at code that isn’t working the way we expect it to. We dig through old code trying to ﬁgure out what we were thinking when we wrote it, or why we’re getting a different result from the one we got the week before."
 
-For many undergraduate or first year graduate economics students, however, a pressing question is: Well, how do I get started as a programmer? This blog post will hopefully help you out. 
+Yes, computers are eating the world and the next guy can program faster than you. So for many undergraduate or first year graduate economics students, a pressing question is: Well, how do I get started as a programmer? This blog post will hopefully help you out. 
 
 ## Where to start? 
 
-Well, it depends the kind of research you'd like to do. 
-
-As an empirical researcher, most likely the first thing you want to do is explore data, like print summary statistics and run regressions. For this, you probably want to use Stata or R. 
+Well, it depends on what you'd like to do. As an empirical researcher, most likely the first thing you want to do is explore data, like print summary statistics and run regressions. For this, you probably want to use Stata or R. 
 
 Stata is quite easy to use out of the box. You fire it up and type in the right commands for what you want to do interactively. It also has handy tools for browsing the dataset. It's designed very much with the social scientist in mind, which means that most of the things you learn econometrics map directly to some command in Stata. 
 
