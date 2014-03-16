@@ -1,0 +1,81 @@
+<html> 
+  <head> 
+    <title>First party apps</title> 
+    <link href="style.css" rel="stylesheet" type="text/css">
+  </head> 
+
+   <body> 
+
+   <div id="landing">
+    <h1>CS42 project: Introducing First party apps</h1>
+     <h2>What's a first party app?</h2>
+     <p>
+     A "first party app" gets data directly from an online platform without going through third-party servers.
+     For example, if you are a Facebook user, you are Facebook's first party. You may want the 
+     ability to manipulate, understand, and use your Facebook data in ways that satisfy your needs, and 
+     you deserve to do so without others snooping on you. A first party app would allow you to utilize 
+     the API of the platform without data going to a third party.
+     <p>
+     My CS42 project evaluates the feasibility and usefulness of first party apps as a tool to help users 
+     access and use their data.
+     As shown below, I've written two first party Facebook apps that run entirely in the browser: 
+     one helps you see how active your friends are on Facebook, 
+     another helps you sift through all your photos from Facebook. 
+     In these apps, data is directly downloaded into your browser from Facebook, so none of your data will 
+     go through my server. 
+
+     <h2>Thoughts and progress so far</h2>
+     <p>Coding purely in Javascript is a new experience for me. There were quite a few surprises along the way. 
+     Nonetheless, I was able to code up basic versions of the apps that I envisioned.
+
+     <p>As I expected, the Facebook API has caused some trouble due to their limits on how much data can be looked up. 
+     For example, an external party is allowed to read only 600 friends' Facebook walls every 10 minutes. 
+     Furthermore, it appears that the Facebook API is frequently in flux, making it difficult to keep up
+     with latest changes. 
+    
+     <p>One problem with client-side computing that arose is the browser limit on concurrent cross-domain connections, 
+     which caused the data to be downloaded much slower than a native app. 
+     Switching to Facebook's batch API, which handles up to 50 queries per request, helped alleviate this problem.
+ 
+     <p>An even more troublesome barrier to having first-party applications work in the browser
+     is the same origin policy. The same origin policy prevents a document or script loaded from 
+     one origin from getting or setting properties of a document from another origin. In particular, 
+     this policy makes it impossible for me to provide a first party script that downloads files, e.g. images, from 
+     another domain, unless the site gives permission for you to do so.
+     This policy has caused endless headaches when trying to manipulate Facebook photos within the browser. 
+     It may have been meant to offer better security, 
+     but it appears to also be helping data giants keep data within their walls. 
+     (I still have not yet found a satisfactory solution to this problem.) 
+
+     <p>Despite the above bottlenecks, I believe that first party apps 
+     have potential to increase data accessibility without sacrificing privacy in the future.
+     The reasons are twofold. First, the infrastructure for client-side computation is improving. 
+     Browsers increasingly support expressive interaction with local systems, 
+     which allow for better handling of large datasets.
+     Visualization libraries in Javascript are improving rapidly.
+     Second, the same origin policy seems to be leakier for some datatypes. 
+     While we may not easily manipulate cross-domain image data in the foreseeable future, 
+     the manipuation of other types of data -- in particular text-based data -- seem to be working well. 
+
+     <p>As demonstrated by the apps below, I was able to manipulate a meaningful chunk of Facebook data 
+     even within the constraints mentioned above. I fully intend to continue working on these apps in the future. 
+
+     <h2>Demos</h2>
+     <ul>
+     <li><a href="/unfriendio.html">Unfriendio</a> 
+        is a first party app that helps you find Facebook friends who are no longer active 
+        by measuring how long has passed since they last updated their profile or walls.
+     <li><a href="/photo.html">PhotoFetcher</a> 
+        is a first party app that fetches as many of your Facebook photos as it can, 
+        and will do something more interesting when I have time to code it up. 
+     </ul>   
+
+     <h2>Contact</h2>
+      <p>My name is Michael Wong. Why not email me at berlin.wong@gmail or follow me on twitter @mbwong?
+
+   </div>
+
+   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+   </body> 
+  </html>
+

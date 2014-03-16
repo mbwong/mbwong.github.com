@@ -1,0 +1,61 @@
+<html> 
+  <head> 
+    <title>Third-party-less Facebook apps</title> 
+    <link href="style.css" rel="stylesheet" type="text/css">
+  </head> 
+
+   <body> 
+
+   <div id="fb-root"></div>
+   <div id="landing">
+     <h1>PhotoFetcher</h1>
+     <p>PhotoFetcher fetches as many of your Facebook photos as it can, 
+        and will do something more interesting when I have time to code it up. </p>
+     <div id="photofetcher" class="button">Launch PhotoFetcher</div>
+     <p>You will be prompted to login through Facebook. 
+     <h2>What's the privacy policy?</h2>
+     <p>Unfriendio is a <a href="/">first party app</a>. This means that your data will never 
+        pass through my servers. So don't worry: I will never process or look at your data. 
+        Your browser will be talking to Facebook directly.
+
+   </div>
+
+   <div id="app" style="display:none">
+     <div id="title">
+       <div id="status"></div>
+       <div id="refresh" class="button"></div>
+       <br style="clear: left;" />
+     </div>
+     <div id="appinfo"></div>
+     <div id="friendsList"></div>
+   </div>
+   <script>
+     window.fbAsyncInit = function() {
+       FB.init({
+         appId      : '352905414753750', // App ID
+         channelUrl : '//scratch.mwong.com/channel.html', // Channel File
+         status     : true, // check login status
+         cookie     : true, // enable cookies to allow the server to access the session
+         xfbml      : true  // parse XFBML
+       });
+
+       // Additional initialization code here
+     };
+
+     // Load the SDK Asynchronously
+     (function(d){
+        var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+        if (d.getElementById(id)) {return;}
+        js = d.createElement('script'); js.id = id; js.async = true;
+        js.src = "//connect.facebook.net/en_US/all.js";
+        ref.parentNode.insertBefore(js, ref);
+      }(document));
+   </script>
+   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+   <script src="jStorage.js"></script>
+   <script src="photo.js"></script> 
+   <script>
+   </script>
+   </body> 
+  </html>
+

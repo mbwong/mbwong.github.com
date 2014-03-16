@@ -1,0 +1,110 @@
+body {
+   background-color: white;
+   font-family:  Helvetica, Lucida Grande, Arial, sans-serif;
+   margin: 0;
+}
+
+/* landing */
+
+#landing {
+  position: relative;
+  width: 800px;
+  border: none;
+  margin: 0px auto;
+}
+
+h1 {
+  text-align: center;
+  margin: 25px;
+  font-size: 36px;
+}
+
+p {
+  line-height: 1.2em;
+}
+
+li {
+  padding: 0 0 .5em 0;
+}
+
+/* app */
+#app {
+  position: relative;
+  width: 800px;
+  border: none;
+  margin: 0px auto;
+}
+
+#refresh,#status,#unfriendio {
+  float: left;
+  margin-top: 33px;
+  position: relative;
+}
+
+#status {
+  text-align: right;
+  width: 550px;
+  margin-top:40px
+}
+
+#refresh, #unfriendio {
+  margin-left: 250px
+}
+
+#app #title {
+  width:800px;
+}
+
+#app h1 {
+  text-align: left;
+  margin: 25px 0 10px 0;
+  width: 250px;
+  float:left;
+}
+
+#app #appinfo {
+  width: 800px;
+}
+
+#app #friendsTable {
+  width: 800px;
+}
+
+.tableHeader {
+  font-weight:bold;
+}
+
+.button{
+  border-radius:3px;
+  border:thin solid;
+  -moz-border-radius: 3px;
+  text-align: center;
+  width: 298px;
+  border-color:#888;
+  padding: .3em 0;
+  background:#eee;
+  background:-webkit-gradient(linear,left bottom,left top,
+    color-stop(50%, #ddd),
+    color-stop(100%, #fff)
+  );
+  background:-moz-linear-gradient(
+    center bottom,
+    #ddd 50%,
+    #fff 100%
+  );
+  cursor:pointer;
+}
+.button:hover {
+  background:#ccc;
+  background:-webkit-gradient(linear,left bottom,left top,
+    color-stop(0%, #aaa),
+    color-stop(100%, #ddd)
+  );
+  background:-moz-linear-gradient(
+    center bottom,
+    #aaa 0%,
+    #ddd 100%
+  );
+}
+
+

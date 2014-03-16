@@ -1,0 +1,60 @@
+<html> 
+  <head> 
+    <title>Third-party-less Facebook apps</title> 
+    <link href="style.css" rel="stylesheet" type="text/css">
+  </head> 
+
+   <body> 
+
+   <div id="fb-root"></div>
+
+   <div id="app">
+     <div id="title">
+       <h1>Unfriendio</h1>
+       <div id="status" style="display:none"></div>
+       <div id="unfriendio" class="button">Launch Unfriendio</div>
+       <div id="refresh" class="button" style="display:none"></div>
+       <br style="clear: left;" />
+     </div>
+     <div id="appinfo">
+     <p>Unfriendio is sifts through data that Facebook 
+        makes available through its API and produces a ranking of how active your friends are. 
+     <p>To begin, click the "Launch Unfriendio" button. You will be prompted to login through Facebook. 
+     <h2>What's the privacy policy?</h2>
+     <p>Unfriendio is a <a href="/">first party app</a>. This means that your data will never 
+        pass through my servers. So don't worry: I will never process or look at your data. 
+        Your browser will be talking to Facebook directly.
+     </div>
+     <div id="friendsList"></div>
+   </div>
+   <script>
+     window.fbAsyncInit = function() {
+       FB.init({
+         appId      : '352905414753750', // App ID
+         channelUrl : '//www.mwong.com/unfriendio/channel.html', // Channel File
+         status     : true, // check login status
+         cookie     : true, // enable cookies to allow the server to access the session
+         xfbml      : true  // parse XFBML
+       });
+
+       // Additional initialization code here
+     };
+
+     // Load the SDK Asynchronously
+     (function(d){
+        var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+        if (d.getElementById(id)) {return;}
+        js = d.createElement('script'); js.id = id; js.async = true;
+        js.src = "//connect.facebook.net/en_US/all.js";
+        ref.parentNode.insertBefore(js, ref);
+      }(document));
+   </script>
+   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+   <script src="jStorage.js"></script>
+   <script src="photo.js"></script> 
+   <script src="unfriendio.js"></script> 
+   <script>
+   </script>
+   </body> 
+  </html>
+
