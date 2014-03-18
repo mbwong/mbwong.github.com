@@ -8,7 +8,7 @@ layout: post
 
 When I started to do social science research, I began to realize how useful my computer science education can be. As [Jesse Shapiro and Matt Gentzkow](http://faculty.chicagobooth.edu/jesse.shapiro/research/CodeAndData.pdf) write:  
 
-> What does it mean to do empirical social science? ... For many of us, most of the time, what it means is writing and debugging code. We write code to clean data, to transform data, to scrape data, and to merge data. We write code to execute statistical analyses, to simulate models, to format results, to produce plots. We stare at, puzzle over, ﬁght with, and curse at code that isn’t working the way we expect it to. We dig through old code trying to ﬁgure out what we were thinking when we wrote it, or why we’re getting a different result from the one we got the week before."
+> What does it mean to do empirical social science? ... For many of us, most of the time, what it means is writing and debugging code. We write code to clean data, to transform data, to scrape data, and to merge data. We write code to execute statistical analyses, to simulate models, to format results, to produce plots. We stare at, puzzle over, ﬁght with, and curse at code that isn’t working the way we expect it to. "
 
 Yes, computers are eating the world and the next guy can program faster than you. So for budding researchers, a pressing question is: Well, how do I get started as a programmer? This blog post will hopefully help you out. 
 
