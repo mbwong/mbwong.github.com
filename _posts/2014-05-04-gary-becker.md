@@ -1,6 +1,6 @@
 --- 
 tags: economics
-title: In Memoriam&59; Gary Becker
+title: In Memoriam&#58; Gary Becker
 layout: post
 
 ---
