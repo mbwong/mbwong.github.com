@@ -7,7 +7,7 @@ layout: post
 
 # In Memoriam: Gary Becker
 
-Gary Becker passed away yesterday. Becker was a big influence in my life--both directly, as I had the chance to interact with him in the past year as I took his famed course on price theory, and indirectly, as he was a dear mentor to my father. Because of my father's love for his teacher, Becker had been a hero and a father figure of sorts for our family since I was young. 
+Gary Becker passed away yesterday. Becker was a big influence in my life--both directly, as I had the chance to interact with him in the past year as I took his famed course on price theory, and indirectly, as he was a dear mentor to my father. Because of my father's love for his teacher, Becker had been a hero and a father figure of sorts for our family since I was little. 
 
 Becker cared deeply about people. Becker's scholarship focused on topics that affected everyday life, including families, education, discrimination, addiction, social interactions, to name just a few. He was incredibly attuned to how people thought and his papers often begin with an puzzle about human behavior. Why are there lines in front of restaurants? Why do people walk across the street to avoid beggars but still give money when asked? Simple questions that led to path-breaking insights. 
 
