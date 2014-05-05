@@ -15,5 +15,5 @@ To Becker economic analysis was a tool to help people. When I introduced myself 
 
 Becker was very active and sharp even just a few months ago, engaging in workshops and giving full length lectures. I had looked forward to attending his lectures on human capital this quarter, but since he had not been feeling well he did not teach as usual for the past few weeks. I did not imagine that he would not be among us so soon. 
 
-After hearing this news of his passing, I listened to a recording that a friend made of his lecture on marriage matching. I also read his interview with John Cassidy in the New Yorker. I could hear exactly how the words he said would have sounded. He left behind much for this world that will no doubt remain helpful for many decades to come.  
+After hearing this news of his passing, I listened to a recording that a friend made of his lecture on marriage matching. I also read his interview with John Cassidy in the New Yorker. I could hear exactly how the transcript would have sounded. He left behind much for this world that will no doubt remain helpful for many decades to come.  
 
