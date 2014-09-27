@@ -1,9 +1,9 @@
-auto: false
+auto: true
 server: false
 server_port: 3000
 pygments: false
 lsi: false
-markdown: maruku
+markdown: kramdown
 
 destination: /srv/www/mbwong/public_html
 
