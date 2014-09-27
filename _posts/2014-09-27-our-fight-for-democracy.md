@@ -1,8 +1,10 @@
 --- 
-tags: hong kong
-title: Our fight for democracy - An open letter to Benny Tai
+tags: hongkong
+title: Our fight for democracy
 layout: post
 ---
+
+## An open letter to Benny Tai
 
 Dear Prof Tai, 
 
