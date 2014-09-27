@@ -1,7 +1,8 @@
 --- 
 tags: hongkong
-title: Our fight for democracy
+title: Our fight for Hong Kong
 layout: post
+
 ---
 
 ## An open letter to Benny Tai
