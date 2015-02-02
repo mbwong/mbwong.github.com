@@ -1,0 +1,31 @@
+--- 
+layout: default
+---
+
+<h2 id="intro"></h2>
+<div class="post">
+
+<h1 id="blog" style="color:#660000; font-family: 'DejaVu Sans Mono', 'Courier New', monospace">Blog</h1>
+<ul style="list-style: none; padding: 0; margin: 0;">
+{% for post in site.posts %}
+  <li>  
+    <span>{{ post.date | date: "%b %d, %Y" }}</span> &nbsp;&nbsp;&raquo;&nbsp;&nbsp;  <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+{% endfor %}
+</ul>
+</div>
+
+<p>If you like my writing, subscribe to <a href="http://feeds.feedburner.com/MichaelBWong">my RSS feed</a>!
+
+<hr>
+
+<h1 id="about" style="color:#660000; font-family: 'DejaVu Sans Mono', 'Courier New', monospace;">About Me</h1>
+
+<p><img src="/mugshot.png"/></p>
+
+<p>I am a Research Professional at the Becker-Friedman Institute at the University of Chicago. I am excited about combining data with economic theory to understand the world. I grew up from Hong Kong. I enjoy biking, tea, music, and Honey Nut Cheerios. Not too long ago I dabbled in management consulting and product development. 
+
+<p>My email is mbwong -at- post.harvard.edu. Please email if you have any comments! 
+
+<hr>
+
