@@ -87,9 +87,10 @@ header, footer, nav, article { display: block; }
 
 header { 
   text-align: left; 
-  padding-left: 125px;
+  padding-left: 100px;
+  padding-bottom: 20px;
   float: left;
-  width: 225px;
+  width: 600px;
 }
 
 header h1 {
@@ -156,7 +157,7 @@ header h1 {
 }
 
 #title a {
-  color: #666;
+  color: #CCC;
 }
 
 #title a:hover {
@@ -169,8 +170,8 @@ header h1 {
 }
 
 #wrapper {
-  margin-left: 350px;
-  width: 550px;
+  margin-left: 100px;
+  width: 600px;
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2)  { 
