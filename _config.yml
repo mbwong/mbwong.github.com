@@ -1,5 +1,5 @@
 port: 3000
-highlighter: false
+highlighter: pygment
 lsi: false
 markdown: kramdown
 
