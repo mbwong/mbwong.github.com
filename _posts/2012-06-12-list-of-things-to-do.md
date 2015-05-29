@@ -1,10 +1,10 @@
 --- 
 tags: school
-title: Bucket List&#58; Harvard undergrads
+title: My Bucket List at Harvard
 layout: post
 ---
 
-# Bucket list&#58; Harvard undergrads
+# My Bucket List at Harvard
 
 After four years in Cambridge, I thought I'd make a list of things that I think a Harvard undergraduate should experienced. Some of these things I've personally enjoyed. Others I've heard are amazing. Anyway, this isn't the official bucket list, which consists merely of sex in Widener, Primal Scream, and pissing on the John Harvard statue. This list is longer, and hopefully will help you find more adventures during your time at Harvard. Good luck!
 
