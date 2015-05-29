@@ -2,6 +2,7 @@
 tags: data internet technology
 title: Data Portability via First Party Apps
 layout: post
+published: false
 ---
 
 # Data Portability via First Party Apps
