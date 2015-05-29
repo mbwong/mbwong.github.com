@@ -1,10 +1,10 @@
 --- 
 tags: career
-title: Finding Mentors
+title: How to Find Mentors
 layout: post
 ---
 
-# Finding Mentors
+# How to Find Mentors
 
 A friend asks me a question:
 
