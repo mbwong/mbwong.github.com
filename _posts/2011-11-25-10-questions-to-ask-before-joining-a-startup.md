@@ -2,10 +2,10 @@
 tags: 
 - life
 - career
-title: Joining a startup 
+title: How to pick a startup 
 layout: post
 ---
-# Joining a startup
+# How to pick a startup
 
 [OnStartups](http://onstartups.com/tabid/3339/bid/122/Joining-A-Startup-Top-6
 -Questions-You-Should-Ask.aspx) has a good post on questions to ask before
