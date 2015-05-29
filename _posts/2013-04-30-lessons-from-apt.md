@@ -1,10 +1,10 @@
 --- 
 tags: career
-title: APT&#58; Lessons learned
+title: Lessons from APT
 layout: post
 ---
 
-# APT: Lessons learned
+# Lessons from APT
 
 1. There is always a simpler or better solution. Someone else probably knows it. It is often surprising who knows things about the things you care about. Don't short change yourself by thinking you can figure it out yourself; ask widely. Don't be afraid that you are wasting the time of other people either. If you ask, people are generally willing to help. 
 2. Make your team's processes as transparent as possible. If you lead an engineering team, set up a good, easy-to-use code repository. Let everyone see everyone else's code. Most likely you're not the only person trying to do something, nor is it the only time you'll have to do it. Sharing knowledge will lead to huge efficiency gains. 
