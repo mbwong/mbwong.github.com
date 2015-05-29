@@ -1,9 +1,9 @@
 --- 
 tags: data
-title: The Greatest Good&#58; Lessons learned
+title: Lessons from The Greatest Good
 layout: post
 ---
-# The Greatest Good: Lessons learned
+# Lessons from The Greatest Good
 
 I spent my past summer at [the Greatest Good](http://greatestgood.com/), a
 consulting boutique headed by Steve Levitt and other Chicago economists. I got
