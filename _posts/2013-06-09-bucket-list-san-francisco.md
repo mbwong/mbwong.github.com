@@ -1,10 +1,10 @@
 --- 
 tags: life personal
-title: Bucket list&#58; San Francisco
+title: Things to do in San Francisco
 layout: post
 ---
 
-#Bucket list for San Francisco
+#Things to do in San Francisco
 
 I have been missing SF very much since my move to Chicago. Here's a list of things I came to love while I was there. Perhaps you will find them useful. 
 
