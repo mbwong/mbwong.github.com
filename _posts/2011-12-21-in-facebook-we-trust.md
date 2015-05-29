@@ -2,6 +2,7 @@
 tags: data society internet
 title: Are “frictionless” signals useless? 
 layout: post
+published: false
 ---
 # Are “frictionless” signals useless? 
 
