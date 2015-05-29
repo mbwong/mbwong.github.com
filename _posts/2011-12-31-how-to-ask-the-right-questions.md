@@ -2,7 +2,9 @@
 tags: life career
 title: Asking good questions
 layout: post
+published: false
 ---
+
 # Asking good questions
 
 In the workplace, one of the most useful skills to possess is the ability to
