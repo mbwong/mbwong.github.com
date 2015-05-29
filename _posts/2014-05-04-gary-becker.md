@@ -5,7 +5,7 @@ layout: post
 
 ---
 
-# In Memoriam: Gary Becker
+# Gary Becker
 
 Prof. Gary Becker passed away yesterday. Prof. Becker was a big influence in my life--both directly, as I had the chance to interact with him in the past year as I took his famed course on price theory, and indirectly, as he was a dear mentor to my father. Because of my father's love for his teacher, Prof. Becker had been a hero and a father figure of sorts for our family since I was little. 
 
