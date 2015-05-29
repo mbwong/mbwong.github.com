@@ -2,6 +2,7 @@
 tags: career consulting
 title: A Rant about Case in Point
 layout: post
+published: false
 ---
 
 # A Rant about Case in Point
