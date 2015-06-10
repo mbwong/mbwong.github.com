@@ -2,7 +2,7 @@
 tags: school
 title: Programming for economists
 layout: post
-published: none
+published: false
 ---
 
 # Programming for economists
