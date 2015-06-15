@@ -18,7 +18,7 @@ My journal entries from half a year ago show that I was unhappy. I clearly felt 
 
 Leaving Chicago took a long few months. From the end of March until mid May, I had to visit schools, put together my life plans, wrap up my job, say goodbye to friends, and pack up all of my stuff. I got into all the top economics programs, but somehow that did not afford me much joy. Instead, leaving Chicago overwhelmed me in a way that leaving SF did not at all. Before I left SF, I planned fun trips around SF and did my best to enjoy my time left. But when I left Chicago I almost never took the time to relax or enjoy. Whenever I did, I'd feel a bang of guilt for not working to tidy up any loose ends. I was nearing burn out. For those two months I constantly felt like I was barreling towards a personal crisis. 
 
-Eventually I arrived in Beijing exhausted. I was all alone, finally, in a stranger's apartment. Having shed almost all of my belongings, I was feeling a little light on my feet. But I was also not entirely sure what had happened in the past few months. I felt like I had a lot to figure out. 
+Eventually I arrived in Beijing, exhausted. I was all alone, finally, in a stranger's apartment. Having shed almost all of my belongings, I was feeling a little light on my feet. But I was also not entirely sure what had happened in the past few months. I felt like I had a lot to figure out. I was glad to have the opportunity to reflect and rebuild. 
 
 ------
 
