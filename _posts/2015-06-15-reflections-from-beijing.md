@@ -1,0 +1,38 @@
+--- 
+tags: life
+title: Reflections from Beijing
+layout: post
+---
+
+#Reflections from Beijing
+
+When I first moved to Chicago, my mother worried that in choosing an academic life, I would grow insulated and solitary. Dismissing her concerns, I told her I was ecstatic to come to the University of Chicago for this job. And I told her that she didn't have to worry about me: I had plenty of friends and knew how to maintain a balanced life. But perhaps I had dismissed my mother's warning too handily. 
+
+I arrived at Chicago for what turned out to be a dream job. Even though my father is an economist, I had not properly studied the subject before. Much of it was really new to me. Sitting lectures, I found myself suddenly understanding things that I never even thought about before and seeing the world wholly anew. Eager to learn I'd in drop in on seminars and classes between working on research tasks. I read textbooks and browsed syllabi in search of more. I was a kid in a candy store, surrounded by new knowledge to take in. I loved, loved my job a research assistant. I was happy to be totally absorbed. 
+
+Thinking back after two years, I now realize that this obsession came at a cost. When I left San Francisco, I left a job that I did not love. But I was the healthiest I had been in many years. I ate well. I regularly exercised. I biked each day. I was enmeshed in a web of loving friendships. After I moved, I loved my job. But I took less care to eat healthily. I exercised only occasionally. I had opportunities to build up and serve a close community of friends, but often neglected to. 
+
+Aiming to get into the best school I could, I first focused on coursework and then on independent research projects. I began to withdraw from social events and other aspects of life. I saw my extended family less and less. I felt less and less desire to travel and explore. I wrote infrequently on this blog, too. I often felt guilty for leaving work unattended, and I also began to increasingly depend on academic achievements for satisfaction. My initial excitement over ideas slowly morphed into a more prideful and painful desire for advancement. Increasingly I desired not merely intellectual satisfaction, but professional affirmation. I felt a need to know that I was worthy; my passion for learning became tainted with a more selfish desire for status. 
+
+My journal entries from half a year ago show that I was unhappy. I clearly felt that I was losing my relaxed and gregarious self. I became over taken by a sense of frustration from any research setback, even though I knew setbacks were healthy. I felt increasing isolated socially. Self-doubt and anxieties simmered beneath despite outward success. My schedule grew increasingly topsy turvy. I knew something was off. I did not like who I was becoming. But I also did not quite know why nor how to shift gears. I kept on making research goals and trying to meet them. Perhaps I imagined that if I could achieve some success, then I would feel better. 
+
+------
+
+Leaving Chicago took a long few months. From the end of March until mid May, I had to visit schools, put together my life plans, wrap up my job, and pack up all of my stuff. Somehow I was utterly overwhelmed in a way that I was not at all when I left SF for Chicago. I never took the time to relax or rebuild, and I was nearly burned out toward the end of my time in Chicago. For those two months I constantly felt like I was barreling towards a personal crisis. 
+
+Eventually I arrived in Beijing exhausted but having shed most of my belongings. I was all alone, finally, in a stranger's apartment. Having left almost all of my belongings behind, I was feeling a little light on my feet. But I was also not entirely sure what had happened in the past few months, so I also felt like I had a lot to figure out. 
+
+Beijing brought back many memories. I was only ten when I first visited with my mandarin tutor. Then Beijing was all dirt and bicycles. Roads and buildings were way underdeveloped, and I had never seen anything like this large, dilapidated capital. We flew kites in Tiananmen Square. We rode a taxi to visit the Great Wall. We ate dumplings and strolled down Wangfujing, back then no more than a busy street with lots of shops and stalls. Overall the place felt backwards and historical. Toilets were filthy and the heat was oppressive. My memory of the trip is patchy, but I do distinctly remember that by the end I was quite glad to come home. 
+
+My second visit happened seven years later. By then I had finished three years of boarding school in the US, and was nearing college age. I was here with my best friend from middle school, Plato, who unlike me had remained in Hong Kong. Despite separation, we managed to stay closest of friends, and reunion in Beijing was sweet as hell. For the first time in our lives, we were wholly unsupervised by adults and together we explored without a care in the world. Each morning I attended Chinese language and culture courses at Peking University, and Plato visited a violin teacher downtown. And then we'd spend the rest of the day roaming the streets of the vast historical city. A few times I sat on the back of his bicycle while we whizzed from one neighborhood to another. One night we drunk 二锅头 (a nasty Chinese liquor) after eating dirty popcorn from street vendors, and were so boisterous that we got yelled at by a security guard. Another night we danced wildly at a dance club and got kicked out. I even had a very brief fling that started on the steppes of Inner Mongolia. Unlike my first visit, Beijing now had hints of modernization. It was only a year before the 2008 Olympics, and there was construction everywhere. The city was abuzz with a youthful energy -- still yet not confident, but eager and optimistic. 
+
+And now, another eight years later, is my third visit. Some things have changed. Beijing's subway network has grown from three lines to over fifteen. What used to be a sketchy bar area, Houhai, has commercialized and is now filled with tourist traps. Another sketchy bar area, Sanlitun, has thoroughly modernized and now boasts large outdoor malls and an Apple store. Most of the food around town remains cheap and salty and greasy and carb-heavy, but organic farmer's markets have now popped up and coffee shops litter the city. Pavements are still dusty but some toilets are now remarkably clean. The streets remain chaotic as ever, but are now filled with Uber cars and fewer bicycles. There is no question that Beijing is growing up to become a thriving modern city. 
+
+I biked around Peking U the other day, revisiting some old haunts. The campus buildings have largely remained the same. What has totally changed, though, is my own frame of mind. Wandering through those familiar alleys, I recalled a bliss and innocence eight years ago that I have somehow lost in the past two years. I recalled a bounce in my step that I don't as often feel now as I used to. Back then there was a feeling of two people against the world. A sense of adventure and a sense of home, too. Now something has gone missing. But what is it? 
+
+------
+
+I have chosen the academic life, and the rat race begins now. On paper my next ten to fifteen years is a mad dash for me to prove myself to the profession. First the coursework, then the dissertation, then the job market, then the tenure commitment. But I know now from experience that the challenge for me today is not merely how to succeed, but how to lead a happy life even while working towards career advancement. I am still struggling to learn how to do this. 
+
+In my last month in Chicago, I read David Brooks's new book, The Road to Character. 
+
