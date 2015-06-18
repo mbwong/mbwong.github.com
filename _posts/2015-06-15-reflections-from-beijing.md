@@ -10,7 +10,7 @@ Even though my father is an economist, I had not properly studied the subject be
 
 My father was delighted that I had chosen the academic life. But my mother worried that I would grow insulated and solitary. Dismissing her concerns, I told her that she had nothing to worry about: I had plenty of friends and knew how to maintain a balanced life. I had found a passion that I had to follow. 
 
-And the research assistantship I took turned out to be a dream job. I described some of that my joy here when I first arrived. I was intellectually challenged and constantly excited. I was a kid in a candy store, surrounded by new knowledge to take in. I loved, loved my newfound passion. I was happy to be totally absorbed.
+The research assistantship I took turned out to be a dream job. I described some of that my joy here when I first arrived. I was intellectually challenged and constantly excited. I was a kid in a candy store, surrounded by new knowledge to take in. I loved, loved my newfound passion. I was happy to be totally absorbed.
 
 Thinking back, though, I now realize that my enthusiasm did come at a cost. When I left San Francisco, I left a job that I did not love. But I was the healthiest I had been in many years. I ate well. I regularly exercised. I biked each day. I built and was enmeshed in a web of loving friendships. After I moved, I loved my job. But I took less care to eat healthily. I exercised only occasionally. I had opportunities to build up and serve a close community of friends, but often neglected to. 
 
