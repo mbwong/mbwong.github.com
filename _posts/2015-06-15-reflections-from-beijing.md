@@ -6,7 +6,7 @@ layout: post
 
 #Reflections from Beijing
 
-Even though my father is an economist, I had not properly studied the subject before I arrived in Chicago two years ago to be a research assistant to two economics professors. Much of economics was really new to me. I sat in lectures and found myself suddenly understanding things that I never even thought about before and seeing the world wholly anew. Eager to learn I’d in drop in on seminars and classes between working on research tasks. I read textbooks and browsed syllabi in search of more things to learn.
+Even though my father is an economist, I had not properly studied the subject before I arrived in Chicago two years ago to be an economics research assistant. Much of economics was really new to me. I sat in lectures and found myself suddenly understanding things that I never even thought about before and seeing the world wholly anew. Eager to learn I’d in drop in on seminars and classes between working on research tasks. I read textbooks and browsed syllabi in search of more things to learn.
 
 My father was delighted that I had chosen the academic life. But my mother worried that I would grow insulated and solitary. Dismissing her concerns, I told her that she had nothing to worry about: I had plenty of friends and knew how to maintain a balanced life. I had found a passion that I had to follow.
 
