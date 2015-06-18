@@ -18,7 +18,7 @@ I was fine with the tradeoff because I came to Chicago for a job, and I thought 
 
 ------
 
-Eager to get my research career started and determined to get into a good graduate program, I focused intently on my independent research projects in the past year or so. I saw my extended family less and less. I felt less and less desire to travel and explore. I wrote infrequently on this blog, too. Many academics glorify the unbalanced life dedicated solely to intellectual pursuit, and I became increasingly unbalanced. 
+Eager to get my research career started and determined to get into a good graduate program, I focused intently on my independent research projects in the past year or so. I saw my extended family less and less. I felt less and less desire to travel and explore. I wrote infrequently on this blog, too. Many academics glorify the life dedicated solely to intellectual pursuit, and I became increasingly unbalanced. 
 
 My journal entries from half a year ago show that I was unhappy. I clearly felt that I was losing my relaxed and gregarious self, and I did not like who I was becoming. I was often frustrated from research setbacks, even though I knew setbacks were healthy. Self-doubt and anxieties simmered beneath despite outward success.
 
