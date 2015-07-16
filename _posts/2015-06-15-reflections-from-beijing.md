@@ -16,9 +16,7 @@ Thinking back, though, I now realize that my enthusiasm came at a cost. When I l
 
 I was fine with the tradeoff because I came to Chicago for a job, and I thought of Chicago as only a temporary stop in my journey. What I didn't expect is that, because I lost focus on being the best "whole" person I could be, my initial excitement over my newfound profession would slowly morph into a more prideful and painful desire for advancement.
 
-------
-
-Eager to get my research career started and determined to get into a good graduate program, I focused intently on my independent research projects in the past year or so. I saw my extended family less and less. I felt less and less desire to travel and explore. I wrote infrequently on this blog, too. Many academics glorify the life dedicated solely to intellectual pursuit, and I became increasingly unbalanced. 
+Eager to get my research career started and determined to get into a good graduate program in the past two years, I focused intently on my independent research projects. I saw my extended family less and less. I felt less and less desire to travel and explore. I wrote infrequently on this blog, too. Many academics glorify the life dedicated solely to intellectual pursuit, and I became increasingly unbalanced. 
 
 My journal entries from half a year ago show that I was unhappy. I clearly felt that I was losing my relaxed and gregarious self, and I did not like who I was becoming. I was often frustrated from research setbacks, even though I knew setbacks were healthy. Self-doubt and anxieties simmered beneath despite outward success.
 
@@ -48,4 +46,4 @@ I have chosen the academic life, and the rat race has begun. On paper my next te
 
 Reading Brooks's book was a wake-up call to me. Brooks sees the good life not as a life of advancement, but as a life of commitment making and devotion. He writes about a steadiness and humility that these great people have achieved in their lives. These people have learned to quiet the self. And they have developed a sort of unstirrable calm that others may depend on. This road to character was not the road that I have been traversing. I had been focused, wholly focused, on the road to achievement.
 
-Recent experiences have made me more acutely aware of the sinful nature we share, the need for us to sink deeper into ourselves, and to surrender to traditions larger than us in order to mitigate our self-centered and prideful tendencies. They have made me understand why our traditions call for abstinence, self-control, and discipline to curb our selfish excesses, even as we concurrently cultivate our tendencies to also be loving and fun. It is too easy to forget what is important in life, that we must be good to ourselves and to each other. I don’t want to forget again. 
+Recent experiences have made me more acutely aware of the sinful nature we share, the need for us to sink deeper into ourselves, and to surrender to traditions larger than us in order to mitigate our self-centered and prideful tendencies. These experiences have helped me understand why our traditions call for abstinence, self-control, and discipline to curb our selfish excesses, even as we must also nurture our loving and fun selves. It is too easy to forget what is important in life, that we must be good to ourselves and to each other. I don’t want to forget again. 
