@@ -10,7 +10,9 @@ When I first moved to the US, Hugh Koeze made five records for me that became my
 
 --------
  
-The Beatles - I've Just Seen A Face. Now, yes, we must begin with the most classic band of all time, the Beatles, about whom tomes have been written. They were not simply a pop culture phenomenon; they are also really good musicians. Give them a proper listen and you might find polyrhythm, surprising key changes, exotic instrumentation, sweetness, and urgency in their music. Among their many albums Rubber Soul is my favorite. Unfortunately Spotify does not have Beatles songs yet, so here's a [Youtube link][beatles] instead. 
+The Beatles - I've Just Seen A Face (1965): Now, yes, we must begin with the most classic band of all time, the Beatles, about whom tomes have been written. They were not simply a pop culture phenomenon; they are also really good musicians. Give them a proper listen and you might find polyrhythm, surprising key changes, exotic instrumentation, sweetness, and urgency in their music. Among their many albums Rubber Soul is my favorite. Unfortunately Spotify does not have Beatles songs yet, so here's a [Youtube link][beatles] instead. 
+
+[beatles]: https://www.youtube.com/watch?v=SbKGsEK_T9g
 
 The Beach Boys - God Only Knows (1966): Now, this was the other boy band that drove Baby Boomers completely nuts. The Beach Boys created beautiful sounds, sounds you will hear in shopping malls come Christmas every year, as now suburbanized Baby Boomers shop around for gifts for their kids and imagine their own happy childhoods. Those imagined childhood must be pretty darn perfect. 
 
