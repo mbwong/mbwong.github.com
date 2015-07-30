@@ -2,7 +2,6 @@
 tags: personal
 title: Pop Music 101
 layout: post
-published: false
 ---
 
 # Pop Music 101
