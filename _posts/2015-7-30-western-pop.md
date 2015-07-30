@@ -9,7 +9,9 @@ published: false
 
 When I first moved to the US, Hugh Koeze made five records for me that became my starting point for learning about American pop music. Now it is my turn to pass on the gift with my own highly idiosyncratic playlist. Here is a [Spotify playlist][spotify]  that I recently recommended to few Chinese friends and some (probably embarrassing) words I wrote as an introduction. 
 
-[spotify]: 
+[spotify]: https://open.spotify.com/user/mwongus/playlist/4E1xPWyNr4nTEqsZRq2n0M
+
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Amwongus%3Aplaylist%3A4E1xPWyNr4nTEqsZRq2n0M" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
 
 --------
  
